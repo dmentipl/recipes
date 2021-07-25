@@ -1,0 +1,17 @@
+# Cauliflower puree
+
+## Metadata
+
+- **Labels**:: Side, Vegetables
+- **Source**:: <https://www.goodfood.com.au/recipes/cauliflower-puree-20130715-2pzkp>
+
+## Ingredients
+
+- 1 medium cauliflower head
+- 50g butter
+- 185ml thickened cream
+
+## Instructions
+
+1. Chop cauliflower florets off central stalk, discard stalk then slice florets finely. Heat butter and cream in a heavy-based pot, add cauliflower, mix well and cover with a lid. Simmer for about 35 minutes or until soft.
+2. Puree until smooth and check seasoning. Store with baking paper on top to stop a skin forming.
