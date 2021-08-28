@@ -5,7 +5,7 @@
 - **Labels**:: Fish
 - **Servings**:: 4
 - **Author**:: Donna Hay
-- **Source**:: https://www.donnahay.com.au/recipes/lunch/salmon-dill-and-potato-cakes
+- **Source**:: <https://www.donnahay.com.au/recipes/lunch/salmon-dill-and-potato-cakes>
 
 ## Ingredients
 
