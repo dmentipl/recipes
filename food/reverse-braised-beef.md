@@ -3,7 +3,7 @@
 ## Metadata
 
 - **Labels**:: Beef
-- **Region**:: European
+- **Region**:: Europe
 - **Servings**:: 6
 - **Author**:: Adam Ragusea
 - **Source**:: <https://www.youtube.com/watch?v=ioGbDtIyq-Q>
