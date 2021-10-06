@@ -1,6 +1,6 @@
 # Fish potato cakes
 
-*tags*: [#fish](../tags/fish)
+*tags*: [#fish](../tags/fish.md)
 
 ## Ingredients
 

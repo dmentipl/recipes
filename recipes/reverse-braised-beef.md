@@ -1,6 +1,6 @@
 # Reverse braised beef
 
-*tags*: [#beef](../tags/beef)
+*tags*: [#beef](../tags/beef.md)
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Spanakopita
 
-*tags*: [#cheese](../tags/cheese), [#eggs](../tags/eggs), [#greece](../tags/greece)
+*tags*: [#cheese](../tags/cheese.md), [#eggs](../tags/eggs.md), [#greece](../tags/greece.md)
 
 ## Ingredients
 

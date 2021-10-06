@@ -1,6 +1,6 @@
 # Halal-cart chicken rice
 
-*tags*: [#chicken](../tags/chicken), [#middle-east](../tags/middle-east), [#rice](../tags/rice)
+*tags*: [#chicken](../tags/chicken.md), [#middle-east](../tags/middle-east.md), [#rice](../tags/rice.md)
 
 ## Ingredients
 

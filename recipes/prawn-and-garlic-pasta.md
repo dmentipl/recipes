@@ -1,6 +1,6 @@
 # Prawn and garlic pasta
 
-*tags*: [#italy](../tags/italy), [#pasta](../tags/pasta), [#seafood](../tags/seafood)
+*tags*: [#italy](../tags/italy.md), [#pasta](../tags/pasta.md), [#seafood](../tags/seafood.md)
 
 ## Ingredients
 

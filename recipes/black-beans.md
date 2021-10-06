@@ -1,6 +1,6 @@
 # Black beans
 
-*tags*: [#legumes](../tags/legumes), [#mexico](../tags/mexico)
+*tags*: [#legumes](../tags/legumes.md), [#mexico](../tags/mexico.md)
 
 ## Ingredients
 
