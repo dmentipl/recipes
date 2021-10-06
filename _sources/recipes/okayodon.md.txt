@@ -1,6 +1,6 @@
 # Okayodon
 
-*tags*: [#chicken](../tags/chicken), [#egg](../tags/egg), [#japan](../tags/japan), [#rice](../tags/rice)
+*tags*: [#chicken](../tags/chicken), [#eggs](../tags/eggs), [#japan](../tags/japan), [#rice](../tags/rice)
 
 ## Ingredients
 
