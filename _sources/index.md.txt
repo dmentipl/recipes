@@ -1,21 +1,21 @@
 # Recipes
 
-## Food
+## Recipes
 
 ```{toctree}
 ---
 maxdepth: 1
 glob:
 ---
-food/*
+recipes/*
 ```
 
-## Drink
+## Tags
 
 ```{toctree}
 ---
 maxdepth: 1
 glob:
 ---
-drink/*
+tags/*
 ```
