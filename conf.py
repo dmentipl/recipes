@@ -45,7 +45,7 @@ exclude_patterns = ["README.md", "_build", "Thumbs.db", ".DS_Store"]
 html_theme = "alabaster"
 
 html_theme_options = {
-    "description": "Food and drink recipes.",
+    "description": "Food recipes.",
     "fixed_sidebar": True,
 }
 
