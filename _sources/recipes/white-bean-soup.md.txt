@@ -1,6 +1,6 @@
 # White bean soup
 
-*tags*: [#italy](../tags/italy), [#soup](../tags/soup), [#vegetarian](../tags/vegetarian)
+*tags*: [#italy](../tags/italy.md), [#soup](../tags/soup.md), [#vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

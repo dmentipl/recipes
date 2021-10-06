@@ -1,6 +1,6 @@
 # Rich sugar syrup
 
-*tags*: [#component](../tags/component)
+*tags*: [#component](../tags/component.md)
 
 ## Ingredients
 

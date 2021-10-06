@@ -1,6 +1,6 @@
 # Pea and ham soup
 
-*tags*: [#legumes](../tags/legumes), [#pork](../tags/pork), [#soup](../tags/soup)
+*tags*: [#legumes](../tags/legumes.md), [#pork](../tags/pork.md), [#soup](../tags/soup.md)
 
 ## Ingredients
 

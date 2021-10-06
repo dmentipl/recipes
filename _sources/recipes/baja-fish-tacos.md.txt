@@ -1,6 +1,6 @@
 # Baja fish tacos
 
-*tags*: [#fish](../tags/fish), [#mexico](../tags/mexico)
+*tags*: [#fish](../tags/fish.md), [#mexico](../tags/mexico.md)
 
 ## Ingredients
 

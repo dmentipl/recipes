@@ -1,6 +1,6 @@
 # Chicken with cardamom rice
 
-*tags*: [#chicken](../tags/chicken), [#rice](../tags/rice)
+*tags*: [#chicken](../tags/chicken.md), [#rice](../tags/rice.md)
 
 ## Ingredients
 
