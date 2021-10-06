@@ -1,6 +1,6 @@
 # Halal-cart chicken rice
 
-*tags*: [#chicken](../tags/chicken.md), [#middle-east](../tags/middle-east.md), [#rice](../tags/rice.md)
+*ingredients*: [#chicken](../ingredients/chicken.md), [#rice](../ingredients/rice.md) | *tags*: [#middle-east](../tags/middle-east.md)
 
 ## Ingredients
 
@@ -56,4 +56,4 @@
 
 ---
 
-Derived from [J. Kenji López-Alt](https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe).
+Recipe derived from [J. Kenji López-Alt](https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe).

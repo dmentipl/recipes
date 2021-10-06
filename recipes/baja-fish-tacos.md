@@ -1,6 +1,6 @@
 # Baja fish tacos
 
-*tags*: [#fish](../tags/fish.md), [#mexico](../tags/mexico.md)
+*ingredients*: [#fish](../ingredients/fish.md) | *tags*: [#mexico](../tags/mexico.md)
 
 ## Ingredients
 
@@ -49,4 +49,4 @@
 
 ---
 
-Derived from [Jenn Segal](https://www.onceuponachef.com/recipes/baja-fish-tacos.html).
+Recipe derived from [Jenn Segal](https://www.onceuponachef.com/recipes/baja-fish-tacos.html).

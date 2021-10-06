@@ -1,7 +1,6 @@
 # Chickpea coconut curry
 
-*tags*: [#curry](../tags/curry.md), [#india](../tags/india.md), [#vegetarian](../tags/vegetarian.md), [#vegan](../tags/vegan.md)
-
+*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#curry](../tags/curry.md), [#india](../tags/india.md), [#vegetarian](../tags/vegetarian.md), [#vegan](../tags/vegan.md)
 
 ## Ingredients
 
@@ -31,4 +30,4 @@
 
 ---
 
-Derived from [Alison Roman](https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric).
+Recipe derived from [Alison Roman](https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric).

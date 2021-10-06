@@ -1,6 +1,6 @@
 # Fish potato cakes
 
-*tags*: [#fish](../tags/fish.md)
+*ingredients*: [#fish](../ingredients/fish.md)
 
 ## Ingredients
 
@@ -25,4 +25,4 @@
 
 ---
 
-Derived from [Donna Hay](https://www.donnahay.com.au/recipes/lunch/salmon-dill-and-potato-cakes).
+Recipe derived from [Donna Hay](https://www.donnahay.com.au/recipes/lunch/salmon-dill-and-potato-cakes).

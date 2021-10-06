@@ -1,6 +1,6 @@
 # Black bean burgers
 
-*tags*: [#burgers](../tags/burgers.md), [#legumes](../tags/legumes.md)
+*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#burgers](../tags/burgers.md)
 
 ## Ingredients
 
@@ -33,4 +33,4 @@
 
 ---
 
-Derived from [J. Kenji López-Alt](https://www.seriouseats.com/the-best-black-bean-burger-recipe).
+Recipe derived from [J. Kenji López-Alt](https://www.seriouseats.com/the-best-black-bean-burger-recipe).

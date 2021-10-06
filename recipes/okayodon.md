@@ -1,6 +1,6 @@
 # Okayodon
 
-*tags*: [#chicken](../tags/chicken.md), [#eggs](../tags/eggs.md), [#japan](../tags/japan.md), [#rice](../tags/rice.md)
+*ingredients*: [#chicken](../ingredients/chicken.md), [#eggs](../ingredients/eggs.md), [#rice](../ingredients/rice.md) | *tags*: [#japan](../tags/japan.md)
 
 ## Ingredients
 
@@ -37,4 +37,4 @@
 
 ---
 
-Derived from [Namiko Hirasawa Chen](https://www.justonecookbook.com/oyakodon/).
+Recipe derived from [Namiko Hirasawa Chen](https://www.justonecookbook.com/oyakodon/).

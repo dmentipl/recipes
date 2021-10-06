@@ -1,6 +1,6 @@
 # Seafood spaghetti marinara
 
-*tags*: [#italy](../tags/italy.md), [#pasta](../tags/pasta.md), [#seafood](../tags/seafood.md)
+*ingredients*: [#pasta](../ingredients/pasta.md), [#seafood](../ingredients/seafood.md) | *tags*: [#italy](../tags/italy.md)
 
 ## Ingredients
 
@@ -27,4 +27,4 @@
 
 ---
 
-Derived from [Nagi (RecipeTin Eats)](https://www.recipetineats.com/seafood-spaghetti-marinara/).
+Recipe derived from [Nagi (RecipeTin Eats)](https://www.recipetineats.com/seafood-spaghetti-marinara/).

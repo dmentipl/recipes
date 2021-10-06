@@ -1,6 +1,6 @@
 # Channa masala
 
-*tags*: [#legumes](../tags/legumes.md), [#india](../tags/india.md)
+*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#india](../tags/india.md)
 
 ## Ingredients
 
@@ -32,4 +32,4 @@
 
 ---
 
-Derived from [J. Kenji López-Alt](https://www.seriouseats.com/channa-masala-recipe).
+Recipe derived from [J. Kenji López-Alt](https://www.seriouseats.com/channa-masala-recipe).

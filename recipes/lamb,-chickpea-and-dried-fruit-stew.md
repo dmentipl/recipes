@@ -1,6 +1,6 @@
-# Lamb stew (Middle Eastern)
+# Lamb, chickpea and dried fruit stew
 
-*tags*: [#lamb](../tags/lamb.md), [#legumes](../tags/legumes.md), [#middle-east](../tags/middle-east.md), [#stew](../tags/stew.md)
+*ingredients*: [#lamb](../ingredients/lamb.md), [#legumes](../ingredients/legumes.md) | *tags*: [#middle-east](../tags/middle-east.md), [#stew](../tags/stew.md)
 
 ## Ingredients
 
@@ -36,4 +36,4 @@
 
 ---
 
-Derived from [Sylvia Fountaine](https://www.feastingathome.com/instant-pot-middle-eastern-lamb-stew/).
+Recipe derived from [Sylvia Fountaine](https://www.feastingathome.com/instant-pot-middle-eastern-lamb-stew/).

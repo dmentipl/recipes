@@ -1,6 +1,6 @@
 # Vietnamese grilled pork or chicken (thịt nướng)
 
-*tags*: [#chicken](../tags/chicken.md), [#grilling](../tags/grilling.md), [#pork](../tags/pork.md), [#vietnam](../tags/vietnam.md)
+*ingredients*: [#chicken](../ingredients/chicken.md), [#pork](../ingredients/pork.md) | *tags*: [#grilling](../tags/grilling.md), [#vietnam](../tags/vietnam.md)
 
 ## Ingredients
 
@@ -31,4 +31,4 @@
 
 ---
 
-Derived from [Cathy Chaplin](https://gastronomyblog.com/2011/06/27/thit-nuong-vietnamese-grilled-pork/).
+Recipe derived from [Cathy Chaplin](https://gastronomyblog.com/2011/06/27/thit-nuong-vietnamese-grilled-pork/).

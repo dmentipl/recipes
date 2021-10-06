@@ -1,6 +1,6 @@
 # Mapo tofu (Japanese-style)
 
-*tags*: [#beef](../tags/beef.md), [#japan](../tags/japan.md), [#pork](../tags/pork.md), [#tofu](../tags/tofu.md)
+*ingredients*: [#beef](../ingredients/beef.md), [#pork](../ingredients/pork.md), [#tofu](../ingredients/tofu.md) | *tags*: [#japan](../tags/japan.md)
 
 ## Ingredients
 
@@ -34,4 +34,4 @@
 
 ---
 
-Derived from [Namiko Hirasawa Chen](https://www.justonecookbook.com/mapo-tofu/).
+Recipe derived from [Namiko Hirasawa Chen](https://www.justonecookbook.com/mapo-tofu/).

@@ -1,6 +1,6 @@
 # Beef cheek stew
 
-*tags*: [#beef](../tags/beef.md), [#stew](../tags/stew.md)
+*ingredients*: [#beef](../ingredients/beef.md) | *tags*: [#stew](../tags/stew.md)
 
 ## Ingredients
 
@@ -26,4 +26,4 @@
 
 ---
 
-Derived from [Good Food](https://www.goodfood.com.au/recipes/pedro-ximenez-beef-cheek-20130715-2pzka).
+Recipe derived from [Good Food](https://www.goodfood.com.au/recipes/pedro-ximenez-beef-cheek-20130715-2pzka).
