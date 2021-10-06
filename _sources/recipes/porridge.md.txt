@@ -1,6 +1,6 @@
 # Porridge
 
-*tags*: [#breakfast](../tags/breakfast.md), [#grains](../tags/grains.md)
+*ingredients*: [#grains](../ingredients/grains.md) | *tags*: [#breakfast](../tags/breakfast.md)
 
 ## Ingredients
 
@@ -18,4 +18,4 @@
 
 ---
 
-Derived from [Felicity Cloake](https://www.theguardian.com/lifeandstyle/wordofmouth/2011/nov/10/how-to-cook-perfect-porridge).
+Recipe derived from [Felicity Cloake](https://www.theguardian.com/lifeandstyle/wordofmouth/2011/nov/10/how-to-cook-perfect-porridge).

@@ -1,6 +1,6 @@
 # Spanakopita
 
-*tags*: [#cheese](../tags/cheese.md), [#eggs](../tags/eggs.md), [#greece](../tags/greece.md)
+*ingredients*: [#cheese](../ingredients/cheese.md), [#eggs](../ingredients/eggs.md) | *tags*: [#greece](../tags/greece.md)
 
 ## Ingredients
 
@@ -36,4 +36,4 @@
 
 ---
 
-Derived from [Suzy Karadsheh](https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie/).
+Recipe derived from [Suzy Karadsheh](https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie/).

@@ -15,4 +15,4 @@
 
 ---
 
-Derived from [Good Food](https://www.goodfood.com.au/recipes/cauliflower-puree-20130715-2pzkp).
+Recipe derived from [Good Food](https://www.goodfood.com.au/recipes/cauliflower-puree-20130715-2pzkp).

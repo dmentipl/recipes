@@ -1,6 +1,6 @@
 # White bean soup
 
-*tags*: [#italy](../tags/italy.md), [#soup](../tags/soup.md), [#vegetarian](../tags/vegetarian.md)
+*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#italy](../tags/italy.md), [#soup](../tags/soup.md), [#vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 
@@ -29,4 +29,4 @@
 
 ---
 
-Derived from [The Cleaver Meal](https://theclevermeal.com/italian-white-bean-soup/).
+Recipe derived from [The Cleaver Meal](https://theclevermeal.com/italian-white-bean-soup/).

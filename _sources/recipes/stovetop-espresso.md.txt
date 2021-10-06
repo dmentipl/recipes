@@ -1,6 +1,6 @@
 # Stovetop espresso
 
-*tags*: [#coffee](../tags/coffee.md), [#drink](../tags/drink.md)
+*ingredients*: [#coffee](../ingredients/coffee.md)
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Reverse braised beef
 
-*tags*: [#beef](../tags/beef.md)
+*ingredients*: [#beef](../ingredients/beef.md)
 
 ## Ingredients
 
@@ -24,4 +24,4 @@
 
 ---
 
-Derived from [Adam Ragusea](https://www.youtube.com/watch?v=ioGbDtIyq-Q).
+Recipe derived from [Adam Ragusea](https://www.youtube.com/watch?v=ioGbDtIyq-Q).

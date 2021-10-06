@@ -2,4 +2,4 @@
 
 - [Beef cheek stew](../recipes/beef-cheek-stew.md)
 - [Chilli con veggie](../recipes/chilli-con-veggie.md)
-- [Lamb stew (Middle Eastern)](../recipes/lamb-stew-(middle-eastern).md)
+- [Lamb, chickpea and dried fruit stew](../recipes/lamb,-chickpea-and-dried-fruit-stew.md)

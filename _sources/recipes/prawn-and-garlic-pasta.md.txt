@@ -1,6 +1,6 @@
 # Prawn and garlic pasta
 
-*tags*: [#italy](../tags/italy.md), [#pasta](../tags/pasta.md), [#seafood](../tags/seafood.md)
+*ingredients*: [#pasta](../ingredients/pasta.md), [#seafood](../ingredients/seafood.md) | *tags*: [#italy](../tags/italy.md)
 
 ## Ingredients
 
@@ -30,4 +30,4 @@
 
 ---
 
-Derived from [Daniel Gritzer](https://www.seriouseats.com/shrimp-scampi-pasta).
+Recipe derived from [Daniel Gritzer](https://www.seriouseats.com/shrimp-scampi-pasta).

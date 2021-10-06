@@ -1,6 +1,6 @@
 # Pressure cooker chickpeas
 
-*tags*: [#legumes](../tags/legumes.md)
+*ingredients*: [#legumes](../ingredients/legumes.md)
 
 ## Ingredients
 
@@ -17,4 +17,4 @@
 
 ---
 
-Derived from [Mike Vrobel](https://www.dadcooksdinner.com/pressure-cooker-chickpeas/).
+Recipe derived from [Mike Vrobel](https://www.dadcooksdinner.com/pressure-cooker-chickpeas/).

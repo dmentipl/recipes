@@ -1,6 +1,6 @@
 # Chicken with cardamom rice
 
-*tags*: [#chicken](../tags/chicken.md), [#rice](../tags/rice.md)
+*ingredients*: [#chicken](../ingredients/chicken.md), [#rice](../ingredients/rice.md)
 
 ## Ingredients
 
@@ -27,4 +27,4 @@
 
 ---
 
-Derived from [Yotam Ottolenghi](https://cooking.nytimes.com/recipes/1014925-chicken-with-caramelized-onion-and-cardamom-rice).
+Recipe derived from [Yotam Ottolenghi](https://cooking.nytimes.com/recipes/1014925-chicken-with-caramelized-onion-and-cardamom-rice).

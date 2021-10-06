@@ -1,6 +1,6 @@
 # Pasta e fagioli
 
-*tags*: [#legumes](../tags/legumes.md), [#italy](../tags/italy.md), [#pasta](../tags/pasta.md)
+*ingredients*: [#legumes](../ingredients/legumes.md), [#pasta](../ingredients/pasta.md) | *tags*: [#italy](../tags/italy.md)
 
 ## Ingredients
 
@@ -40,4 +40,4 @@
 
 ---
 
-Derived from [Simona Mirto](https://www.tavolartegusto.it/ricetta/pasta-e-fagioli-la-ricetta-originale-napoletana/).
+Recipe derived from [Simona Mirto](https://www.tavolartegusto.it/ricetta/pasta-e-fagioli-la-ricetta-originale-napoletana/).

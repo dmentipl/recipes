@@ -1,6 +1,6 @@
 # Mushroom and sausage pasta bake
 
-*tags*: [#bake](../tags/bake.md), [#pasta](../tags/pasta.md), [#sausage](../tags/sausage.md), [#united-states](../tags/united-states.md)
+*ingredients*: [#pasta](../ingredients/pasta.md), [#sausage](../ingredients/sausage.md) | *tags*: [#bake](../tags/bake.md), [#united-states](../tags/united-states.md)
 
 ## Ingredients
 
@@ -33,4 +33,4 @@
 
 ---
 
-Derived from [J. Kenji López-Alt](https://www.seriouseats.com/cast-iron-cooking-crispy-baked-pasta-mushrooms-sausage-parmesan-cream-sauce-recipe).
+Recipe derived from [J. Kenji López-Alt](https://www.seriouseats.com/cast-iron-cooking-crispy-baked-pasta-mushrooms-sausage-parmesan-cream-sauce-recipe).

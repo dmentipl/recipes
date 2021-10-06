@@ -1,6 +1,6 @@
 # Falafel
 
-*tags*: [#legumes](../tags/legumes.md), [#middle-east](../tags/middle-east.md)
+*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#middle-east](../tags/middle-east.md)
 
 ## Ingredients
 
@@ -24,4 +24,4 @@
 
 ---
 
-Derived from [J. Kenji López-Alt](https://www.seriouseats.com/the-food-lab-vegan-experience-best-homemade-falafel-recipe).
+Recipe derived from [J. Kenji López-Alt](https://www.seriouseats.com/the-food-lab-vegan-experience-best-homemade-falafel-recipe).

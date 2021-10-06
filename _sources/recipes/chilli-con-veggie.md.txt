@@ -1,6 +1,7 @@
 # Chilli con veggie
 
-*tags*: [#legumes](../tags/legumes.md), [#stew](../tags/stew.md), [#united-states](../tags/united-states.md)
+*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#stew](../tags/stew.md), [#united-states](../tags/united-states.md)
+ *ingredients*: [[Legumes]] | *tags*: [[Stew]], [[United States]]
 
 ## Ingredients
 
@@ -33,4 +34,4 @@
 
 ---
 
-Derived from [Jamie Oliver](https://www.jamieoliver.com/recipes/vegetables-recipes/kerryann-s-chilli-con-veggie/).
+Recipe derived from [Jamie Oliver](https://www.jamieoliver.com/recipes/vegetables-recipes/kerryann-s-chilli-con-veggie/).
