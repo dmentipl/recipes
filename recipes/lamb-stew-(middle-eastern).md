@@ -1,8 +1,6 @@
 # Lamb stew (Middle Eastern)
 
 *tags*: [#lamb](../tags/lamb.md), [#legumes](../tags/legumes.md), [#middle-east](../tags/middle-east.md), [#stew](../tags/stew.md)
-## Metadata
-
 
 ## Ingredients
 
