@@ -1,2 +1,3 @@
 myst-nb
 sphinx
+sphinx-autobuild
