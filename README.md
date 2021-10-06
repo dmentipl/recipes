@@ -1,6 +1,6 @@
 # Recipes
 
-Food and drink recipes.
+Food recipes.
 
 ## Requirements
 
