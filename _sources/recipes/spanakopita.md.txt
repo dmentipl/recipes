@@ -36,4 +36,4 @@
 
 ---
 
-Recipe derived from [Suzy Karadsheh](https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie/).
+Recipe derived from [Suzy Karadsheh at The Mediterranean Dish](https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie/).

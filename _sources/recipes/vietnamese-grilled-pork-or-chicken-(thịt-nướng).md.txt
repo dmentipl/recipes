@@ -31,4 +31,4 @@
 
 ---
 
-Recipe derived from [Cathy Chaplin](https://gastronomyblog.com/2011/06/27/thit-nuong-vietnamese-grilled-pork/).
+Recipe derived from [Cathy Chaplin at Gastronomy](https://gastronomyblog.com/2011/06/27/thit-nuong-vietnamese-grilled-pork/).

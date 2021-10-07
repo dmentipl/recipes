@@ -17,4 +17,4 @@
 
 ---
 
-Recipe derived from [Mike Vrobel](https://www.dadcooksdinner.com/pressure-cooker-chickpeas/).
+Recipe derived from [Mike Vrobel at Dad Cooks Dinner](https://www.dadcooksdinner.com/pressure-cooker-chickpeas/).

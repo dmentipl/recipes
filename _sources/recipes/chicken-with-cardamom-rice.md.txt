@@ -27,4 +27,4 @@
 
 ---
 
-Recipe derived from [Yotam Ottolenghi](https://cooking.nytimes.com/recipes/1014925-chicken-with-caramelized-onion-and-cardamom-rice).
+Recipe derived from [Yotam Ottolenghi at New York Times](https://cooking.nytimes.com/recipes/1014925-chicken-with-caramelized-onion-and-cardamom-rice).

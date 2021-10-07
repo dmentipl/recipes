@@ -34,4 +34,4 @@
 
 ---
 
-Recipe derived from [Namiko Hirasawa Chen](https://www.justonecookbook.com/mapo-tofu/).
+Recipe derived from [Namiko Hirasawa Chen at Just One Cookbook](https://www.justonecookbook.com/mapo-tofu/).

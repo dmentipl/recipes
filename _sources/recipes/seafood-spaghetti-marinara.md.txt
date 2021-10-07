@@ -27,4 +27,4 @@
 
 ---
 
-Recipe derived from [Nagi (RecipeTin Eats)](https://www.recipetineats.com/seafood-spaghetti-marinara/).
+Recipe derived from [Nagi at RecipeTin Eats](https://www.recipetineats.com/seafood-spaghetti-marinara/).

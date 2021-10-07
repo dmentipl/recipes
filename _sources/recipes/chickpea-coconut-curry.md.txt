@@ -30,4 +30,4 @@
 
 ---
 
-Recipe derived from [Alison Roman](https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric).
+Recipe derived from [Alison Roman at New York Times](https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric).

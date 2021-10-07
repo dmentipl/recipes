@@ -33,4 +33,4 @@
 
 ---
 
-Recipe derived from [J. Kenji López-Alt](https://www.seriouseats.com/cast-iron-cooking-crispy-baked-pasta-mushrooms-sausage-parmesan-cream-sauce-recipe).
+Recipe derived from [J. Kenji López-Alt at Serious Eats](https://www.seriouseats.com/cast-iron-cooking-crispy-baked-pasta-mushrooms-sausage-parmesan-cream-sauce-recipe).
