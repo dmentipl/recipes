@@ -30,4 +30,4 @@
 
 ---
 
-Recipe derived from [Daniel Gritzer](https://www.seriouseats.com/shrimp-scampi-pasta).
+Recipe derived from [Daniel Gritzer at Serious Eats](https://www.seriouseats.com/shrimp-scampi-pasta).

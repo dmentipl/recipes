@@ -49,4 +49,4 @@
 
 ---
 
-Recipe derived from [Jenn Segal](https://www.onceuponachef.com/recipes/baja-fish-tacos.html).
+Recipe derived from [Jenn Segal at Once Upon a Chef](https://www.onceuponachef.com/recipes/baja-fish-tacos.html).

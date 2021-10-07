@@ -36,4 +36,4 @@
 
 ---
 
-Recipe derived from [Sylvia Fountaine](https://www.feastingathome.com/instant-pot-middle-eastern-lamb-stew/).
+Recipe derived from [Sylvia Fountaine at Feasting at Home](https://www.feastingathome.com/instant-pot-middle-eastern-lamb-stew/).

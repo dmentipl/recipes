@@ -32,4 +32,4 @@
 
 ---
 
-Recipe derived from [J. Kenji López-Alt](https://www.seriouseats.com/channa-masala-recipe).
+Recipe derived from [J. Kenji López-Alt at Serious Eats](https://www.seriouseats.com/channa-masala-recipe).

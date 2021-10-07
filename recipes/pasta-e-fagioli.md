@@ -40,4 +40,4 @@
 
 ---
 
-Recipe derived from [Simona Mirto](https://www.tavolartegusto.it/ricetta/pasta-e-fagioli-la-ricetta-originale-napoletana/).
+Recipe derived from [Simona Mirto at Tavolartegusto](https://www.tavolartegusto.it/ricetta/pasta-e-fagioli-la-ricetta-originale-napoletana/).

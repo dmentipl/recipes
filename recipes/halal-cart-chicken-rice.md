@@ -56,4 +56,4 @@
 
 ---
 
-Recipe derived from [J. Kenji López-Alt](https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe).
+Recipe derived from [J. Kenji López-Alt at Serious Eats](https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe).

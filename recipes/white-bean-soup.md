@@ -29,4 +29,4 @@
 
 ---
 
-Recipe derived from [The Cleaver Meal](https://theclevermeal.com/italian-white-bean-soup/).
+Recipe derived from [Katia at The Cleaver Meal](https://theclevermeal.com/italian-white-bean-soup/).

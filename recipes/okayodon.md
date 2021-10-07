@@ -37,4 +37,4 @@
 
 ---
 
-Recipe derived from [Namiko Hirasawa Chen](https://www.justonecookbook.com/oyakodon/).
+Recipe derived from [Namiko Hirasawa Chen at Just One Cookbook](https://www.justonecookbook.com/oyakodon/).

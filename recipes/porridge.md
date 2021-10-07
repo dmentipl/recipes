@@ -18,4 +18,4 @@
 
 ---
 
-Recipe derived from [Felicity Cloake](https://www.theguardian.com/lifeandstyle/wordofmouth/2011/nov/10/how-to-cook-perfect-porridge).
+Recipe derived from [Felicity Cloake at The Guardian](https://www.theguardian.com/lifeandstyle/wordofmouth/2011/nov/10/how-to-cook-perfect-porridge).
