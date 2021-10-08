@@ -7,7 +7,7 @@
 - 2 cloves garlic
 - 1 inch ginger (2.5 cm)
 - 2 green onions/scallions
-- 400 g [silken/soft tofu](https://www.justonecookbook.com/tofu/)
+- 400 g silken/soft tofu
 - 1 Tbsp neutral-flavored oil (vegetable, canola, etc)
 - 225 g ground pork (or any other meat/veggies of your choice)
 
