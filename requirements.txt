@@ -1,3 +1,4 @@
 myst-nb
 sphinx
 sphinx-autobuild
+sphinx-panels
