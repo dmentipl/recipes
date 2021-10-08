@@ -1,6 +1,6 @@
 # Porridge
 
-*ingredients*: [#grains](../ingredients/grains.md) | *tags*: [#breakfast](../tags/breakfast.md)
+*ingredients*: [#grains](../ingredients/grains.md) | *tags*: [#basics](../tags/basics.md), [#breakfast](../tags/breakfast.md)
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Falafel
 
-*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#middle-east](../tags/middle-east.md)
+*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#fried](../tags/fried.md), [#middle-east](../tags/middle-east.md), [#vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

@@ -4,4 +4,4 @@
 - [Halal-cart chicken rice](../recipes/halal-cart-chicken-rice.md)
 - [Okayodon](../recipes/okayodon.md)
 - [Southern fried chicken](../recipes/southern-fried-chicken.md)
-- [Vietnamese grilled pork or chicken (thịt nướng)](../recipes/vietnamese-grilled-pork-or-chicken-(thịt-nướng).md)
+- [Thịt nướng (Vietnamese grilled meat)](../recipes/thịt-nướng-(vietnamese-grilled-meat).md)

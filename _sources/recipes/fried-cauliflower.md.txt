@@ -1,6 +1,6 @@
 # Fried cauliflower
 
-*ingredients*: [#vegetables](../ingredients/vegetables.md) | *tags*: [#fried](../tags/fried.md)
+*ingredients*: [#vegetables](../ingredients/vegetables.md) | *tags*: [#fried](../tags/fried.md), [#vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 
