@@ -1,6 +1,6 @@
 # Channa masala
 
-*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#india](../tags/india.md)
+*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#india](../tags/india.md), [#vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

@@ -1,4 +1,4 @@
-# Chili con carne
+# Chilli con carne
 
 *ingredients*: [#beef](../ingredients/beef.md), [#legumes](../ingredients/legumes.md) | *tags*: [#united-states](../tags/united-states.md)
 

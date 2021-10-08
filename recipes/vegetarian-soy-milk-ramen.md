@@ -1,6 +1,6 @@
 # Vegetarian soy-milk ramen
 
-*ingredients*: [#noodles](../ingredients/noodles.md) | *tags*: [#japan](../tags/japan.md), [#soup](../tags/soup.md)
+*ingredients*: [#noodles](../ingredients/noodles.md) | *tags*: [#japan](../tags/japan.md), [#soup](../tags/soup.md), [#vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 
@@ -17,22 +17,22 @@
 - ½ inch ginger
 - green onion/scallion (use white part)
 - 2 tsp sesame oil (roasted)
-- 2 tsp doubanjiang (spicy chili bean sauce/broad bean paste) (You can buy non-spicy version online.)
+- 2 tsp doubanjiang (spicy chili bean paste)
 - 2 tsp miso
 - 1 Tbsp sake
 - 2 tsp soy sauce
 - 1 cup unsweetened soy milk
-- ½ cup dashi (Japanese soup stock; click to learn more) (ingredients & instruction in the recipe)
-- ¼ tsp kosher/sea salt (I use Diamond Crystal; use half for table salt)
+- ½ cup dashi
+- ¼ tsp kosher/sea salt
 - Dash white pepper powder
 
 *Ramen*
 
-- 1 serving fresh ramen noodles (5-6 oz or 142 to 170 g fresh noodles; 3.2 oz or 90 g dry ramen noodles; For gluten-free, use these GF ramen noodles)
+- 1 serving fresh ramen noodles (5-6 oz or 142 to 170 g fresh noodles; 3.2 oz or 90 g dry ramen noodles)
 
 *Toppings (Prepare Ahead)*
 
-- ramen egg (ajitsuke tamago) (omit for vegan)
+- ramen egg (ajitsuke tamago)
 - spicy bean sprout salad
 - homemade vegetarian kimchi
 - frozen or canned corn

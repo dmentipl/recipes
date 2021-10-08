@@ -1,6 +1,6 @@
-# Vietnamese grilled pork or chicken (thịt nướng)
+# Thịt nướng (Vietnamese grilled meat)
 
-*ingredients*: [#chicken](../ingredients/chicken.md), [#pork](../ingredients/pork.md) | *tags*: [#grilling](../tags/grilling.md), [#vietnam](../tags/vietnam.md)
+*ingredients*: [#chicken](../ingredients/chicken.md), [#pork](../ingredients/pork.md) | *tags*: [#grilled](../tags/grilled.md), [#vietnam](../tags/vietnam.md)
 
 ## Ingredients
 

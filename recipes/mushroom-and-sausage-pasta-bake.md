@@ -1,6 +1,6 @@
 # Mushroom and sausage pasta bake
 
-*ingredients*: [#pasta](../ingredients/pasta.md), [#sausage](../ingredients/sausage.md) | *tags*: [#bake](../tags/bake.md), [#united-states](../tags/united-states.md)
+*ingredients*: [#pasta](../ingredients/pasta.md), [#sausage](../ingredients/sausage.md) | *tags*: [#baked](../tags/baked.md), [#united-states](../tags/united-states.md)
 
 ## Ingredients
 
