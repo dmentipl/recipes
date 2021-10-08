@@ -1,6 +1,6 @@
 # Recipes
 
-## Recipes
+## All recipes
 
 ```{toctree}
 ---
@@ -10,7 +10,7 @@ glob:
 recipes/*
 ```
 
-## Ingredients
+## By ingredient
 
 ```{toctree}
 ---
@@ -20,7 +20,7 @@ glob:
 ingredients/*
 ```
 
-## Tags
+## By tag
 
 ```{toctree}
 ---
