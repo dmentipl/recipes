@@ -1,31 +1,33 @@
 # Recipes
 
-## All recipes
-
+````{panels}
+:column: col-lg-12 p-2
+**All recipes**
+^^^^
 ```{toctree}
----
-maxdepth: 1
-glob:
----
+:maxdepth: 1
+:glob:
+
 recipes/*
 ```
+````
 
-## By ingredient
-
+````{panels}
+**By ingredient**
+^^^^
 ```{toctree}
----
-maxdepth: 1
-glob:
----
+:maxdepth: 1
+:glob:
 ingredients/*
 ```
 
-## By tag
+---
 
+**By tag**
+^^^^
 ```{toctree}
----
-maxdepth: 1
-glob:
----
+:maxdepth: 1
+:glob:
 tags/*
 ```
+````
