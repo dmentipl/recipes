@@ -11,7 +11,7 @@
 ## Instructions
 
 1. Chop cauliflower florets off central stalk, discard stalk then slice florets finely. Heat butter and cream in a heavy-based pot, add cauliflower, mix well and cover with a lid. Simmer for about 35 minutes or until soft.
-2. Puree until smooth and check seasoning. Store with baking paper on top to stop a skin forming. 
+2. Puree until smooth and check seasoning. Store with baking paper on top to stop a skin forming.
 
 ---
 
