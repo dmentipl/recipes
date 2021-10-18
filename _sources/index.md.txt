@@ -36,13 +36,9 @@ tags/*
 ```
 ````
 
-## Notes
-
-- The green olive oil bottle can fit 650 g of oil.
-
 ## See also
 
-My [cocktail](https://dmentipl.github.io/cocktails/) recipes.
+[Cocktail](https://dmentipl.github.io/cocktails/) recipes.
 
 ## Inspiration
 
