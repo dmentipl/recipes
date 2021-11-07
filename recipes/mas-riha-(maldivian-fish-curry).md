@@ -26,4 +26,4 @@
 
 ---
 
-Recipe derived from [Russ Crandall The Domestic Man](https://thedomesticman.com/2013/12/10/mas-riha-maldivian-fish-curry/.
+Recipe derived from [Russ Crandall The Domestic Man](https://thedomesticman.com/2013/12/10/mas-riha-maldivian-fish-curry/).
