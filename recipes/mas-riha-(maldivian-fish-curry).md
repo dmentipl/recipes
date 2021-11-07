@@ -1,4 +1,4 @@
-# Mas Riha (Maldivian fish curry)
+# Mas riha (Maldivian fish curry)
 
 *ingredients*: [#fish](../ingredients/fish.md) | *tags*: [#curry](../tags/curry.md)
 
