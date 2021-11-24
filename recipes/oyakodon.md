@@ -1,4 +1,4 @@
-# Okayodon
+# Oyakodon
 
 *ingredients*: [#chicken](../ingredients/chicken.md), [#eggs](../ingredients/eggs.md), [#rice](../ingredients/rice.md) | *tags*: [#japan](../tags/japan.md)
 

@@ -1,4 +1,4 @@
 # Eggs
 
-- [Okayodon](../recipes/okayodon.md)
+- [Oyakodon](../recipes/oyakodon.md)
 - [Spanakopita](../recipes/spanakopita.md)
