@@ -1,6 +1,6 @@
 # Oyakodon
 
-*ingredients*: [#chicken](../ingredients/chicken.md), [#eggs](../ingredients/eggs.md), [#rice](../ingredients/rice.md) | *tags*: [#japan](../tags/japan.md)
+🏷  [Chicken](../ingredients/chicken.md), [Eggs](../ingredients/eggs.md), [Japan](../tags/japan.md), [Rice](../ingredients/rice.md)
 
 ## Ingredients
 

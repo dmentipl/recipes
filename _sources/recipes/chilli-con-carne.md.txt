@@ -1,6 +1,6 @@
 # Chilli con carne
 
-*ingredients*: [#beef](../ingredients/beef.md), [#legumes](../ingredients/legumes.md) | *tags*: [#united-states](../tags/united-states.md)
+🏷  [Beef](../ingredients/beef.md), [Legumes](../ingredients/legumes.md), [United States](../tags/united-states.md)
 
 ## Ingredients
 

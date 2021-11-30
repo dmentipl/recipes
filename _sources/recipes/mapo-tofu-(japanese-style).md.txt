@@ -1,6 +1,6 @@
 # Mapo tofu (Japanese-style)
 
-*ingredients*: [#beef](../ingredients/beef.md), [#pork](../ingredients/pork.md), [#tofu](../ingredients/tofu.md) | *tags*: [#japan](../tags/japan.md)
+🏷  [Beef](../ingredients/beef.md), [Japan](../tags/japan.md), [Pork](../ingredients/pork.md), [Tofu](../ingredients/tofu.md)
 
 ## Ingredients
 

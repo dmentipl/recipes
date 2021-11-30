@@ -1,6 +1,6 @@
 # Fish potato cakes
 
-*ingredients*: [#fish](../ingredients/fish.md)
+🏷  [Fish](../ingredients/fish.md)
 
 ## Ingredients
 

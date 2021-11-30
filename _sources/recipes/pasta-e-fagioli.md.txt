@@ -1,6 +1,6 @@
 # Pasta e fagioli
 
-*ingredients*: [#legumes](../ingredients/legumes.md), [#pasta](../ingredients/pasta.md) | *tags*: [#italy](../tags/italy.md), [#vegetarian](../tags/vegetarian.md)
+🏷  [Italy](../tags/italy.md), [Legumes](../ingredients/legumes.md), [Pasta](../ingredients/pasta.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Melanzane alla Parmigiana (eggplant Parmesan)
 
-*ingredients*: [#cheese](../ingredients/cheese.md), [#vegetables](../ingredients/vegetables.md) | *tags*: [#baked](../tags/baked.md), [#italy](../tags/italy.md), [#vegetarian](../tags/vegetarian.md)
+🏷  [Baked](../tags/baked.md), [Cheese](../ingredients/cheese.md), [Italy](../tags/italy.md), [Vegetables](../ingredients/vegetables.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

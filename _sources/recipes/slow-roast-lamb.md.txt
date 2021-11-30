@@ -1,6 +1,6 @@
 # Slow-roast lamb
 
-*ingredients*: [#lamb](../ingredients/lamb.md) | *tags*: [#roast](../tags/roast.md)
+🏷  [Lamb](../ingredients/lamb.md), [Roast](../tags/roast.md)
 
 ## Ingredients
 

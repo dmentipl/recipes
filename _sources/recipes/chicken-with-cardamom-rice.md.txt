@@ -1,6 +1,6 @@
 # Chicken with cardamom rice
 
-*ingredients*: [#chicken](../ingredients/chicken.md), [#rice](../ingredients/rice.md)
+🏷  [Chicken](../ingredients/chicken.md), [Rice](../ingredients/rice.md)
 
 ## Ingredients
 
