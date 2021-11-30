@@ -1,6 +1,6 @@
 # Lamb, chickpea and dried fruit stew
 
-*ingredients*: [#lamb](../ingredients/lamb.md), [#legumes](../ingredients/legumes.md) | *tags*: [#middle-east](../tags/middle-east.md), [#stew](../tags/stew.md)
+🏷  [Lamb](../ingredients/lamb.md), [Legumes](../ingredients/legumes.md), [Middle East](../tags/middle-east.md), [Stew](../tags/stew.md)
 
 ## Ingredients
 

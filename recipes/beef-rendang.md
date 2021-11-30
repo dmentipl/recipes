@@ -1,6 +1,6 @@
 # Beef rendang
 
-*ingredients*: [#beef](../ingredients/beef.md) | *tags*: [#curry](../tags/curry.md), [#indonesia](../tags/indonesia.md)
+🏷  [Beef](../ingredients/beef.md), [Curry](../tags/curry.md), [Indonesia](../tags/indonesia.md)
 
 ## Ingredients
 

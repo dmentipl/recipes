@@ -1,6 +1,6 @@
 # White bean soup
 
-*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#italy](../tags/italy.md), [#soup](../tags/soup.md), [#vegetarian](../tags/vegetarian.md)
+🏷  [Italy](../tags/italy.md), [Legumes](../ingredients/legumes.md), [Soup](../tags/soup.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

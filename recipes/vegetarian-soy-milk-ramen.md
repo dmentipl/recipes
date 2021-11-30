@@ -1,6 +1,6 @@
 # Vegetarian soy-milk ramen
 
-*ingredients*: [#noodles](../ingredients/noodles.md) | *tags*: [#japan](../tags/japan.md), [#soup](../tags/soup.md), [#vegetarian](../tags/vegetarian.md)
+🏷  [Japan](../tags/japan.md), [Noodles](../ingredients/noodles.md), [Soup](../tags/soup.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

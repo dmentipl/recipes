@@ -1,6 +1,6 @@
 # Stovetop espresso
 
-*ingredients*: [#coffee](../ingredients/coffee.md)
+🏷  [Coffee](../ingredients/coffee.md)
 
 ## Ingredients
 

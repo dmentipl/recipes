@@ -1,6 +1,6 @@
 # Beef cheek stew
 
-*ingredients*: [#beef](../ingredients/beef.md) | *tags*: [#stew](../tags/stew.md)
+🏷  [Beef](../ingredients/beef.md), [Stew](../tags/stew.md)
 
 ## Ingredients
 

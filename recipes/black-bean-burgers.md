@@ -1,6 +1,6 @@
 # Black bean burgers
 
-*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#burgers](../tags/burgers.md), [#vegetarian](../tags/vegetarian.md)
+🏷  [Burgers](../tags/burgers.md), [Legumes](../ingredients/legumes.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

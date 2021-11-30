@@ -1,6 +1,6 @@
 # Cauliflower puree
 
-*ingredients*: [#vegetables](../ingredients/vegetables.md) | *tags*: [#sides](../tags/sides.md)
+🏷  [Sides](../tags/sides.md), [Vegetables](../ingredients/vegetables.md)
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Rich sugar syrup
 
-*tags*: [#basics](../tags/basics.md)
+🏷  [Basics](../tags/basics.md)
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Black beans
 
-*ingredients*: [#legumes](../ingredients/legumes.md) | *tags*: [#mexico](../tags/mexico.md)
+🏷  [Legumes](../ingredients/legumes.md), [Mexico](../tags/mexico.md)
 
 ## Ingredients
 

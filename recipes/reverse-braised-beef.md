@@ -1,6 +1,6 @@
 # Reverse braised beef
 
-*ingredients*: [#beef](../ingredients/beef.md)
+🏷  [Beef](../ingredients/beef.md)
 
 ## Ingredients
 
