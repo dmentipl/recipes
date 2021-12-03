@@ -4,26 +4,27 @@ Food recipes.
 
 ## Requirements
 
-The website is built with [Sphinx](https://www.sphinx-doc.org/) and [MyST](https://myst-nb.readthedocs.io/). See `requirements.txt` for all dependencies.
+The website is built with [Sphinx](https://www.sphinx-doc.org/) and [MyST](https://myst-parser.readthedocs.io/). See `requirements.txt` and `requirements-dev.txt` for all dependencies.
 
-Install dependencies. For example in a conda environment.
+Install dependencies in a virtual environment.
 
 ```bash
-conda create --name recipes python pip
-conda activate recipes
-pip install -r requirements.txt
+python -m venv .env
+source .env/bin/activate
+python -m pip install --upgrade pip setuptools wheel
+python -m pip install -r requirements.txt -r requirements-dev.txt
 ```
 
 ## Usage
 
-Instructions for installing and building the website locally.
+Instructions for building and viewing the website locally.
 
 ### Build
 
 Make changes then build the HTML with Sphinx.
 
 ```bash
-make dirhtml
+sphinx-build . _build -b dirhtml
 ```
 
 ### View
@@ -31,7 +32,7 @@ make dirhtml
 Inspect the output in a web browser.
 
 ```bash
-python -m http.server 8000 --directory _build/dirhtml
+python -m http.server 8000 --directory _build
 ```
 
 ### Autobuild

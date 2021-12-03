@@ -1,1 +1,4 @@
 _build
+.env
+.envrc
+.python-version
