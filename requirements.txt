@@ -1,4 +1,3 @@
-myst-nb
+myst-parser
 sphinx
-sphinx-autobuild
 sphinx-panels
