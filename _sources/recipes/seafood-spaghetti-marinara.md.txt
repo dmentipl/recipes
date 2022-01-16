@@ -6,7 +6,7 @@
 
 -   200 g dried spaghetti pasta (or other long pasta of choice)
 -   2 ½ tbsp olive oil, separated
--   300 g seafood marinara mix
+-   400 g seafood marinara mix
 -   2 garlic cloves, minced
 -   ½ onion, finely chopped
 -   ½ cup white wine
