@@ -44,6 +44,7 @@ tags/*
 
 - [Adam Ragusea](https://www.youtube.com/user/aragusea/)
 - [Bon Appétit](https://www.bonappetit.com/)
+- [Brian Lagerstrom](https://www.youtube.com/c/WeedsSardines/videos)
 - [Cooking with The New York Times](https://cooking.nytimes.com/)
 - [Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)
 - [Felicity Cloake](https://www.theguardian.com/food/series/how-to-cook-the-perfect----)
