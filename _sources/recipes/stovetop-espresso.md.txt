@@ -4,7 +4,8 @@
 
 ## Ingredients
 
-- 21 g coffee beans
+- 21 g coffee
+- water
 
 ## Instructions
 
