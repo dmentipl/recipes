@@ -1,6 +1,6 @@
 # Pasta e fagioli
 
-🏷  [Italy](../cuisines/italy.md), [Legumes](../ingredients/legumes.md), [Pasta](../ingredients/pasta.md), [Vegetarian](../tags/vegetarian.md)
+🏷  [Italian](../cuisines/italian.md), [Legumes](../ingredients/legumes.md), [Pasta](../ingredients/pasta.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

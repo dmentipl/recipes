@@ -1,4 +1,4 @@
-# Italy
+# Italian
 
 - [Melanzane alla Parmigiana (eggplant Parmesan)](../recipes/melanzane-alla-parmigiana-(eggplant-parmesan).md)
 - [Pasta e fagioli](../recipes/pasta-e-fagioli.md)

@@ -1,6 +1,6 @@
 # Oyakodon
 
-🏷  [Chicken](../ingredients/chicken.md), [Eggs](../ingredients/eggs.md), [Japan](../cuisines/japan.md), [Rice](../ingredients/rice.md)
+🏷  [Chicken](../ingredients/chicken.md), [Eggs](../ingredients/eggs.md), [Japanese](../cuisines/japanese.md), [Rice](../ingredients/rice.md)
 
 ## Ingredients
 

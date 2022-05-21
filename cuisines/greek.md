@@ -1,3 +1,3 @@
-# Greece
+# Greek
 
 - [Spanakopita](../recipes/spanakopita.md)

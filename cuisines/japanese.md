@@ -1,4 +1,4 @@
-# Japan
+# Japanese
 
 - [Chicken teriyaki](../recipes/chicken-teriyaki.md)
 - [Karaage](../recipes/karaage.md)

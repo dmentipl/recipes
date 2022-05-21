@@ -1,4 +1,4 @@
-# Middle East
+# Middle Eastern
 
 - [Falafel](../recipes/falafel.md)
 - [Halal-cart chicken rice](../recipes/halal-cart-chicken-rice.md)

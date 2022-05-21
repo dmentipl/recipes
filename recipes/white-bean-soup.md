@@ -1,6 +1,6 @@
 # White bean soup
 
-🏷  [Italy](../cuisines/italy.md), [Legumes](../ingredients/legumes.md), [Soup](../tags/soup.md), [Vegetarian](../tags/vegetarian.md)
+🏷  [Italian](../cuisines/italian.md), [Legumes](../ingredients/legumes.md), [Soup](../tags/soup.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

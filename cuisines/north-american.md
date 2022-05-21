@@ -1,4 +1,4 @@
-# United States
+# North American
 
 - [Chilli con carne](../recipes/chilli-con-carne.md)
 - [Chilli con veggie](../recipes/chilli-con-veggie.md)
