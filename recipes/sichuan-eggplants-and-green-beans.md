@@ -1,6 +1,6 @@
 # Sichuan eggplants and green beans
 
-🏷  [China](../tags/china.md), [Sides](../tags/sides.md), [Vegetables](../ingredients/vegetables.md)
+🏷  [China](../cuisines/china.md), [Sides](../tags/sides.md), [Vegetables](../ingredients/vegetables.md)
 
 ## Ingredients
 

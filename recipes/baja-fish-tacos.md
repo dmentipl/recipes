@@ -1,6 +1,6 @@
 # Baja fish tacos
 
-🏷  [Fish](../ingredients/fish.md), [Mexico](../tags/mexico.md)
+🏷  [Fish](../ingredients/fish.md), [Mexico](../cuisines/mexico.md)
 
 ## Ingredients
 

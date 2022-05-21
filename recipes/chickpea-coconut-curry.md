@@ -1,6 +1,6 @@
 # Chickpea coconut curry
 
-🏷  [Curry](../tags/curry.md), [India](../tags/india.md), [Legumes](../ingredients/legumes.md), [Vegetarian](../tags/vegetarian.md)
+🏷  [Curry](../tags/curry.md), [India](../cuisines/india.md), [Legumes](../ingredients/legumes.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 
