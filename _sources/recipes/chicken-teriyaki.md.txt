@@ -1,6 +1,6 @@
 # Chicken teriyaki
 
-🏷  [Chicken](../ingredients/chicken.md), [Japan](../tags/japan.md)
+🏷  [Chicken](../ingredients/chicken.md), [Japan](../cuisines/japan.md)
 
 ## Ingredients
 

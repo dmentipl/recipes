@@ -1,6 +1,6 @@
 # Karaage
 
-🏷  [Chicken](../ingredients/chicken.md), [Fried](../tags/fried.md), [Japan](../tags/japan.md)
+🏷  [Chicken](../ingredients/chicken.md), [Fried](../tags/fried.md), [Japan](../cuisines/japan.md)
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Spanakopita
 
-🏷  [Baked](../tags/baked.md), [Cheese](../ingredients/cheese.md), [Eggs](../ingredients/eggs.md), [Greece](../tags/greece.md), [Vegetarian](../tags/vegetarian.md)
+🏷  [Baked](../tags/baked.md), [Cheese](../ingredients/cheese.md), [Eggs](../ingredients/eggs.md), [Greece](../cuisines/greece.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 
