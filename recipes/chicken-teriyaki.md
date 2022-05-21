@@ -35,8 +35,8 @@ To cook the teriyaki chicken:
 1. Heat a large frying pan over medium heat. Place the chicken skin side down.
 2. Cook the chicken until the fat renders from the skin and the skin is golden brown, then flip the chicken. Add the sake and quickly cover with a lid. Steam the chicken over medium-low heat for 8 minutes.
 3. Flip the chicken so the skin side is now facing up. Pour the reserved teriyaki marinade into the pan. Cook until the sauce is reduced by about half, frequently spooning it over the chicken. Once the alcohol from the sake and mirin evaporates, you'll see the sugar start to crystallise and the sauce thicken. Turn off the heat.
-6. Transfer the chicken to a cutting board and slice into bite-sized pieces. 
-7. Serve on a plate and drizzle the remaining pan sauce on top.
+4. Transfer the chicken to a cutting board and slice into bite-sized pieces.
+5. Serve on a plate and drizzle the remaining pan sauce on top.
 
 ---
 
