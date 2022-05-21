@@ -2,12 +2,9 @@
 
 ## Recipes
 
-Browse all recipes, by ingredient, or by tag.
+Browse all recipes, by ingredient, by cuisine, or by tag.
 
-````{panels}
-:column: col-lg-12 p-2
-**All recipes**
-^^^^
+````{dropdown} **All recipes**
 ```{toctree}
 :maxdepth: 1
 :glob:
@@ -16,19 +13,23 @@ recipes/*
 ```
 ````
 
-````{panels}
-**By ingredient**
-^^^^
+````{dropdown} **By ingredient**
 ```{toctree}
 :maxdepth: 1
 :glob:
 ingredients/*
 ```
+````
 
----
+````{dropdown} **By cuisine**
+```{toctree}
+:maxdepth: 1
+:glob:
+cuisines/*
+```
+````
 
-**By tag**
-^^^^
+````{dropdown} **By tag**
 ```{toctree}
 :maxdepth: 1
 :glob:
