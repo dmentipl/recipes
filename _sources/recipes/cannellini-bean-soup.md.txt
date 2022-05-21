@@ -1,4 +1,4 @@
-# White bean soup
+# Cannellini bean soup
 
 🏷  [Italian](../cuisines/italian.md), [Legumes](../ingredients/legumes.md), [Soup](../tags/soup.md), [Vegetarian](../tags/vegetarian.md)
 

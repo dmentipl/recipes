@@ -3,6 +3,7 @@
 - [Bengali rice porridge with lentils and chicken](../recipes/bengali-rice-porridge-with-lentils-and-chicken.md)
 - [Black bean burgers](../recipes/black-bean-burgers.md)
 - [Black beans](../recipes/black-beans.md)
+- [Cannellini bean soup](../recipes/cannellini-bean-soup.md)
 - [Channa masala](../recipes/channa-masala.md)
 - [Chickpea coconut curry](../recipes/chickpea-coconut-curry.md)
 - [Chilli con carne](../recipes/chilli-con-carne.md)
@@ -12,4 +13,3 @@
 - [Pasta e fagioli](../recipes/pasta-e-fagioli.md)
 - [Pea and ham soup](../recipes/pea-and-ham-soup.md)
 - [Pressure cooker chickpeas](../recipes/pressure-cooker-chickpeas.md)
-- [White bean soup](../recipes/white-bean-soup.md)
