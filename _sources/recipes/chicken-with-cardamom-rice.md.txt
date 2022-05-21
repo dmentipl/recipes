@@ -1,6 +1,6 @@
 # Chicken with cardamom rice
 
-🏷  [Chicken](../ingredients/chicken.md), [Rice](../ingredients/rice.md)
+🏷  [Chicken](../ingredients/chicken.md), [Middle Eastern](../cuisines/middle-eastern.md), [Rice](../ingredients/rice.md)
 
 ## Ingredients
 

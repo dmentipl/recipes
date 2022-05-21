@@ -1,6 +1,6 @@
 # Reverse braised beef
 
-🏷  [Beef](../ingredients/beef.md)
+🏷  [Beef](../ingredients/beef.md), [North American](../cuisines/north-american.md)
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Cauliflower puree
 
-🏷  [Sides](../tags/sides.md), [Vegetables](../ingredients/vegetables.md)
+🏷  [European](../cuisines/european.md), [Sides](../tags/sides.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

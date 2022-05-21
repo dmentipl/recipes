@@ -1,6 +1,6 @@
 # Black bean burgers
 
-🏷  [Burgers](../tags/burgers.md), [Legumes](../ingredients/legumes.md), [Vegetarian](../tags/vegetarian.md)
+🏷  [Burgers](../tags/burgers.md), [Legumes](../ingredients/legumes.md), [North American](../cuisines/north-american.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

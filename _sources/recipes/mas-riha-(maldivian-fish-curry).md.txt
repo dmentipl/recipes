@@ -1,6 +1,6 @@
 # Mas riha (Maldivian fish curry)
 
-🏷  [Curry](../tags/curry.md), [Fish](../ingredients/fish.md)
+🏷  [Curry](../tags/curry.md), [Fish](../ingredients/fish.md), [South Asian](../cuisines/south-asian.md)
 
 ## Ingredients
 

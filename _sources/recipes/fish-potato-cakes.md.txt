@@ -1,6 +1,6 @@
 # Fish potato cakes
 
-🏷  [Fish](../ingredients/fish.md)
+🏷  [European](../cuisines/european.md), [Fish](../ingredients/fish.md)
 
 ## Ingredients
 
