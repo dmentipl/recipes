@@ -1,6 +1,6 @@
 # Silken tofu with celery salad
 
-🏷  [Tofu](../ingredients/tofu.md)
+🏷  [East Asian](../cuisines/east-asian.md), [Tofu](../ingredients/tofu.md)
 
 ## Ingredients
 
