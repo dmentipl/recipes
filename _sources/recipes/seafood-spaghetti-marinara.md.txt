@@ -1,6 +1,6 @@
 # Seafood spaghetti marinara
 
-🏷  [Italy](../cuisines/italy.md), [Pasta](../ingredients/pasta.md), [Seafood](../ingredients/seafood.md)
+🏷  [Italian](../cuisines/italian.md), [Pasta](../ingredients/pasta.md), [Seafood](../ingredients/seafood.md)
 
 ## Ingredients
 
