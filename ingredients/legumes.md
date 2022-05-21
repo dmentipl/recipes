@@ -1,5 +1,6 @@
 # Legumes
 
+- [Bengali rice porridge with lentils and chicken](../recipes/bengali-rice-porridge-with-lentils-and-chicken.md)
 - [Black bean burgers](../recipes/black-bean-burgers.md)
 - [Black beans](../recipes/black-beans.md)
 - [Channa masala](../recipes/channa-masala.md)
