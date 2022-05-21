@@ -1,6 +1,6 @@
 # Porridge
 
-🏷  [Basics](../tags/basics.md), [Breakfast](../tags/breakfast.md), [Grains](../ingredients/grains.md)
+🏷  [Basics](../tags/basics.md), [Breakfast](../tags/breakfast.md), [European](../cuisines/european.md), [Grains](../ingredients/grains.md)
 
 ## Ingredients
 

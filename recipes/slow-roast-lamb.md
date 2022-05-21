@@ -1,6 +1,6 @@
 # Slow-roast lamb
 
-🏷  [Lamb](../ingredients/lamb.md), [Roast](../tags/roast.md)
+🏷  [European](../cuisines/european.md), [Lamb](../ingredients/lamb.md), [Roast](../tags/roast.md)
 
 ## Ingredients
 

@@ -1,6 +1,7 @@
 # Vegetarian
 
 - [Black bean burgers](../recipes/black-bean-burgers.md)
+- [Cauliflower puree](../recipes/cauliflower-puree.md)
 - [Channa masala](../recipes/channa-masala.md)
 - [Chickpea coconut curry](../recipes/chickpea-coconut-curry.md)
 - [Chilli con veggie](../recipes/chilli-con-veggie.md)
@@ -8,6 +9,7 @@
 - [Fried cauliflower](../recipes/fried-cauliflower.md)
 - [Melanzane alla Parmigiana (eggplant Parmesan)](../recipes/melanzane-alla-parmigiana-(eggplant-parmesan).md)
 - [Pasta e fagioli](../recipes/pasta-e-fagioli.md)
+- [Sichuan eggplants and green beans](../recipes/sichuan-eggplants-and-green-beans.md)
 - [Spanakopita](../recipes/spanakopita.md)
 - [Vegetarian soy-milk ramen](../recipes/vegetarian-soy-milk-ramen.md)
 - [White bean soup](../recipes/white-bean-soup.md)
