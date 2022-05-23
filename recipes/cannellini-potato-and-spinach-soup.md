@@ -1,14 +1,15 @@
-# Cannellini bean soup
+# Cannellini, potato, and spinach soup
 
 🏷  [Italian](../cuisines/italian.md), [Legumes](../ingredients/legumes.md), [Soup](../tags/soup.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 
-- 2 cans cannellini or other white beans
-- 1 large potato, diced
+- 3 cans cannellini or other white beans
+- 2 large potato, diced
 - 1 small onion, chopped
 - 2 garlic cloves
-- 1 1/2 cup vegetable broth*
+- 2 cups water
+- 1 stock cube
 - 2 cups baby spinach
 - 1 handful Italian flat parsley, chopped
 - 2 Tbsp extra virgin olive oil
