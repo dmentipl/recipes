@@ -1,7 +1,7 @@
 # Vegetarian
 
 - [Black bean burgers](../recipes/black-bean-burgers.md)
-- [Cannellini bean soup](../recipes/cannellini-bean-soup.md)
+- [Cannellini, potato, and spinach soup](../recipes/cannellini-potato-and-spinach-soup.md)
 - [Cauliflower puree](../recipes/cauliflower-puree.md)
 - [Channa masala](../recipes/channa-masala.md)
 - [Chickpea coconut curry](../recipes/chickpea-coconut-curry.md)
