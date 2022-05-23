@@ -1,6 +1,6 @@
 # Falafel
 
-🏷  [Fried](../tags/fried.md), [Legumes](../ingredients/legumes.md), [Middle Eastern](../cuisines/middle-eastern.md), [Vegetarian](../tags/vegetarian.md)
+🏷  [Fried](../tags/fried.md), [Legumes](../ingredients/legumes.md), [Middle Eastern](../cuisines/middle-eastern.md), [Vegan](../tags/vegan.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 

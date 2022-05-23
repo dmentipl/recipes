@@ -1,6 +1,6 @@
 # Chilli con veggie
 
-🏷  [Legumes](../ingredients/legumes.md), [North American](../cuisines/north-american.md), [Stew](../tags/stew.md), [Vegetarian](../tags/vegetarian.md)
+🏷  [Legumes](../ingredients/legumes.md), [North American](../cuisines/north-american.md), [Stew](../tags/stew.md), [Vegan](../tags/vegan.md), [Vegetarian](../tags/vegetarian.md)
 
 ## Ingredients
 
