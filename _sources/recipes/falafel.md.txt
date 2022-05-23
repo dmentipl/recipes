@@ -12,7 +12,7 @@
 - 1/2 teaspoon (about 2g) ground coriander seed
 - 2 teaspoons (about 10g) kosher salt, plus more for seasoning
 - 2 to 3 cups (480 to 720ml) vegetable oil, for frying
-- [Tahini sauce](http://www.seriouseats.com/recipes/2016/03/israeli-style-tahini-sauce-recipe.html), [hummus](http://www.seriouseats.com/recipes/2016/03/israeli-style-extra-smooth-hummus-recipe.html), and/or [zhug (Yemenite hot sauce)](http://www.seriouseats.com/recipes/2016/03/schug-zhug-srug-yemenite-israeli-hot-sauce-recipe.html) for serving
+- Tahini sauce and Hummus for serving
 
 ## Instructions
 
