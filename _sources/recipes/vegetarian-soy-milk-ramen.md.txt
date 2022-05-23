@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-*Vegetarian Dashi*
+*Dashi*
 
 - ¾ cup water
 - 1 piece kombu (dried kelp) (1" x 2", 2.5 cm x 5 cm)
@@ -30,7 +30,7 @@
 
 - 1 serving fresh ramen noodles (5-6 oz or 142 to 170 g fresh noodles; 3.2 oz or 90 g dry ramen noodles)
 
-*Toppings (Prepare Ahead)*
+*Toppings (prepared ahead)*
 
 - ramen egg (ajitsuke tamago)
 - spicy bean sprout salad
@@ -38,12 +38,11 @@
 - frozen or canned corn
 - green onion/scallion (use green part)
 
-
 ## Instructions
 
 1. Gather all the ingredients. Please note: the serving size is one for this recipe. Please multiply the quantities of your ingredients by the number of servings you need to make.
 
-*Vegetarian Dashi (Kombu + Shiitake)*
+*Dashi*
 
 1. Soak the kombu and dried shiitake mushroom in measured water for at least 30 minutes. Transfer the liquid into a small saucepan, including kombu and shiitake mushroom. Slowly bring the liquid to a boil over low heat. This will help enhance the dashi flavor.
 2. Right before the liquid turns into a full boil, remove the kombu and shiitake mushroom from the dashi. If you leave the kombu in the liquid, the dashi will become slimy. Turn off the heat and set aside.

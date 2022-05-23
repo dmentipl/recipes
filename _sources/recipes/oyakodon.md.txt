@@ -8,7 +8,7 @@
 - ½ onion
 - 2 large eggs
 
-*Seasonings (ample amount - do not need to use all):*
+*Seasonings*
 
 - ⅔ cup dashi
 - 1 ½ Tbsp mirin
@@ -16,7 +16,7 @@
 - 1 ½ Tbsp soy sauce
 - 1 ½ tsp sugar
 
-*To serve:*
+*To serve*
 
 - 3 cups cooked Japanese short-grain rice
 - small bunch mitsuba or green onion/scallion
