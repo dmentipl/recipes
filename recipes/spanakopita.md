@@ -4,8 +4,6 @@
 
 ## Ingredients
 
-*For the filling*
-
 - 500 g frozen chopped spinach, thawed and well-drained
 - 2 bunches flat-leaf parsley, stems trimmed, finely chopped
 - 1 large yellow onion, finely chopped
@@ -15,9 +13,6 @@
 - 300 g feta cheese, crumbled
 - 2 tsp dried dill weed
 - Freshly-ground black pepper
-
-*For the crust*
-
 - 1 package phyllo pastry
 - 1 cup extra virgin olive oil, more if needed
 

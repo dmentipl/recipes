@@ -10,7 +10,7 @@
 - 1.5 teaspoons tamarind paste
 - 120 g desiccated coconut, toasted in a dry pan
 
-*Spice Paste*
+*Spice paste*
 
 - 2 large onions
 - 3 large jalapeno chillies
@@ -20,7 +20,7 @@
 - 3 fat cloves of garlic
 - 2 tablespoons of the toasted coconut from above
 
-*The rest of the curry sauce*
+*Curry sauce*
 
 - 1 teaspoon turmeric powder
 - 2-3 kaffir lime leaves

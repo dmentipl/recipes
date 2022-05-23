@@ -14,14 +14,14 @@
 - 2 medium potato, peeled, 1 cm dice
 - 400 g chicken thighs
 
-*Coriander chutney:*
+*Coriander chutney*
 
 - 1/2 bunch coriander, finely chopped
 - 2 Thai green chiles, finely chopped
 - 2 tablespoons (30 mL) lime juice
 - 2 tablespoons (30 mL) olive oil
 
-*To serve:*
+*To serve*
 
 - Crispy fried onions or shallots, for garnish
 

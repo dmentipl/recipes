@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-*For the chicken:*
+*Chicken*
 
 - 2 tablespoons fresh lemon juice
 - 1 tablespoon chopped fresh oregano
@@ -15,7 +15,7 @@
 - 2 pounds boneless, skinless chicken thighs, trimmed of excess fat (6 to 8 thighs)
 - 1 tablespoon vegetable or canola oil
 
-*For the rice:*
+*Rice*
 
 - 2 tablespoons unsalted butter
 - 1/2 teaspoon turmeric
@@ -24,7 +24,7 @@
 - 2 1/2 cups chicken broth
 - Kosher salt and freshly ground black pepper
 
-*For the sauce:*
+*Sauce*
 
 - 1/2 cup mayonnaise
 - 1/2 cup Greek yogurt
@@ -34,7 +34,7 @@
 - 1/4 cup chopped fresh parsley
 - Kosher salt and freshly ground black pepper
 
-*To serve:*
+*To serve*
 
 - 1 head iceberg lettuce, shredded
 - 1 large tomato, cut into wedges

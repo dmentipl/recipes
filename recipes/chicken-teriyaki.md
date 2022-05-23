@@ -10,7 +10,7 @@
 - 1 Tbsp neutral oil
 - 2 Tbsp sake
 
-For the Teriyaki Sauce
+*Teriyaki sauce*
 
 - 1 Tbsp sake
 - 1 Tbsp mirin
@@ -20,23 +20,15 @@ For the Teriyaki Sauce
 
 ## Instructions
 
-To make the teriyaki sauce:
-
 1. In a large bowl, combine the grated ginger, including the juices.
 2. Add all the ingredients for teriyaki sauce in the bowl and mix together.
-
-To prepare the chicken:
-
-1. If the thighs are very thick on one side, flatten them to an even thickness with a meat mallet/tenderizer.
-2. Cut off the excess skin and fat and lightly season the chicken pieces with salt and pepper.
-
-To cook the teriyaki chicken:
-
-1. Heat a large frying pan over medium heat. Place the chicken skin side down.
-2. Cook the chicken until the fat renders from the skin and the skin is golden brown, then flip the chicken. Add the sake and quickly cover with a lid. Steam the chicken over medium-low heat for 8 minutes.
-3. Flip the chicken so the skin side is now facing up. Pour the reserved teriyaki marinade into the pan. Cook until the sauce is reduced by about half, frequently spooning it over the chicken. Once the alcohol from the sake and mirin evaporates, you'll see the sugar start to crystallise and the sauce thicken. Turn off the heat.
-4. Transfer the chicken to a cutting board and slice into bite-sized pieces.
-5. Serve on a plate and drizzle the remaining pan sauce on top.
+3. If the thighs are very thick on one side, flatten them to an even thickness with a meat mallet/tenderizer.
+4. Cut off the excess skin and fat and lightly season the chicken pieces with salt and pepper.
+5. Heat a large frying pan over medium heat. Place the chicken skin side down.
+6. Cook the chicken until the fat renders from the skin and the skin is golden brown, then flip the chicken. Add the sake and quickly cover with a lid. Steam the chicken over medium-low heat for 8 minutes.
+7. Flip the chicken so the skin side is now facing up. Pour the reserved teriyaki marinade into the pan. Cook until the sauce is reduced by about half, frequently spooning it over the chicken. Once the alcohol from the sake and mirin evaporates, you'll see the sugar start to crystallise and the sauce thicken. Turn off the heat.
+8. Transfer the chicken to a cutting board and slice into bite-sized pieces.
+9. Serve on a plate and drizzle the remaining pan sauce on top.
 
 ---
 

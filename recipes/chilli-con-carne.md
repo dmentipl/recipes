@@ -17,7 +17,7 @@
 - 125 - 375 ml water
 - Salt and pepper
 
-*Chili spice mix*
+*Spice mix*
 
 - 1 - 2 tsp cayenne pepper (adjust to taste)
 - 4 tsp paprika powder
