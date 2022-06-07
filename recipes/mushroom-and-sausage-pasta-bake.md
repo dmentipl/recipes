@@ -1,6 +1,6 @@
 # Mushroom and sausage pasta bake
 
-🏷  [Baked](../tags/baked.md), [North American](../cuisines/north-american.md), [Pasta](../ingredients/pasta.md), [Sausage](../ingredients/sausage.md)
+🏷  [Baked](../collections/baked.md), [North American](../cuisines/north-american.md), [Pasta](../ingredients/pasta.md), [Sausage](../ingredients/sausage.md)
 
 ## Ingredients
 

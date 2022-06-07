@@ -1,6 +1,6 @@
 # Chilli con carne
 
-🏷  [Beef](../ingredients/beef.md), [Legumes](../ingredients/legumes.md), [North American](../cuisines/north-american.md), [Stew](../tags/stew.md)
+🏷  [Beef](../ingredients/beef.md), [Legumes](../ingredients/legumes.md), [North American](../cuisines/north-american.md), [Stew](../collections/stew.md)
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Pea and ham soup
 
-🏷  [European](../cuisines/european.md), [Legumes](../ingredients/legumes.md), [Pork](../ingredients/pork.md), [Soup](../tags/soup.md)
+🏷  [European](../cuisines/european.md), [Legumes](../ingredients/legumes.md), [Pork](../ingredients/pork.md), [Soup](../collections/soup.md)
 
 ## Ingredients
 

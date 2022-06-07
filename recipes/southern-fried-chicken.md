@@ -1,6 +1,6 @@
 # Southern fried chicken
 
-🏷  [Chicken](../ingredients/chicken.md), [Fried](../tags/fried.md), [North American](../cuisines/north-american.md)
+🏷  [Chicken](../ingredients/chicken.md), [Fried](../collections/fried.md), [North American](../cuisines/north-american.md)
 
 ## Ingredients
 
