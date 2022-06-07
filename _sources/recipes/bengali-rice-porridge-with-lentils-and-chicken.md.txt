@@ -1,6 +1,6 @@
 # Bengali rice porridge with lentils and chicken
 
-🏷  [Legumes](../ingredients/legumes.md), [Rice](../ingredients/rice.md), [South Asian](../cuisines/south-asian.md)
+🏷  [Chicken](../ingredients/chicken.md), [Legumes](../ingredients/legumes.md), [Rice](../ingredients/rice.md), [South Asian](../cuisines/south-asian.md)
 
 ## Ingredients
 

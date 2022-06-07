@@ -1,6 +1,6 @@
 # Honey ricotta turnovers
 
-🏷  [Dessert](../collections/dessert.md)
+🏷  [Cheese](../ingredients/cheese.md), [Dessert](../collections/dessert.md), [European](../cuisines/european.md)
 
 ## Ingredients
 

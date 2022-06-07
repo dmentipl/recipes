@@ -1,6 +1,6 @@
 # Stovetop espresso
 
-🏷  [Coffee](../ingredients/coffee.md)
+🏷  [Basics](../collections/basics.md), [Coffee](../ingredients/coffee.md)
 
 ## Ingredients
 
