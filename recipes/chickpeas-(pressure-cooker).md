@@ -1,4 +1,4 @@
-# Pressure cooker chickpeas
+# Chickpeas (pressure cooker)
 
 🏷  [Basics](../collections/basics.md), [Legumes](../ingredients/legumes.md)
 

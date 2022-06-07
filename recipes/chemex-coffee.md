@@ -1,6 +1,6 @@
 # Chemex coffee
 
-🏷  [Coffee](../ingredients/coffee.md)
+🏷  [Basics](../collections/basics.md), [Coffee](../ingredients/coffee.md)
 
 ## Ingredients
 
