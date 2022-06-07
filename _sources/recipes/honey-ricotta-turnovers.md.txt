@@ -1,6 +1,6 @@
 # Honey ricotta turnovers
 
-🏷  [Dessert](../tags/dessert.md)
+🏷  [Dessert](../collections/dessert.md)
 
 ## Ingredients
 

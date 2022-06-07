@@ -1,6 +1,6 @@
 # Fried cauliflower
 
-🏷  [Fried](../tags/fried.md), [North American](../cuisines/north-american.md), [Vegan](../tags/vegan.md), [Vegetarian](../tags/vegetarian.md)
+🏷  [Fried](../collections/fried.md), [North American](../cuisines/north-american.md), [Vegan](../collections/vegan.md), [Vegetarian](../collections/vegetarian.md)
 
 ## Ingredients
 

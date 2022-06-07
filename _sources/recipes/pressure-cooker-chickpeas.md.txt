@@ -1,6 +1,6 @@
 # Pressure cooker chickpeas
 
-🏷  [Basics](../tags/basics.md), [Legumes](../ingredients/legumes.md)
+🏷  [Basics](../collections/basics.md), [Legumes](../ingredients/legumes.md)
 
 ## Ingredients
 

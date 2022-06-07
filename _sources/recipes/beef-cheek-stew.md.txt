@@ -1,6 +1,6 @@
 # Beef cheek stew
 
-🏷  [Beef](../ingredients/beef.md), [European](../cuisines/european.md), [Stew](../tags/stew.md)
+🏷  [Beef](../ingredients/beef.md), [European](../cuisines/european.md), [Stew](../collections/stew.md)
 
 ## Ingredients
 
