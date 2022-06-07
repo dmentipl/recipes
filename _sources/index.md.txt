@@ -2,7 +2,7 @@
 
 ## Recipes
 
-Browse all recipes, by ingredient, by cuisine, or by tag.
+Browse all recipes, by ingredient, by cuisine, or by collection.
 
 ````{dropdown} **All recipes**
 ```{toctree}
@@ -29,11 +29,11 @@ cuisines/*
 ```
 ````
 
-````{dropdown} **By tag**
+````{dropdown} **By collection**
 ```{toctree}
 :maxdepth: 1
 :glob:
-tags/*
+collections/*
 ```
 ````
 
