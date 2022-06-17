@@ -43,6 +43,7 @@ collections/*
 
 ## Inspiration
 
+- [Adam Liaw](https://adamliaw.com/)
 - [Adam Ragusea](https://www.adamragusea.com/)
 - [Brian Lagerstrom](https://www.brianlagerstrom.com/)
 - [Bon Appétit](https://www.bonappetit.com/)
