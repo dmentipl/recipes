@@ -35,6 +35,6 @@ collections = ["baked"]
 4. Add flour and cook, stirring, until a thin film begins to form on the bottom of the pan, about 1 minute. Slowly whisk in chicken broth followed by heavy cream. Bring to a simmer and cook until thickened, about 2 minutes. Stir in remaining grated cheese until melted. Stir in remaining parsley and chives. Stir in sausage. Season to taste with salt and lots of black pepper.
 5. Adjust rack to 10 inches below broiler element and preheat broiler to high. Cook pasta in salted water according to package directions, removing it when still just shy of al dente. Drain, reserving 1 cup of cooking liquid. Return to pot. Add mushroom mixture and stir to combine, adding liquid to adjust consistency. Pasta should be very loose but not soupy. Return to cast iron skillet and top with bread crumbs. Broil until golden brown, rotating pan as necessary, 2 to 3 minutes. Serve immediately.
 
----
+## Notes
 
 Recipe derived from [J. Kenji López-Alt at Serious Eats](https://www.seriouseats.com/cast-iron-cooking-crispy-baked-pasta-mushrooms-sausage-parmesan-cream-sauce-recipe).

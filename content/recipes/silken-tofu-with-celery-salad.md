@@ -29,6 +29,6 @@ collections = []
 2. Combine peppercorns and cumin in a mortar and pestle and roughly grind. Transfer to a medium bowl. Add sesame paste, soy sauce, vinegar, chili bean paste, sugar, chili oil, and garlic. Whisk to combine and set aside.
 3. Spoon tofu into a serving bowl and microwave until barely warmed through, about 1 minute. Cover with dressing. Drain celery, cilantro, and scallions carefully and add to bowl. Sprinkle with sesame seeds. Serve immediately.
 
----
+## Notes
 
 Recipe derived from [J. Kenji López-Alt](https://www.seriouseats.com/spicy-warm-silken-tofu-celery-cilantro-salad-recipe).

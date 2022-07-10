@@ -33,6 +33,6 @@ collections = ["baked", "vegetarian"]
 9. Fold the flaps or excess from the sides, you can crumble them a little. Brush the folded sides well with olive oil. Cut Spanakopita only part-way through into squares, or leave the cutting to later.
 10. Bake in the oven for 1 hour, or until the phyllo (fillo) crust is crisp and golden brown. Remove from the oven. Finish cutting into squares and serve. Enjoy!
 
----
+## Notes
 
 Recipe derived from [Suzy Karadsheh at The Mediterranean Dish](https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie/).

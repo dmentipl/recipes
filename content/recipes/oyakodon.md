@@ -39,6 +39,6 @@ collections = []
 9. Slowly and evenly drizzle the beaten egg over the chicken and onion. Cook covered on medium-low heat until the egg is done to your liking. Usually, oyakdon in Japan is served with an almost set but runny egg.
 10. Add the mitsuba (or green onion) right before removing from the heat. Pour the chicken and egg on top of steamed rice and drizzle the desired amount of remaining sauce. Sprinkle shichimi togarashi if you like.
 
----
+## Notes
 
 Recipe derived from [Namiko Hirasawa Chen at Just One Cookbook](https://www.justonecookbook.com/oyakodon/).

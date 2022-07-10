@@ -35,6 +35,6 @@ collections = ["burgers", "vegetarian"]
 6. **To cook indoors:** Form bean mixture into 6 to 8 patties as wide as your burger buns. Heat 1 tablespoon oil in a large non-stick or cast iron skillet over medium heat until shimmering. Add 4 patties and cook, swirling pan occasionally, until well browned and crisp on first side, about 5 minutes. Carefully flip and cook until second side is browned, about 5 minutes longer, adding cheese if desired. If cooking more than 4 burgers, cook in batches, keeping cooked burgers on a rack set in a rimmed baking sheet in a 200°F oven while second batch cooks.
 7. Spread top and bottom buns with chipotle mayonnaise or other condiments as desired. Add toppings to top or bottom bun as desired. Place patties on bottom buns, close burgers, and serve immediately.
 
----
+## Notes
 
 Recipe derived from [J. Kenji López-Alt at Serious Eats](https://www.seriouseats.com/the-best-black-bean-burger-recipe).

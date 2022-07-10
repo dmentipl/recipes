@@ -19,6 +19,6 @@ collections = ["basics"]
 
 1. Check chickpeas for stones and dirt clods. Rinse the chickpeas, then put them in the pressure cooker. Add the water, onion, garlic, and bay leaves. Cook on high pressure for 45 minutes with a natural steam release.
 
----
+## Notes
 
 Recipe derived from [Mike Vrobel at Dad Cooks Dinner](https://www.dadcooksdinner.com/pressure-cooker-chickpeas/).

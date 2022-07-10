@@ -23,6 +23,6 @@ collections = []
 1. Heat a wok over high heat and add the vegetable oil. Add the garlic and coriander stalks and roots and stir-fry for about 1 minute or until fragrant. Add the ground coriander and chicken and stir-fry until the chicken is lightly browned. Add the chilli, fish sauce, and coconut cream and bring to a simmer. Simmer until the chicken is cooked through.
 2. Scatter with the coriander leaves and serve with steamed rice and a wedge of lime.
 
----
+## Notes
 
 Recipe derived from [Adam Liaw on SBS Food / The Cook Up](https://www.sbs.com.au/food/recipes/double-coriander-chicken).

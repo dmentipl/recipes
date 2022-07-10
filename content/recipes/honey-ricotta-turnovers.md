@@ -27,6 +27,4 @@ collections = ["dessert"]
 
 - Forming the turnovers: Place filling at one end of rectangle, leaving top corner empty. Fold corner of dough over filling. Continue, alternating corners, making sure filling is enclosed, until you reach the end. Trim excess dough with a knife.
 
----
-
 Recipe derived from [Martha Stewart](https://www.marthastewart.com/319184/honey-ricotta-turnovers).

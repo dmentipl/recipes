@@ -27,6 +27,6 @@ collections = ["fried", "vegan", "vegetarian"]
 3. Add cauliflower to batter. Working one at a time, lift one piece and allow excess batter to drip off. Carefully lower into hot oil. Repeat with remaining cauliflower until wok or fryer is full. Do not crowd pan. (You'll be able to fit about half of the cauliflower in each batch). Fry, using a metal spider or slotted spatula to rotate and agitate pieces as they cook until evenly golden brown and crisp all over, about 6 minutes. Transfer to a paper towel-lined plate and season immediately with salt. Keep warm while you fry the remaining cauliflower.
 4. Combine hot sauce, garlic, and 1 tablespoon oil from fryer in a large bowl and whisk to combine. Toss fried cauliflower with sauce and serve immediately, sprinkled with celery leaves (if using).
 
----
+## Notes
 
 Recipe derived from [J. Kenji López-Alt at Serious Eats](https://www.seriouseats.com/crispy-buffalo-fried-cauliflower-recipe).

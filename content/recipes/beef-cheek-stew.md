@@ -28,6 +28,6 @@ collections = ["stew"]
 4. Remove cheeks from sauce and place in a small baking tray. Reduce sauce by half and pass through a sieve over cheeks.
 5. Serve with [cauliflower puree](http://www.goodfood.com.au/good-food/cook/recipe/cauliflower-puree-20130715-2pzkp.html) - spoon some puree into the centre of a plate, place a cheek on the edge of the puree, then spoon a small amount of sauce over.
 
----
+## Notes
 
 Recipe derived from [Good Food](https://www.goodfood.com.au/recipes/pedro-ximenez-beef-cheek-20130715-2pzka).

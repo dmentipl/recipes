@@ -31,6 +31,6 @@ collections = ["curry", "vegan", "vegetarian"]
 5. Add greens and stir, making sure they’re submerged in the liquid. Cook until they wilt and soften, about 5 minutes, depending on what you’re using. (Swiss chard and spinach will wilt and soften much faster than kale or collard greens.) Season again with salt and pepper.
 6. Divide among bowls and top with mint.
 
----
+## Notes
 
 Recipe derived from [Alison Roman at New York Times](https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric).

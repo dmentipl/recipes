@@ -33,6 +33,4 @@ collections = ["grilled"]
 - Traditionally, thịt nướng is cooked on a grill employing a “meat cage.” These devices can be purchased in the housewares section of any well-stocked Chinese or Vietnamese supermarket. If one cannot be located, the pork can be skewered onto bamboo sticks that have been soaked in water for 20 minutes.
 - Serve thịt nướng atop rice noodles, steamed jasmine rice, or inside a baguette along with all the fixings—fresh mint, shredded lettuce, sliced cucumbers, pickled carrots and daikon, toasted peanuts, scallion oil, fried shallots, and nước chấm.
 
----
-
 Recipe derived from [Cathy Chaplin at Gastronomy](https://gastronomyblog.com/2011/06/27/thit-nuong-vietnamese-grilled-pork/).

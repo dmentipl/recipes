@@ -51,6 +51,4 @@ collections = ["fried"]
 
 - 3 chipotle peppers and 2 teaspoons sauce will give you a spicy sauce. Use less for a milder sauce. You can freeze any leftover chipotle peppers from the can.
 
----
-
 Recipe derived from [Jenn Segal at Once Upon a Chef](https://www.onceuponachef.com/recipes/baja-fish-tacos.html).

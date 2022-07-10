@@ -29,6 +29,6 @@ collections = []
 3. Place the chicken in a large mixing bowl and season with 1½ teaspoons of salt and black pepper. Add the remaining olive oil, cardamom, cloves and cinnamon and use your hands to mix everything together well. Heat your frying pan again and place the chicken and spices inside. Sear for 5 minutes on each side and remove from the pan (this is important as it part-cooks the chicken). The spices can stay in the pan but don’t worry if they stick to the chicken. Remove most of the remaining oil as well, leaving just a millimetre at the bottom. Add the rice, caramelized onion, 1 teaspoon of salt and plenty of black pepper. Strain the barberries and add them as well. Stir well and return the seared chicken and push into the rice.
 4. Pour the boiling water over the rice and chicken, cover the pan and cook on a very low heat for 30 minutes. Take the pan off the heat, remove the lid and quickly place a clean tea towel over the pan and seal again with the lid. Leave the dish undisturbed for another 10 minutes. Finally, add the herbs and use a fork to stir them in and fluff up the rice. Taste and add more salt and pepper if needed. Serve hot or warm with yoghurt if you like.
 
----
+## Notes
 
 Recipe derived from [Yotam Ottolenghi at New York Times](https://cooking.nytimes.com/recipes/1014925-chicken-with-caramelized-onion-and-cardamom-rice).

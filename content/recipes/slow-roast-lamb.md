@@ -32,6 +32,6 @@ collections = ["roast"]
 10. Rest: Remove lamb from the roasting pan and transfer to a plate. Cover loosely with foil then a couple of tea towels and let it rest for at least 20 minutes, up to a couple of hours (after this, you may want to reheat).
 11. Serve with gravy (made from the pan juices).
 
----
+## Notes
 
 Recipe derived from [Nagi at RecipeTin Eats](https://www.recipetineats.com/slow-roasted-rosemary-garlic-lamb-shoulder/).

@@ -35,6 +35,6 @@ collections = []
 10. Add butter and parmesan, then stir vigorously (activates the starch and makes it creamy). The excess liquid will evaporate quickly, so add more if you want a looser risotto.
 11. Garnish with extra parmesan and parsley.
 
----
+## Notes
 
 Recipe derived from [Nagi at RecipeTin Eats](https://www.recipetineats.com/chicken-and-mushroom-risotto/).

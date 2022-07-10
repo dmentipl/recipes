@@ -33,6 +33,4 @@ collections = ["fried"]
 - Place a rack above half of your frying pot. It will help reduce mess when transferring the chicken in and out of the oil, and the radiated heat from the oil will continue to warm and cook the chicken. If you don’t have a rack placed above the oil, you may want to extend your cooking time by just 30 seconds or so to ensure the chicken is cooked through.
 - You may notice that the chicken starts to spit and sizzle more on the third fry, this is because the chicken is cooked and is now contracting and squeezing out the juices from the meat (the watery juices contacting with the oil is what is causing it to spit). If this is happening, the chicken is done and you can remove it from the oil immediately.
 
----
-
 Recipe derived from [Adam Liaw](https://adamliaw.com/recipe/triple-fried-karaage-japanese-fried-chicken/).

@@ -46,6 +46,6 @@ collections = ["stew"]
 7. Adjust salt and pepper to taste just before serving.
 8. Serve over rice, or ladle into bowls and serve with corn chips or warm tortillas on the side with Toppings of choice. My usual: Either over rice or with corn chips, always with sour cream, cheese and coriander.
 
----
+## Notes
 
 Recipe derived from [Nagi at RecipeTin Eats](https://www.recipetineats.com/chilli-con-carne/).

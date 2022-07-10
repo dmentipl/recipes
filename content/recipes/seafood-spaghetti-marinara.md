@@ -29,6 +29,6 @@ collections = []
 7. Add pasta, seafood, around 1/2 cup of reserved pasta cooking water into the sauce. Toss gently and cook for 1 to 2 minutes or until the sauce has thickened and coats the pasta.
 8. Serve, garnished with fresh parsley.
 
----
+## Notes
 
 Recipe derived from [Nagi at RecipeTin Eats](https://www.recipetineats.com/seafood-spaghetti-marinara/).

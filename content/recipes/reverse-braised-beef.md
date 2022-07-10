@@ -26,6 +26,6 @@ collections = []
 6. In a wide pan, heat a thick film of oil (or your rendered beef fat, assuming you got all the watery stuff scraped off of it) over moderate heat. Take your cold beef out of the fridge, and lay the pieces in the hot oil and brown them gently on both sides until golden and the interior of the meat feels soft and reheated.
 7. Take the pan off the heat and the meat can sit in there for a few minutes while you get other meal components ready. Either spoon the glaze over the meat at the last second or serve it in a little cup on the side.
 
----
+## Notes
 
 Recipe derived from [Adam Ragusea](https://www.youtube.com/watch?v=ioGbDtIyq-Q).

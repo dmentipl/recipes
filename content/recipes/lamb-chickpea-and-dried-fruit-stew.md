@@ -38,6 +38,4 @@ collections = ["stew"]
 
 - Serve with couscous or basmati rice & garnish with fresh Italian parsley or cilantro leaves and extra chilli flakes.
 
----
-
 Recipe derived from [Sylvia Fountaine at Feasting at Home](https://www.feastingathome.com/instant-pot-middle-eastern-lamb-stew/).

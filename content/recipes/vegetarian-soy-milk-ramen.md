@@ -69,6 +69,6 @@ collections = ["soup", "vegan", "vegetarian"]
 2. Once the noodles are cooked, drain the noodles very well and transfer to a ramen bowl. Pour the hot ramen soup into the bowl.
 3. Place the toppings of your choice on ramen and enjoy!
 
----
+## Notes
 
 Recipe derived from [Namiko Hirasawa Chen at Just One Cookbook](https://www.justonecookbook.com/vegetarian-ramen/).

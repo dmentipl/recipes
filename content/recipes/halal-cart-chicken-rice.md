@@ -58,6 +58,4 @@ collections = []
 
 - Do not marinate the chicken longer than 4 hours or it’ll get a mushy texture. If you must delay cooking the chicken for any reason, remove it from the marinade, pat it dry with paper towels, and refrigerate until ready to cook.
 
----
-
 Recipe derived from [J. Kenji López-Alt at Serious Eats](https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe).

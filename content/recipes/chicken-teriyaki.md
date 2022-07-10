@@ -34,6 +34,6 @@ collections = []
 8. Transfer the chicken to a cutting board and slice into bite-sized pieces.
 9. Serve on a plate and drizzle the remaining pan sauce on top.
 
----
+## Notes
 
 Recipe derived from [Namiko Hirasawa Chen at Just One Cookbook](https://www.justonecookbook.com/chicken-teriyaki/).

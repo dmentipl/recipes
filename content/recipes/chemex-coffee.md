@@ -22,4 +22,4 @@ collections = ["basics"]
 
 ## Notes
 
-- This recipe is for two cups of about 240 ml each.
+This recipe is for two cups of about 240 ml each.

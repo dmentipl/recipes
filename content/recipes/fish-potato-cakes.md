@@ -27,6 +27,6 @@ collections = []
 4. Divide the mixture into amounts using a half-cup measure and shape into rounds. Place the remaining breadcrumbs on a shallow tray. Press the fish cakes into the crumbs to coat both sides.
 5. Heat 1cm of the oil in a large frying pan over medium heat. Add the fish cakes and cook for 3–4 minutes each side or until golden and cooked through. Season to taste with salt and pepper. Serve with lemon wedges and tartar sauce.
 
----
+## Notes
 
 Recipe derived from [Donna Hay](https://www.donnahay.com.au/recipes/lunch/salmon-dill-and-potato-cakes).

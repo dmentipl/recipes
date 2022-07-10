@@ -31,6 +31,4 @@ collections = ["sides", "vegan", "vegetarian"]
 
 - If you like stiff texture than soft eggplants, coat the eggplants with corn starch and then fry with oil.
 
----
-
 Recipe derived from [Elaine at China Sichuan Food](https://www.chinasichuanfood.com/eggplants-and-green-beans/).

@@ -20,6 +20,6 @@ collections = ["basics", "breakfast"]
 2. Turn down the heat even further, and simmer, stirring very regularly, for about 5-10 minutes, until you have the consistency you require.
 3. Cover and allow to sit for a few minutes, then serve with the toppings of your choice and a moat of cold milk.
 
----
+## Notes
 
 Recipe derived from [Felicity Cloake at The Guardian](https://www.theguardian.com/lifeandstyle/wordofmouth/2011/nov/10/how-to-cook-perfect-porridge).

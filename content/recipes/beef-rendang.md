@@ -43,6 +43,6 @@ collections = ["curry"]
 2. Blend all of the spice paste ingredients (onions, both types of chillies, ginger, galangal, garlic and coconut) together in a food processor until it resembles a fine paste. In another bowl place the rest of the curry ingredients (turmeric, kaffir lime leaves, lemongrass, galangal, palm sugar, salt, pepper, soy sauce) except for the oil and the coconut cream. Heat a large wok or pot onto medium heat and ad the oil. Then add the spice paste mixture and the rest of the curry sauce ingredients and cook for a few minutes. Add half the thick coconut cream from the top of the coconut tin and most of the coconut water (or just half the tin if you don't have a separate thick layer of cream on top). Add the beef and heat through stirring and coating the beef pieces. Turn the heat down until it is simmering gently and place the lid on and allow to simmer away for 1 hour.
 3. When the hour is up add the rest of the tin of coconut cream and cook for another 30-45 minutes with the lid on until the meat is very tender and the meat has darkened(it will darken further upon cooling). In the last 10 minutes you can take the lid off to evaporate some of the moisture if you like a really thick sauce. Serve with boiled rice.
 
----
+## Notes
 
 Recipe derived from [Lorraine Elliott from Not Quite Nigella](https://www.notquitenigella.com/2011/06/23/beef-rendang/).

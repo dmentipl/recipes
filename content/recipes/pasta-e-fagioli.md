@@ -42,6 +42,4 @@ collections = ["stew", "vegan", "vegetarian"]
 - Serve the Pasta e Fagioli hot, with a drizzle of oil, a pinch of pepper and a little fresh parsley. Serve with slices of homemade bread or rye bread.
 - As time goes by, it gets even better! Once upon a time, the custom was to preserve it for the following days, when aromas and flavors had perfectly settled and the pasta was still "right" for the sauce. Just add 1 - 2 tablespoons of water and a drizzle of oil in the pot, stir over low heat, immediately the sauce will come to life. Serve it hot, maybe even with croutons and bread croutons! You can't not make the scarpetta!
 
----
-
 Recipe derived from [Simona Mirto at Tavolartegusto](https://www.tavolartegusto.it/ricetta/pasta-e-fagioli-la-ricetta-originale-napoletana/).

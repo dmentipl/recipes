@@ -28,6 +28,6 @@ collections = ["curry"]
 3. Return the skillet to the heat (again on medium heat) and add in the blended onion mixture. Stir in all but 1 tbsp of the coconut milk and add the cinnamon stick. Bring to a simmer, then reduce to med/low and simmer until slightly darkened, about 5 minutes. Taste the curry and add salt if needed.
 4. Gently add the fish pieces to the curry, and simmer without stirring until the fish is cooked through, about 5-6 minutes. The easiest way to tell if fish is done is to gently nudge it with a spoon; it’s ready when it slightly resists flaking. Spoon the curry into bowls and drizzle the extra 1 tbsp of coconut milk over it, then serve with rice or cauliflower rice.
 
----
+## Notes
 
 Recipe derived from [Russ Crandall The Domestic Man](https://thedomesticman.com/2013/12/10/mas-riha-maldivian-fish-curry/).

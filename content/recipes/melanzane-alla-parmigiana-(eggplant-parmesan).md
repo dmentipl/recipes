@@ -25,6 +25,4 @@ collections = ["baked", "vegetarian"]
 
 - The tomato sauce here can be as simple as puréed canned tomatoes with a touch of olive oil and salt, or a more involved sauce, such as this one made from fresh tomatoes. It should be seasoned with salt in all cases.
 
----
-
 Recipe derived from [J. Kenji López-Alt at Serious Eats](https://www.seriouseats.com/italian-style-eggplant-parmesan-melanzane-alla-parmigiana-recipe).

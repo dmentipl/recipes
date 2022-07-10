@@ -35,6 +35,6 @@ collections = ["stew", "vegan", "vegetarian"]
 4. Bring it all to the boil, then reduce to a low heat and let it bubble away for at least 1 hour, or until thickened and reduced, stirring every 15 to 20 minutes, then season to how you like it.
 5. I like this with rice or on a jacket potato, scattered with coriander leaves and with lime wedges and a dollop of soured cream on the side.
 
----
+## Notes
 
 Recipe derived from [Jamie Oliver](https://www.jamieoliver.com/recipes/vegetables-recipes/kerryann-s-chilli-con-veggie/).

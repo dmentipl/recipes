@@ -34,6 +34,6 @@ collections = ["vegan", "vegetarian"]
 4. Bring to a simmer, cover with lid slightly cracked, and reduce heat to maintain a gentle bubbling. Cook, stirring occasionally, until liquid has reduced into a thick stew and spices have melded, about 30 minutes.
 5. Stir in remaining garam masala and lemon juice. Season to taste with salt. Serve with rice and/or naan, sprinkling additional cilantro on top.
 
----
+## Notes
 
 Recipe derived from [J. Kenji López-Alt at Serious Eats](https://www.seriouseats.com/channa-masala-recipe).

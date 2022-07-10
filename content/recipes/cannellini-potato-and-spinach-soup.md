@@ -32,6 +32,6 @@ collections = ["soup", "vegan", "vegetarian"]
 8. **Make the dressing:** blend the parsley leaves with the rest of the garlic and 1 Tbsp of extra virgin olive oil (2 Tbsp if you like more dressing). Alternatively, you can chop parsley and garlic and then blend all together with the rest of the olive oil. You want to make a flavorsome dressing for your soup.
 9. Serve drizzled with the parsley dressing, some chilli flakes, and (optionally) some grated parmesan.
 
----
+## Notes
 
 Recipe derived from [Katia at The Cleaver Meal](https://theclevermeal.com/italian-white-bean-soup/).

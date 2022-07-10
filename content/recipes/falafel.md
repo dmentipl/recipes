@@ -26,6 +26,6 @@ collections = ["fried", "vegan", "vegetarian"]
 4. When all the balls have been formed, fill a deep cast iron, carbon steel, or nonstick skillet or Dutch oven with 3/4 inch of oil. Heat over high heat until oil registers 375°F on an instant-read thermometer. Carefully lower chickpea balls into oil one at a time, allowing a little space between each ball and cooking in batches if necessary. Adjust heat as necessary to maintain a temperature of between 350 and 375°F. Allow to cook undisturbed until well browned on bottom sides, then carefully flip balls with a fork until browned on second side, about 4 minutes total. Transfer cooked chickpea balls to a paper towel–lined plate and season with salt. Repeat with remaining chickpea balls.
 5. Serve immediately with [tahini](http://www.seriouseats.com/recipes/2016/03/israeli-style-tahini-sauce-recipe.html) and/or [hummus](http://www.seriouseats.com/recipes/2016/03/israeli-style-extra-smooth-hummus-recipe.html) on the side, or stuffed into pita bread with tahini, tomatoes, cucumber, pickles, and shredded cabbage.
 
----
+## Notes
 
 Recipe derived from [J. Kenji López-Alt at Serious Eats](https://www.seriouseats.com/the-food-lab-vegan-experience-best-homemade-falafel-recipe).

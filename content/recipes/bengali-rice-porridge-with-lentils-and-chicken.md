@@ -40,6 +40,6 @@ collections = []
 7. Remove chicken from porridge and transfer to a cutting board. When cool enough to handle, dice chicken into 1 cm pieces and return to porridge. Adjust seasoning to taste with kosher salt and freshly ground black pepper, and add water if porridge becomes too thick.
 8. Remove from heat and pour porridge into bowls. Garnish with coriander chutney and crispy fried shallots to taste.
 
----
+## Notes
 
 Recipe derived from [Sohla El-Waylly at Serious Eats](https://www.seriouseats.com/bengali-rice-porridge-with-lentils-and-chicken).

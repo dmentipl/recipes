@@ -30,6 +30,6 @@ collections = []
 7. Return prawns to skillet along with any accumulated juices, lemon zest, parsley, and remaining extra olive oil, tossing to combine thoroughly. Remove from heat. Season with salt, if needed.
 8. Divide pasta and prawns among serving bowls and serve right away.
 
----
+## Notes
 
 Recipe derived from [Daniel Gritzer at Serious Eats](https://www.seriouseats.com/shrimp-scampi-pasta).

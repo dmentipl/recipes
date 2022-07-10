@@ -36,6 +36,6 @@ collections = []
 6. When the meat is no longer pink, add the Seasoning mixture and stir thoroughly.
 7. Once the sauce is back to boiling, add the tofu and gently coat the tofu with the sauce. Stir frequently, without mashing up the tofu, until it is heated through. Add the green onions and mix just before taking the pan off the heat. Serve immediately.
 
----
+## Notes
 
 Recipe derived from [Namiko Hirasawa Chen at Just One Cookbook](https://www.justonecookbook.com/mapo-tofu/).
