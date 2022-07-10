@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{ .Content }}
+<content>
+  {{ if .Data.Singular }}
+  {{else}}
+    <h3>Cuisines</h3>
+    <small>
+      <div>
+        {{ range .Site.Taxonomies.cuisines }}
+        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+        {{ end }}
+      </div>
+    </small>
+    <h3>Ingredients</h3>
+    <small>
+      <div>
+        {{ range .Site.Taxonomies.ingredients }}
+        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+        {{ end }}
+      </div>
+    </small>
+    <h3>Collections</h3>
+    <small>
+      <div>
+        {{ range .Site.Taxonomies.collections }}
+        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+        {{ end }}
+      </div>
+    </small>
+    {{ end }}
+</content>
+{{ end }}

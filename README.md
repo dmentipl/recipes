@@ -1,50 +1,29 @@
 # Recipes
 
-Food recipes.
+My recipes written in markdown and generated with Hugo. Currently hosted on GitHub at <https://dmentipl.github.io/recipes>.
 
 ## Requirements
 
-The website is built with [Sphinx](https://www.sphinx-doc.org/) and [MyST](https://myst-parser.readthedocs.io/). See `requirements.txt` and `requirements-dev.txt` for all dependencies.
-
-Install dependencies in a virtual environment.
+Get hugo. If you're using nix, try the following.
 
 ```bash
-python -m venv .env
-source .env/bin/activate
-python -m pip install --upgrade pip setuptools wheel
-python -m pip install -r requirements.txt -r requirements-dev.txt
+nix-shell -p hugo --run fish
 ```
 
 ## Usage
 
-Instructions for building and viewing the website locally.
-
-### Build
-
-Make changes then build the HTML with Sphinx.
+Start the server, make changes, then view the build.
 
 ```bash
-sphinx-build . _build -b dirhtml
+hugo server &
 ```
 
-### View
-
-Inspect the output in a web browser.
-
-```bash
-python -m http.server 8000 --directory _build
-```
-
-### Autobuild
-
-An alternative, handy for development, is to automatically build the website and re-render upon any change using sphinx-autobuild.
-
-```bash
-sphinx-autobuild . _build -b dirhtml --host 0.0.0.0 --open-browser &
-```
+View the build at <http://localhost:1313/>.
 
 ## Deploy
 
-A GitHub Actions workflow is used to deploy website. Any changes pushed to the main branch will automatically rebuild the website.
+A GitHub Actions workflow is used to deploy website. Any changes pushed to the main branch will automatically rebuild the website. See [deploy.yml](.github/workflows/deploy.yml) for details.
 
-See [deploy.yml](.github/workflows/deploy.yml) for details.
+## Credit
+
+This website is built using Jan Raasch's [Hugo ʕ•ᴥ•ʔ Bear Blog](https://github.com/janraasch/hugo-bearblog/) theme which in turn is derived from Herman Martinus's [Bear Blog](https://github.com/HermanMartinus/bearblog/) application.
