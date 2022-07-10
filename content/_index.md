@@ -1,1 +1,1 @@
-Recipes curated by Daniel Mentiplay.
+Recipes curated by [Daniel Mentiplay](https://dmentipl.github.io/).
