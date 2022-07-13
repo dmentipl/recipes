@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{ if not .Params.menu }}
+<h1>{{ .Title }}</h1>
+<p>
+  Cuisine:
+  {{ range (.GetTerms "cuisines") }}
+  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+  {{ end }}
+  | Ingredients:
+  {{ range (.GetTerms "ingredients") }}
+  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+  {{ end }}
+  | Collections:
+  {{ range (.GetTerms "collections") }}
+  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+  {{ end }}
+</p>
+{{ end }}
+<content>
+  {{ .Content }}
+</content>
+{{ end }}

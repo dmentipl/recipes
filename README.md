@@ -1,6 +1,6 @@
 # Recipes
 
-My recipes written in markdown and generated with Hugo. Currently hosted on GitHub at <https://dmentipl.github.io/recipes>.
+Recipes written in markdown and generated with Hugo. Currently hosted on GitHub at <https://dmentipl.github.io/recipes>.
 
 ## Requirements
 

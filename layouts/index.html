@@ -3,7 +3,7 @@
 <content>
   {{ if .Data.Singular }}
   {{else}}
-    <h3>Cuisines</h3>
+    <h2>Eat</h2>
     <small>
       <div>
         {{ range .Site.Taxonomies.cuisines }}
@@ -11,7 +11,7 @@
         {{ end }}
       </div>
     </small>
-    <h3>Ingredients</h3>
+    <br>
     <small>
       <div>
         {{ range .Site.Taxonomies.ingredients }}
@@ -19,7 +19,7 @@
         {{ end }}
       </div>
     </small>
-    <h3>Collections</h3>
+    <br>
     <small>
       <div>
         {{ range .Site.Taxonomies.collections }}
@@ -27,6 +27,14 @@
         {{ end }}
       </div>
     </small>
-    {{ end }}
+    <h2>Drink</h2>
+    <small>
+      <div>
+        {{ range .Site.Taxonomies.tags }}
+        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+        {{ end }}
+      </div>
+    <small>
+  {{ end }}
 </content>
 {{ end }}

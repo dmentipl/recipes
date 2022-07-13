@@ -1,4 +1,4 @@
 +++
-title = "Recipes"
+title = "Drink"
 menu = "main"
 +++

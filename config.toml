@@ -12,13 +12,10 @@ languageCode = "en-US"
 enableRobotsTXT = true
 
 [taxonomies]
-  ingredients = 'ingredients'
+  ingredients = "ingredients"
   collections = 'collections'
-  cuisines = 'cuisines'
-
-[permalinks]
-  recipes = "/:slug/"
-  tags = "/ingredient/:slug"
+  cuisines = "cuisines"
+  tags = "tags" # for cocktails
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.

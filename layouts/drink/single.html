@@ -1,6 +1,11 @@
 {{ define "main" }}
 {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
+<p>
+  {{ range (.GetTerms "tags") }}
+  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+  {{ end }}
+</p>
 {{ end }}
 <content>
   {{ .Content }}
