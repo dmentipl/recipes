@@ -1,12 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 <p>
-  Alcohol:
-  {{ range (.GetTerms "alcohol") }}
-  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
-  {{ end }}
-  | Mixers:
-  {{ range (.GetTerms "mixers") }}
+  {{ range (union (.GetTerms "alcohol") (.GetTerms "mixers")) }}
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
   {{ end }}
 </p>
