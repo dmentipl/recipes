@@ -5,7 +5,6 @@ ingredients = []
 collections = ["sides", "vegan", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - 100 g green beans, trimmed and cut into halves

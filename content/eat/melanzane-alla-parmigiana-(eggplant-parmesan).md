@@ -5,7 +5,6 @@ ingredients = ["cheese"]
 collections = ["baked", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - Olive oil, vegetable oil, or a combination, for frying

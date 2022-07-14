@@ -1,6 +1,7 @@
 +++
 title = "White lady"
-tags = ["gin", "lemon-juice", "triple-sec"]
+alcohol = ["gin", "triple-sec"]
+mixers = ["lemon-juice"]
 +++
 
 ## Ingredients

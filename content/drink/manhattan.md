@@ -1,6 +1,7 @@
 +++
 title = "Manhattan"
-tags = ["aromatic-bitters", "bourbon", "rye-whisky", "sweet-vermouth"]
+alcohol = ["aromatic-bitters", "bourbon", "rye-whisky", "sweet-vermouth"]
+mixers = []
 +++
 
 ## Ingredients

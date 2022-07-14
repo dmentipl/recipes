@@ -1,6 +1,7 @@
 +++
 title = "Southside"
-tags = ["gin", "lime-juice", "mint", "sugar-syrup"]
+alcohol = ["gin"]
+mixers = ["lime-juice", "mint", "sugar-syrup"]
 +++
 
 ## Ingredients

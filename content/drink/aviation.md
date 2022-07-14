@@ -1,6 +1,7 @@
 +++
 title = "Aviation"
-tags = ["gin", "lemon-juice", "maraschino-liqueur", "sugar-syrup"]
+alcohol = ["gin", "maraschino-liqueur"]
+mixers = ["lemon-juice", "sugar-syrup"]
 +++
 
 ## Ingredients

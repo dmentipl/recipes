@@ -5,7 +5,6 @@ ingredients = ["beef"]
 collections = []
 +++
 
-
 ## Ingredients
 
 - 1 kg beef chuck or oyster blade

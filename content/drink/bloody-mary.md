@@ -1,6 +1,7 @@
 +++
 title = "Bloody Mary"
-tags = ["hot-sauce", "lemon-juice", "tomato-juice", "vodka", "worcestershire-sauce"]
+alcohol = ["vodka"]
+mixers = ["hot-sauce", "lemon-juice", "tomato-juice", "worcestershire-sauce"]
 +++
 
 ## Ingredients

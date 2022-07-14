@@ -1,6 +1,7 @@
 +++
 title = "Cube libre"
-tags = ["cola", "lime-juice", "rum"]
+alcohol = ["rum"]
+mixers = ["cola", "lime-juice"]
 +++
 
 ## Ingredients

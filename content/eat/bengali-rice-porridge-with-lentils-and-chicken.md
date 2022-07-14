@@ -5,7 +5,6 @@ ingredients = ["chicken", "legumes", "rice"]
 collections = []
 +++
 
-
 ## Ingredients
 
 - 3/4 cup jasmine rice

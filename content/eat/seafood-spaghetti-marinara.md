@@ -5,7 +5,6 @@ ingredients = ["pasta", "seafood"]
 collections = []
 +++
 
-
 ## Ingredients
 
 -   200 g dried spaghetti pasta (or other long pasta of choice)

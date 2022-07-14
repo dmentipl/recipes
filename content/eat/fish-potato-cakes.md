@@ -5,7 +5,6 @@ ingredients = ["fish"]
 collections = []
 +++
 
-
 ## Ingredients
 
 - 700 g potatoes, peeled and chopped

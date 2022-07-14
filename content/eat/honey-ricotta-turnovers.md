@@ -5,7 +5,6 @@ ingredients = ["cheese"]
 collections = ["dessert"]
 +++
 
-
 ## Ingredients
 
 - 3/4 cup whole-milk ricotta

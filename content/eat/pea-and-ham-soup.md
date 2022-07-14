@@ -5,7 +5,6 @@ ingredients = ["legumes", "pork"]
 collections = ["soup"]
 +++
 
-
 ## Ingredients
 
 - 1 ham hock

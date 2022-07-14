@@ -5,7 +5,6 @@ ingredients = ["beef"]
 collections = ["stew"]
 +++
 
-
 ## Ingredients
 
 - 3kg beef cheeks

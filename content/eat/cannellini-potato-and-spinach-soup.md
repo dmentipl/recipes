@@ -5,7 +5,6 @@ ingredients = ["legumes"]
 collections = ["soup", "vegan", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - 3 cans cannellini or other white beans

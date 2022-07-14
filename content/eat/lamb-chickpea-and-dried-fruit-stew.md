@@ -5,7 +5,6 @@ ingredients = ["lamb", "legumes"]
 collections = ["stew"]
 +++
 
-
 ## Ingredients
 
 - 2 tablespoons oil or butter

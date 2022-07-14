@@ -1,6 +1,7 @@
 +++
 title = "Daiquiri"
-tags = ["lime-juice", "rum", "sugar-syrup"]
+alcohol = ["rum"]
+mixers = ["lime-juice", "sugar-syrup"]
 +++
 
 ## Ingredients

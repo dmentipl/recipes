@@ -1,6 +1,7 @@
 +++
 title = "Scofflaw"
-tags = ["dry-vermouth", "grenadine", "lemon-juice", "orange-bitters", "rye-whisky"]
+alcohol = ["dry-vermouth", "orange-bitters", "rye-whisky"]
+mixers = ["grenadine", "lemon-juice"]
 +++
 
 ## Ingredients

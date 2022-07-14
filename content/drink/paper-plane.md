@@ -1,6 +1,7 @@
 +++
 title = "Paper plane"
-tags = ["amaro", "aperol", "bourbon", "lemon-juice"]
+alcohol = ["amaro", "aperol", "bourbon"]
+mixers = ["lemon-juice"]
 +++
 
 ## Ingredients

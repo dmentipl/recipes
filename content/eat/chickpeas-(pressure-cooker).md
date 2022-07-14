@@ -5,7 +5,6 @@ ingredients = ["legumes"]
 collections = ["basics"]
 +++
 
-
 ## Ingredients
 
 - 450 g dried chickpeas

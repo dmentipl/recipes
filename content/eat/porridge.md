@@ -5,7 +5,6 @@ ingredients = ["grains"]
 collections = ["basics", "breakfast"]
 +++
 
-
 ## Ingredients
 
 - ⅓ cup rolled oats

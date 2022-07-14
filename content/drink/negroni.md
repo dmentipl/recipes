@@ -1,6 +1,7 @@
 +++
 title = "Negroni"
-tags = ["campari", "gin", "sweet-vermouth"]
+alcohol = ["campari", "gin", "sweet-vermouth"]
+mixers = []
 +++
 
 ## Ingredients

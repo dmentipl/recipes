@@ -2,7 +2,12 @@
 {{ if not .Params.menu }}
 <h1>{{ .Title }}</h1>
 <p>
-  {{ range (.GetTerms "tags") }}
+  Alcohol:
+  {{ range (.GetTerms "alcohol") }}
+  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+  {{ end }}
+  | Mixers:
+  {{ range (.GetTerms "mixers") }}
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
   {{ end }}
 </p>

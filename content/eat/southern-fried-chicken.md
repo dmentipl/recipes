@@ -5,7 +5,6 @@ ingredients = ["chicken"]
 collections = ["fried"]
 +++
 
-
 ## Ingredients
 
 - 2 tablespoons paprika

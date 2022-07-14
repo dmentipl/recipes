@@ -1,6 +1,7 @@
 +++
 title = "Sidecar"
-tags = ["brandy", "lemon-juice", "triple-sec"]
+alcohol = ["brandy", "triple-sec"]
+mixers = ["lemon-juice"]
 +++
 
 ## Ingredients

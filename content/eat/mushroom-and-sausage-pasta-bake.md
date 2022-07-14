@@ -5,7 +5,6 @@ ingredients = ["pasta", "sausage"]
 collections = ["baked"]
 +++
 
-
 ## Ingredients
 
 - 1 cup Panko-style bread crumbs

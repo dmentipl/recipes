@@ -1,6 +1,7 @@
 +++
 title = "Piña colada"
-tags = ["coconut-milk", "pineapple-juice", "rum"]
+alcohol = ["rum"]
+mixers = ["coconut-milk", "pineapple-juice"]
 +++
 
 ## Ingredients

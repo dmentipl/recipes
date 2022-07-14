@@ -5,7 +5,6 @@ ingredients = ["cheese", "eggs"]
 collections = ["baked", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - 500 g frozen chopped spinach, thawed and well-drained

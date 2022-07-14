@@ -1,6 +1,7 @@
 +++
 title = "Jasmine"
-tags = ["campari", "gin", "lemon-juice", "triple-sec"]
+alcohol = ["campari", "gin", "triple-sec"]
+mixers = ["lemon-juice"]
 +++
 
 ## Ingredients

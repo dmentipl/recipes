@@ -1,6 +1,7 @@
 +++
 title = "Whiskey sour"
-tags = ["bourbon", "egg-white", "lemon-juice", "orange-bitters", "sugar-syrup"]
+alcohol = ["bourbon", "orange-bitters"]
+mixers = ["egg-white", "lemon-juice", "sugar-syrup"]
 +++
 
 ## Ingredients

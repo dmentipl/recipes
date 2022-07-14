@@ -1,6 +1,7 @@
 +++
 title = "Brooklyn"
-tags = ["amaro", "dry-vermouth", "maraschino-liqueur", "rye-whisky"]
+alcohol = ["amaro", "dry-vermouth", "maraschino-liqueur", "rye-whisky"]
+mixers = []
 +++
 
 ## Ingredients

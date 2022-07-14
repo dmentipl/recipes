@@ -1,6 +1,7 @@
 +++
 title = "Pisco sour"
-tags = ["aromatic-bitters", "egg-white", "lime-juice", "pisco", "sugar-syrup"]
+alcohol = ["aromatic-bitters", "pisco"]
+mixers = ["egg-white", "lime-juice", "sugar-syrup"]
 +++
 
 ## Ingredients

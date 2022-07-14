@@ -1,6 +1,7 @@
 +++
 title = "Hemingway special"
-tags = ["grapefruit-juice", "lime-juice", "maraschino-liqueur", "rum", "sugar-syrup"]
+alcohol = ["maraschino-liqueur", "rum"]
+mixers = ["grapefruit-juice", "lime-juice", "sugar-syrup"]
 +++
 
 ## Ingredients

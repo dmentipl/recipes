@@ -1,6 +1,7 @@
 +++
 title = "Artist's special"
-tags = ["grenadine", "lemon-juice", "scotch", "sherry"]
+alcohol = ["scotch", "sherry"]
+mixers = ["grenadine", "lemon-juice"]
 +++
 
 ## Ingredients

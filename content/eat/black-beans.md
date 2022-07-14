@@ -5,7 +5,6 @@ ingredients = ["legumes"]
 collections = ["basics"]
 +++
 
-
 ## Ingredients
 
 - 3 x 400g cans of black beans

@@ -5,7 +5,6 @@ ingredients = ["chicken"]
 collections = []
 +++
 
-
 ## Ingredients
 
 - 2 tbsp vegetable oil

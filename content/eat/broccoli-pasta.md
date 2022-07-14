@@ -5,7 +5,6 @@ ingredients = ["pasta"]
 collections = ["vegetarian"]
 +++
 
-
 ## Ingredients
 
 - 200 g short pasta

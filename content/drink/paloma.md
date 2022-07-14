@@ -1,6 +1,7 @@
 +++
 title = "Paloma"
-tags = ["agave-syrup", "grapefruit-juice", "grapefruit-soda", "lime-juice", "soda-water", "tequila"]
+alcohol = ["tequila"]
+mixers = ["agave-syrup", "grapefruit-juice", "grapefruit-soda", "lime-juice", "soda-water"]
 +++
 
 *Note: There are two recipes, a "simple" one and a "complex" one.*

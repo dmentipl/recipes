@@ -1,6 +1,7 @@
 +++
 title = "Brandy crusta"
-tags = ["aromatic-bitters", "brandy", "lemon-juice", "maraschino-liqueur", "triple-sec"]
+alcohol = ["aromatic-bitters", "brandy", "maraschino-liqueur", "triple-sec"]
+mixers = ["lemon-juice"]
 +++
 
 ## Ingredients

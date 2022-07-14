@@ -5,7 +5,6 @@ ingredients = ["fish"]
 collections = ["curry"]
 +++
 
-
 ## Ingredients
 
 - 2 tbsp coconut oil

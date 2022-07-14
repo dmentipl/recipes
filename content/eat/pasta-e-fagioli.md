@@ -5,7 +5,6 @@ ingredients = ["legumes", "pasta"]
 collections = ["stew", "vegan", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - 70-90 g of macaroni or tubetti pasta

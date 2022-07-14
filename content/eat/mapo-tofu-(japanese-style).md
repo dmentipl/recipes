@@ -5,7 +5,6 @@ ingredients = ["beef", "pork", "tofu"]
 collections = []
 +++
 
-
 ## Ingredients
 
 - 2 cloves garlic

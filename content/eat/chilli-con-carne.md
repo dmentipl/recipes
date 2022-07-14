@@ -5,7 +5,6 @@ ingredients = ["beef", "legumes"]
 collections = ["stew"]
 +++
 
-
 ## Ingredients
 
 - 1 tbsp olive oil

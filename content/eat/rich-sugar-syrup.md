@@ -5,7 +5,6 @@ ingredients = []
 collections = ["basics"]
 +++
 
-
 ## Ingredients
 
 - 2 cups sugar

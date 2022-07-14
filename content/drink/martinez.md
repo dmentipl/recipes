@@ -1,6 +1,7 @@
 +++
 title = "Martinez"
-tags = ["aromatic-bitters", "gin", "maraschino-liqueur", "sweet-vermouth"]
+alcohol = ["aromatic-bitters", "gin", "maraschino-liqueur", "sweet-vermouth"]
+mixers = []
 +++
 
 ## Ingredients

@@ -5,7 +5,6 @@ ingredients = ["legumes"]
 collections = ["fried", "vegan", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - 1/2 pound dried chickpeas (1 generous cup; 225g)

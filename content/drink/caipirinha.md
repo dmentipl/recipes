@@ -1,6 +1,7 @@
 +++
 title = "Caipirinha"
-tags = ["cachaça", "lime", "sugar-syrup"]
+alcohol = ["cachaça"]
+mixers = ["lime", "sugar-syrup"]
 +++
 
 ## Ingredients

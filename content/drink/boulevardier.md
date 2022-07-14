@@ -1,6 +1,7 @@
 +++
 title = "Boulevardier"
-tags = ["bourbon", "campari", "rye-whisky", "sweet-vermouth"]
+alcohol = ["bourbon", "campari", "rye-whisky", "sweet-vermouth"]
+mixers = []
 +++
 
 ## Ingredients

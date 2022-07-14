@@ -1,6 +1,7 @@
 +++
 title = "Dark 'n' stormy"
-tags = ["ginger-beer", "rum"]
+alcohol = ["rum"]
+mixers = ["ginger-beer"]
 +++
 
 ## Ingredients

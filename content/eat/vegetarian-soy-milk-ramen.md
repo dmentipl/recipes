@@ -5,7 +5,6 @@ ingredients = ["noodles"]
 collections = ["soup", "vegan", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 *Dashi*

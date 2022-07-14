@@ -1,6 +1,7 @@
 +++
 title = "Tommy's margarita"
-tags = ["agave-syrup", "lime-juice", "tequila"]
+alcohol = ["tequila"]
+mixers = ["agave-syrup", "lime-juice"]
 +++
 
 ## Ingredients

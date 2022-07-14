@@ -5,7 +5,6 @@ ingredients = ["beef"]
 collections = ["curry"]
 +++
 
-
 ## Ingredients
 
 - 600 g beef chuck steak or gravy beef

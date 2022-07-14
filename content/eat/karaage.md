@@ -5,7 +5,6 @@ ingredients = ["chicken"]
 collections = ["fried"]
 +++
 
-
 ## Ingredients
 
 - 600g chicken thighs, skin-on

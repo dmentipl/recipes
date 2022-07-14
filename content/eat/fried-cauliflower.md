@@ -5,7 +5,6 @@ ingredients = []
 collections = ["fried", "vegan", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - 2 L peanut oil

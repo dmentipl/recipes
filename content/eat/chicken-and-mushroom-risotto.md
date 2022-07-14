@@ -5,7 +5,6 @@ ingredients = ["chicken", "rice"]
 collections = []
 +++
 
-
 ## Ingredients
 
 - 1 tbsp olive oil

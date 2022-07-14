@@ -5,7 +5,6 @@ ingredients = []
 collections = ["sides", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - 1 medium cauliflower head

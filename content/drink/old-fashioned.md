@@ -1,6 +1,7 @@
 +++
 title = "Old fashioned"
-tags = ["aromatic-bitters", "bourbon", "rye-whisky", "sugar-syrup"]
+alcohol = ["aromatic-bitters", "bourbon", "rye-whisky"]
+mixers = ["sugar-syrup"]
 +++
 
 ## Ingredients

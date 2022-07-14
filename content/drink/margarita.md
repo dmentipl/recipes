@@ -1,6 +1,7 @@
 +++
 title = "Margarita"
-tags = ["lime-juice", "tequila", "triple-sec"]
+alcohol = ["tequila", "triple-sec"]
+mixers = ["lime-juice"]
 +++
 
 ## Ingredients

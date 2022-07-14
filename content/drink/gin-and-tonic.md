@@ -1,6 +1,7 @@
 +++
 title = "Gin and tonic"
-tags = ["gin", "tonic-water"]
+alcohol = ["gin"]
+mixers = ["tonic-water"]
 +++
 
 ## Ingredients

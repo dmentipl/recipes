@@ -1,6 +1,7 @@
 +++
 title = "Americano"
-tags = ["campari", "soda-water", "sweet-vermouth"]
+alcohol = ["campari", "sweet-vermouth"]
+mixers = ["soda-water"]
 +++
 
 ## Ingredients

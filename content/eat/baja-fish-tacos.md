@@ -5,7 +5,6 @@ ingredients = ["fish"]
 collections = ["fried"]
 +++
 
-
 ## Ingredients
 
 *Cabbage slaw*

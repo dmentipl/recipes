@@ -1,6 +1,7 @@
 +++
 title = "Corpse reviver no. 2"
-tags = ["absinthe", "cocchi-americano", "gin", "lemon-juice", "lillet-blanc", "triple-sec"]
+alcohol = ["absinthe", "cocchi-americano", "gin", "lillet-blanc", "triple-sec"]
+mixers = ["lemon-juice"]
 +++
 
 ## Ingredients

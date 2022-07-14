@@ -5,7 +5,6 @@ ingredients = ["lamb"]
 collections = ["roast"]
 +++
 
-
 ## Ingredients
 
 - 1.8kg lamb shoulder (bone in)

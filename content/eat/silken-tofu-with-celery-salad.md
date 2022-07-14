@@ -5,7 +5,6 @@ ingredients = ["tofu"]
 collections = []
 +++
 
-
 ## Ingredients
 
 - 1 stalk celery, cut into thin 2-inch matchsticks

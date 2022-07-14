@@ -5,7 +5,6 @@ ingredients = ["legumes"]
 collections = ["curry", "vegan", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - ¼ cup oil

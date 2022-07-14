@@ -1,6 +1,7 @@
 +++
 title = "Spritz Veneziano"
-tags = ["aperol", "prosecco", "soda-water"]
+alcohol = ["aperol", "prosecco"]
+mixers = ["soda-water"]
 +++
 
 ## Ingredients

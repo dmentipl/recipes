@@ -30,7 +30,15 @@
     <h2>Drink</h2>
     <small>
       <div>
-        {{ range .Site.Taxonomies.tags }}
+        {{ range .Site.Taxonomies.alcohol }}
+        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+        {{ end }}
+      </div>
+    </small>
+    <br>
+    <small>
+      <div>
+        {{ range .Site.Taxonomies.mixers }}
         <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
         {{ end }}
       </div>

@@ -5,7 +5,6 @@ ingredients = ["legumes"]
 collections = ["vegan", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - 4 medium cloves garlic, roughly chopped

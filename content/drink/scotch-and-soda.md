@@ -1,6 +1,7 @@
 +++
 title = "Scotch and soda"
-tags = ["scotch", "soda-water"]
+alcohol = ["scotch"]
+mixers = ["soda-water"]
 +++
 
 ## Ingredients

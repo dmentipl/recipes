@@ -5,7 +5,6 @@ ingredients = ["coffee"]
 collections = ["basics"]
 +++
 
-
 ## Ingredients
 
 - 21 g coffee

@@ -1,6 +1,7 @@
 +++
 title = "Mojito"
-tags = ["lime-juice", "mint", "rum", "soda-water", "sugar-syrup"]
+alcohol = ["rum"]
+mixers = ["lime-juice", "mint", "soda-water", "sugar-syrup"]
 +++
 
 ## Ingredients

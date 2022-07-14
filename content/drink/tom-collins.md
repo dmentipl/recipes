@@ -1,6 +1,7 @@
 +++
 title = "Tom Collins"
-tags = ["gin", "lemon-juice", "soda-water", "sugar-syrup"]
+alcohol = ["gin"]
+mixers = ["lemon-juice", "soda-water", "sugar-syrup"]
 +++
 
 ## Ingredients

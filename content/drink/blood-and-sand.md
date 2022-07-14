@@ -1,6 +1,7 @@
 +++
 title = "Blood and sand"
-tags = ["cherry-heering", "orange-juice", "scotch", "sweet-vermouth"]
+alcohol = ["cherry-heering", "scotch", "sweet-vermouth"]
+mixers = ["orange-juice"]
 +++
 
 ## Ingredients

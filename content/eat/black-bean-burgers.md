@@ -5,7 +5,6 @@ ingredients = ["legumes"]
 collections = ["burgers", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - 2 (15-ounce) cans black beans, rinsed and drained

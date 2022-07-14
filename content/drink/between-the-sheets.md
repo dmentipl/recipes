@@ -1,6 +1,7 @@
 +++
 title = "Between the sheets"
-tags = ["brandy", "lemon-juice", "rum", "triple-sec"]
+alcohol = ["brandy", "rum", "triple-sec"]
+mixers = ["lemon-juice"]
 +++
 
 ## Ingredients

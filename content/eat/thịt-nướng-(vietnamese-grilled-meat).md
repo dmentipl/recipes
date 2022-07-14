@@ -5,7 +5,6 @@ ingredients = ["chicken", "pork"]
 collections = ["grilled"]
 +++
 
-
 ## Ingredients
 
 - 1-1.5 kg pork butt or top sirloin, thinly sliced approximately 1/4 inch thick, or same weight in chicken thighs not sliced

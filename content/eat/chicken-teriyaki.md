@@ -5,7 +5,6 @@ ingredients = ["chicken"]
 collections = []
 +++
 
-
 ## Ingredients
 
 - 1 inch ginger, grated

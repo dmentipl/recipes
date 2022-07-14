@@ -5,7 +5,6 @@ ingredients = ["legumes"]
 collections = ["stew", "vegan", "vegetarian"]
 +++
 
-
 ## Ingredients
 
 - 2 medium onions

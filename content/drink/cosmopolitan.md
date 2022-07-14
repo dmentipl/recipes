@@ -1,6 +1,7 @@
 +++
 title = "Cosmopolitan"
-tags = ["cranberry-juice", "lime-juice", "triple-sec", "vodka"]
+alcohol = ["triple-sec", "vodka"]
+mixers = ["cranberry-juice", "lime-juice"]
 +++
 
 ## Ingredients

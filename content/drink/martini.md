@@ -1,6 +1,7 @@
 +++
 title = "Martini"
-tags = ["dry-vermouth", "gin", "orange-bitters"]
+alcohol = ["dry-vermouth", "gin", "orange-bitters"]
+mixers = []
 +++
 
 ## Ingredients

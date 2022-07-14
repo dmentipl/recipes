@@ -5,7 +5,6 @@ ingredients = ["pasta", "seafood"]
 collections = []
 +++
 
-
 ## Ingredients
 
 - 250 g large prawns, peeled and split down the back, veins removed

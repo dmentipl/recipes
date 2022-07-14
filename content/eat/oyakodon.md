@@ -5,7 +5,6 @@ ingredients = ["chicken", "eggs", "rice"]
 collections = []
 +++
 
-
 ## Ingredients
 
 - 2 boneless skinless chicken thighs

@@ -1,6 +1,7 @@
 +++
 title = "Sazerac"
-tags = ["absinthe", "creole-bitters", "rye-whisky", "sugar-syrup"]
+alcohol = ["absinthe", "creole-bitters", "rye-whisky"]
+mixers = ["sugar-syrup"]
 +++
 
 ## Ingredients
