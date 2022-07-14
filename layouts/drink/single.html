@@ -1,7 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 <p>
-  {{ range (union (.GetTerms "alcohol") (.GetTerms "mixers")) }}
+  {{ range (sort (union (.GetTerms "alcohol") (.GetTerms "mixers")) ".LinkTitle") }}
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
   {{ end }}
 </p>
