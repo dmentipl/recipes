@@ -2,6 +2,13 @@
 <content>
   {{ if .Data.Singular }}
   <h3 style="margin-bottom:0">Filtering for "{{ .Title }}"</h3>
+  <small>
+    {{ if or (eq .Data.Singular "alcohol") (eq .Data.Singular "mixers")}}
+    <a href="{{ "/drink" | relURL }}">Remove filter</a>
+    {{ else if or (eq .Data.Singular "ingredients") (eq .Data.Singular "cuisines") (eq .Data.Singular "collections")}}
+    <a href="{{ "/eat" | relURL }}">Remove filter</a>
+    {{ end }}
+  </small>
   {{ end }}
   <ul class="blog-posts">
     {{ range .Pages }}

@@ -1,11 +1,20 @@
 +++
-title = "Notes"
+title = "About"
 menu = "main"
 +++
 
-## Eat
+Hi, I'm [Daniel Mentiplay (@dmentipl)](https://dmentipl.github.io).
 
-### Inspiration
+This is where I keep collections of recipes for food and drink (cocktails) to share with family, friends, and others. The recipes are mostly reworking of recipes I've found online or in books.
+
+Some notes for cocktails:
+
+1. My recipes use rich sugar syrup which is 2:1 sugar-to-water by volume, as opposed to simple syrup which is 1:1.
+1. For the non-metric folk, 30 mL is approximately 1 fl oz.
+
+## Inspiration
+
+Cooks, chefs, publications, bloggers, and vloggers.
 
 - [Adam Liaw](https://adamliaw.com/)
 - [Adam Ragusea](https://www.adamragusea.com/)
@@ -26,14 +35,7 @@ menu = "main"
 - [The Woks of Life](https://thewoksoflife.com/)
 - [Yotam Ottolenghi](https://ottolenghi.co.uk/recipes)
 
-## Drink
-
-### Notes
-
-1. These recipes use rich sugar syrup which is 2:1 sugar-to-water by volume, as opposed to simple syrup which is 1:1.
-1. For the non-metric folk, 30 mL is approximately 1 fl oz.
-
-### Inspiration
+Bartenders and cocktail guides.
 
 - [Alcademics](https://www.alcademics.com/)
 - [Behind the Bar](https://www.behindthebarwithcaradevine.com/)
