@@ -1,6 +1,6 @@
 +++
 title = "Pisco sour"
-alcohol = ["aromatic-bitters", "pisco"]
+alcohol = ["bitters", "pisco"]
 mixers = ["egg-white", "lime-juice", "sugar-syrup"]
 +++
 
@@ -10,7 +10,7 @@ mixers = ["egg-white", "lime-juice", "sugar-syrup"]
 - 30 ml Lime juice
 - 15 ml Sugar syrup
 - 1/2 Egg white
-- Aromatic bitters
+- Aromatic Bitters
 - lime slice
 
 ## Instructions

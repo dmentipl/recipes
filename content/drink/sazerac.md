@@ -1,6 +1,6 @@
 +++
 title = "Sazerac"
-alcohol = ["absinthe", "creole-bitters", "rye-whisky"]
+alcohol = ["absinthe", "bitters", "rye-whisky"]
 mixers = ["sugar-syrup"]
 +++
 
@@ -8,7 +8,7 @@ mixers = ["sugar-syrup"]
 
 - 60 ml Rye whisky
 - 5 ml Sugar syrup
-- 4 dashes Creole bitters
+- 4 dashes Peychaud's Bitters
 - 4 dashes Absinthe
 - lemon twist
 

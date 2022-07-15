@@ -1,6 +1,6 @@
 +++
 title = "Old fashioned"
-alcohol = ["aromatic-bitters", "bourbon", "rye-whisky"]
+alcohol = ["bitters", "bourbon", "rye-whisky"]
 mixers = ["sugar-syrup"]
 +++
 
@@ -8,7 +8,7 @@ mixers = ["sugar-syrup"]
 
 - 60 ml Rye whisky or Bourbon
 - 5 ml Sugar syrup
-- 4 dashes Aromatic bitters
+- 4 dashes Aromatic Bitters
 - orange or lemon twist
 
 ## Instructions

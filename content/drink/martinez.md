@@ -1,6 +1,6 @@
 +++
 title = "Martinez"
-alcohol = ["aromatic-bitters", "gin", "maraschino-liqueur", "sweet-vermouth"]
+alcohol = ["bitters", "gin", "maraschino-liqueur", "sweet-vermouth"]
 mixers = []
 +++
 
@@ -9,7 +9,7 @@ mixers = []
 - 45 ml Gin
 - 45 ml Sweet vermouth
 - 5 ml Maraschino liqueur
-- 4 dashes Aromatic bitters
+- 4 dashes Aromatic Bitters
 - lemon twist
 
 ## Instructions

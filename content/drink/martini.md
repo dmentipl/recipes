@@ -1,6 +1,6 @@
 +++
 title = "Martini"
-alcohol = ["dry-vermouth", "gin", "orange-bitters"]
+alcohol = ["bitters", "dry-vermouth", "gin"]
 mixers = []
 +++
 
@@ -8,7 +8,7 @@ mixers = []
 
 - 60 ml Gin
 - 20 ml Dry vermouth
-- 4 dashes Orange bitters
+- 4 dashes Orange Bitters
 - lemon twist
 - olives
 

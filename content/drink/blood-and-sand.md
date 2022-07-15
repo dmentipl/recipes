@@ -1,6 +1,6 @@
 +++
 title = "Blood and sand"
-alcohol = ["cherry-heering", "scotch", "sweet-vermouth"]
+alcohol = ["cherry-liqueur", "scotch", "sweet-vermouth"]
 mixers = ["orange-juice"]
 +++
 
@@ -9,7 +9,7 @@ mixers = ["orange-juice"]
 - 20 ml Scotch
 - 20 ml Blood Orange juice
 - 20 ml Sweet vermouth
-- 20 ml Cherry Heering
+- 20 ml Cherry liqueur
 - orange zest
 - cherry
 

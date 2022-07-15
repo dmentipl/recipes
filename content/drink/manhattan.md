@@ -1,6 +1,6 @@
 +++
 title = "Manhattan"
-alcohol = ["aromatic-bitters", "bourbon", "rye-whisky", "sweet-vermouth"]
+alcohol = ["bitters", "bourbon", "rye-whisky", "sweet-vermouth"]
 mixers = []
 +++
 
@@ -8,7 +8,7 @@ mixers = []
 
 - 60 ml Rye whisky or Bourbon
 - 20 ml Sweet vermouth
-- 4 dashes Aromatic bitters
+- 4 dashes Aromatic Bitters
 - cherry
 
 ## Instructions

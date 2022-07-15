@@ -1,6 +1,6 @@
 +++
 title = "Scofflaw"
-alcohol = ["dry-vermouth", "orange-bitters", "rye-whisky"]
+alcohol = ["bitters", "dry-vermouth", "rye-whisky"]
 mixers = ["grenadine", "lemon-juice"]
 +++
 
@@ -9,7 +9,7 @@ mixers = ["grenadine", "lemon-juice"]
 - 50 ml Rye whisky
 - 25 ml Dry vermouth
 - 10 ml Grenadine
-- 4 dashes Orange bitters
+- 4 dashes Orange Bitters
 - 15 ml Lemon juice
 - lemon twist
 

@@ -1,6 +1,6 @@
 +++
 title = "Whiskey sour"
-alcohol = ["bourbon", "orange-bitters"]
+alcohol = ["bitters", "bourbon"]
 mixers = ["egg-white", "lemon-juice", "sugar-syrup"]
 +++
 
@@ -9,7 +9,7 @@ mixers = ["egg-white", "lemon-juice", "sugar-syrup"]
 - 60 ml Bourbon
 - 30 ml Lemon juice
 - 15 ml Sugar syrup
-- 4 dashes Orange bitters
+- 4 dashes Orange Bitters
 - 1/2 Egg white (optional)
 - cherry
 - orange twist

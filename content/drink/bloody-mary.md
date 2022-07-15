@@ -1,7 +1,7 @@
 +++
 title = "Bloody Mary"
 alcohol = ["vodka"]
-mixers = ["hot-sauce", "lemon-juice", "tomato-juice", "worcestershire-sauce"]
+mixers = ["lemon-juice", "tomato-juice"]
 +++
 
 ## Ingredients
@@ -10,7 +10,7 @@ mixers = ["hot-sauce", "lemon-juice", "tomato-juice", "worcestershire-sauce"]
 - 90 ml Tomato juice
 - 15 ml Lemon juice
 - 2 dashes Worcestershire sauce
-- 2 dashes Hot sauce
+- 2 dashes hot sauce
 - pinch celery salt
 - pinch pepper
 - celery stalk

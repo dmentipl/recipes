@@ -1,6 +1,6 @@
 +++
 title = "Corpse reviver no. 2"
-alcohol = ["absinthe", "cocchi-americano", "gin", "lillet-blanc", "triple-sec"]
+alcohol = ["absinthe", "gin", "lillet-blanc", "triple-sec"]
 mixers = ["lemon-juice"]
 +++
 
@@ -8,7 +8,7 @@ mixers = ["lemon-juice"]
 
 - 20 ml Gin
 - 20 ml Triple sec
-- 20 ml Lillet Blanc or Cocchi Americano
+- 20 ml Lillet Blanc
 - 20 ml Lemon juice
 - 4 dashes Absinthe
 - cherry
