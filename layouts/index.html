@@ -7,7 +7,7 @@
     <h2>Eat</h2>
     <small>
       <div>
-        <b><a href="{{ "/cuisines" | relURL }}">[Cusines]</a></b>
+        <b>[Cuisines]</b>
         {{ range .Site.Taxonomies.cuisines }}
         <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
         {{ end }}
@@ -16,7 +16,7 @@
     <br>
     <small>
       <div>
-        <b><a href="{{ "/ingredients" | relURL }}">[Ingredients]</a></b>
+        <b>[Ingredients]</b>
         {{ range .Site.Taxonomies.ingredients }}
         <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
         {{ end }}
@@ -25,7 +25,7 @@
     <br>
     <small>
       <div>
-        <b><a href="{{ "/collections" | relURL }}">[Collections]</a></b>
+        <b>[Collections]</b>
         {{ range .Site.Taxonomies.collections }}
         <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
         {{ end }}
@@ -34,7 +34,7 @@
     <h2>Drink</h2>
     <small>
       <div>
-        <b><a href="{{ "/alcohol" | relURL }}">[Alcohol]</a></b>
+        <b>[Alcohol]</b>
         {{ range .Site.Taxonomies.alcohol }}
         <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
         {{ end }}
@@ -43,7 +43,7 @@
     <br>
     <small>
       <div>
-        <b><a href="{{ "/mixers" | relURL }}">[Mixers]</a></b>
+        <b>[Mixers]</b>
         {{ range .Site.Taxonomies.mixers }}
         <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
         {{ end }}
