@@ -3,52 +3,43 @@
 <content>
   {{ if .Data.Singular }}
   {{else}}
-    <h1>{{ .Title }}</h1>
-    <h2>Eat</h2>
-    <small>
-      <div>
-        <b>[Cuisines]</b>
-        {{ range .Site.Taxonomies.cuisines }}
-        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
-        {{ end }}
-      </div>
-    </small>
+  <h1>{{ .Title }}</h1>
+  <small>
+    <div>
+      <b>[Cuisines]</b>
+      {{ range .Site.Taxonomies.cuisines }}
+      <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+      {{ end }}
+    </div>
     <br>
-    <small>
-      <div>
-        <b>[Ingredients]</b>
-        {{ range .Site.Taxonomies.ingredients }}
-        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
-        {{ end }}
-      </div>
-    </small>
+    <div>
+      <b>[Ingredients]</b>
+      {{ range .Site.Taxonomies.ingredients }}
+      <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+      {{ end }}
+    </div>
     <br>
-    <small>
-      <div>
-        <b>[Collections]</b>
-        {{ range .Site.Taxonomies.collections }}
-        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
-        {{ end }}
-      </div>
-    </small>
-    <h2>Drink</h2>
-    <small>
-      <div>
-        <b>[Alcohol]</b>
-        {{ range .Site.Taxonomies.alcohol }}
-        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
-        {{ end }}
-      </div>
-    </small>
+    <div>
+      <b>[Collections]</b>
+      {{ range .Site.Taxonomies.collections }}
+      <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+      {{ end }}
+    </div>
     <br>
-    <small>
-      <div>
-        <b>[Mixers]</b>
-        {{ range .Site.Taxonomies.mixers }}
-        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
-        {{ end }}
-      </div>
-    </small>
+    <div>
+      <b>[Alcohol]</b>
+      {{ range .Site.Taxonomies.alcohol }}
+      <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+      {{ end }}
+    </div>
+    <br>
+    <div>
+      <b>[Mixers]</b>
+      {{ range .Site.Taxonomies.mixers }}
+      <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+      {{ end }}
+    </div>
+  </small>
   {{ end }}
 </content>
 {{ end }}
