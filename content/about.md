@@ -3,9 +3,11 @@ title = "About"
 menu = "main"
 +++
 
-Hi, I'm [Daniel Mentiplay (@dmentipl)](https://dmentipl.github.io).
+Hi, I'm [Daniel Mentiplay](https://dmentipl.github.io) (@dmentipl). I love eating and cooking, and drinking and mixing drinks. I'm lucky to live in Melbourne, Australia where we have access to high quality ingredients *and* great restaurants and bars.
 
-This is where I keep collections of recipes for food and drink (cocktails) to share with family, friends, and others. The recipes are mostly reworking of recipes I've found online or in books.
+This is where I keep collections of recipes for [eating](eat) and [drinking](drink) to share with family, friends, and others. Feel free to [explore](explore). Some recipes I've reworked from recipes found online or in books. Other recipes I've created myself.
+
+## Notes
 
 Some notes for cocktails:
 
