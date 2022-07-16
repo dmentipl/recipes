@@ -5,14 +5,11 @@ menu = "main"
 
 Hi, I'm [Daniel Mentiplay](https://dmentipl.github.io) (@dmentipl). I love eating and cooking, and drinking and mixing drinks. I'm lucky to live in Melbourne, Australia where we have access to high quality ingredients *and* great restaurants and bars.
 
-This is where I keep collections of recipes for [eating](eat) and [drinking](drink) to share with family, friends, and others. Feel free to [explore](explore). Some recipes I've reworked from recipes found online or in books. Other recipes I've created myself.
+This is where I keep collections of recipes for [eating](eat) and [drinking](drink) to share with family, friends, and others. Feel free to [explore](explore). Some recipes I've reworked from recipes found online or in books, with attribution. Other recipes I've created myself.
 
 ## Notes
 
-Some notes for cocktails:
-
-1. My recipes use rich sugar syrup which is 2:1 sugar-to-water by volume, as opposed to simple syrup which is 1:1.
-1. For the non-metric folk, 30 mL is approximately 1 fl oz.
+Note that for cocktail recipes I prefer a slightly drier drink than seems to be common (adjust according to your taste), and I use rich sugar syrup which is 2:1 sugar-to-water by volume, as opposed to simple syrup which is 1:1.
 
 ## Inspiration
 
@@ -48,3 +45,7 @@ Bartenders and cocktail guides.
 - [Open Drinks](https://opendrinks.io/)
 - [PUNCH](https://punchdrink.com/)
 - [TheCocktailDB](https://www.thecocktaildb.com/)
+
+## This site
+
+This site is made using the static site generator [Hugo](https://gohugo.io/) with a modified version of the [Hugo ʕ•ᴥ•ʔ Bear](https://github.com/janraasch/hugo-bearblog/) theme. The content for this site is licensed as [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/). The [code for this site](https://github.com/dmentipl/recipes/) is [MIT](https://opensource.org/licenses/MIT) licensed except as noted.
