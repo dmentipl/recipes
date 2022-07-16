@@ -31,7 +31,7 @@ collections = []
 2. Combine dashi, mirin, sake, soy sauce in a bowl or a liquid measuring cup.
 3. Add sugar and mix all together until sugar is dissolved.
 4. Thinly slice the onion and chop mitsuba (or green onion). Beat one egg in a small bowl (you will need to beat another egg when you work on the second batch).
-5. Slice the chicken thigh diagonally and cut into 1.5" (4 cm) pieces. I recommend using [“sogigiri” cutting technique](https://www.justonecookbook.com/sogigiri/) so the chicken will be equal thickness and create more surface area for fast cooking.
+5. Slice the chicken thigh diagonally and cut into 1.5" (4 cm) pieces. I recommend using “sogigiri” cutting technique so the chicken will be equal thickness and create more surface area for fast cooking.
 6. We make one serving at a time using an 8-inch frying pan (so you can slide the dish onto a large rice bowl). Divide all the ingredients in half. Add half of the onion in a single layer. Pour roughly 1/3 to ½ of the seasonings mixture (depending on the size of your frying pan, the amount may vary). Pour just enough sauce to cover the onion and chicken.
 7. Add half of the chicken on top of the onion. Make sure the onion and chicken are evenly distributed. Turn on the heat to medium heat and bring to a boil.
 8. Once boiling, lower the heat to medium-low heat. Skim off any foam or scum if you see any. Cover and cook for about 5 minutes or until chicken is no longer pink and onion is tender.
