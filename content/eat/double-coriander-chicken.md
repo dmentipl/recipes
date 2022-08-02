@@ -2,7 +2,7 @@
 title = "Double coriander chicken"
 cuisines = ["southeast-asian"]
 ingredients = ["chicken"]
-collections = []
+collections = ["curry", "easy"]
 +++
 
 ## Ingredients
