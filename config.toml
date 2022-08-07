@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://dmentipl.github.io/recipes"
+baseURL = "https://recipes.danielmentiplay.com"
 
 # Basic metadata configuration for your blog.
 title = "Recipes"
