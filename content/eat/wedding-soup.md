@@ -36,6 +36,6 @@ collections = ["soup"]
 
 ## Notes
 
-- "The term wedding soup comes from a mistranslation of the Italian language phrase minestra maritata ('married soup'), which is a reference to the flavor produced by the combination or 'marriage' of greens and the meat." - [Wikipedia](https://en.wikipedia.org/wiki/Wedding_soup).
+"The term wedding soup comes from a mistranslation of the Italian language phrase minestra maritata ('married soup'), which is a reference to the flavor produced by the combination or 'marriage' of greens and the meat." - [Wikipedia](https://en.wikipedia.org/wiki/Wedding_soup).
 
 Recipe derived from [Adam Liaw](https://www.sbs.com.au/food/recipes/happy-marriage-soup).
