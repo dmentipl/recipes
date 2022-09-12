@@ -2,7 +2,7 @@
 title = "Rice bowl"
 cuisines = []
 ingredients = ["rice"]
-collections = []
+collections = ["easy"]
 +++
 
 ## Ingredients
