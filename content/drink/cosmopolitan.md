@@ -1,15 +1,15 @@
 +++
 title = "Cosmopolitan"
-alcohol = ["triple-sec", "vodka"]
-mixers = ["cranberry-juice", "lime-juice"]
+alcohol = ["vodka", "triple sec"]
+mixers = ["lime juice", "cranberry juice"]
 +++
 
 ## Ingredients
 
-- 60 ml Vodka (citron)
-- 30 ml Triple sec
-- 30 ml Lime juice
-- 15 ml Cranberry juice
+- 60 ml vodka (citron)
+- 30 ml triple sec
+- 30 ml lime juice
+- 15 ml cranberry juice
 - lemon twist
 
 ## Instructions

@@ -1,13 +1,13 @@
 +++
 title = "Dark 'n' stormy"
 alcohol = ["rum"]
-mixers = ["ginger-beer"]
+mixers = ["ginger beer"]
 +++
 
 ## Ingredients
 
-- 60 ml Rum
-- 90 ml Ginger beer
+- 60 ml rum
+- 90 ml ginger beer
 - lime wedge
 
 ## Instructions

@@ -1,7 +1,8 @@
 +++
 title = "Spanakopita"
-cuisines = ["greek"]
-ingredients = ["cheese", "eggs"]
+servings = 6
+cuisines = ["Greek"]
+ingredients = ["cheese", "eggs", "pastry"]
 collections = ["baked", "vegetarian"]
 +++
 

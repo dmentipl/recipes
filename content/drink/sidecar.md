@@ -1,14 +1,14 @@
 +++
 title = "Sidecar"
-alcohol = ["brandy", "triple-sec"]
-mixers = ["lemon-juice"]
+alcohol = ["brandy", "triple sec"]
+mixers = ["lemon juice"]
 +++
 
 ## Ingredients
 
-- 60 ml Brandy
-- 30 ml Triple sec
-- 15 ml Lemon juice
+- 60 ml brandy
+- 30 ml triple sec
+- 15 ml lemon juice
 - orange twist
 
 ## Instructions

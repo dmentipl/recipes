@@ -1,16 +1,16 @@
 +++
 title = "Paloma"
 alcohol = ["tequila"]
-mixers = ["agave-syrup", "grapefruit-juice", "grapefruit-soda", "lime-juice", "soda-water"]
+mixers = ["grapefruit juice", "lime juice", "agave syrup", "soda water"]
 +++
 
 *Note: There are two recipes, a "simple" one and a "complex" one.*
 
 ## Ingredients (simple)
 
-- 60 ml Tequila
-- 120 ml Grapefruit soda
-- 5 ml Lime juice
+- 60 ml tequila
+- 120 ml grapefruit soda
+- 5 ml lime juice
 - pinch of salt
 
 ## Instructions (simple)
@@ -20,11 +20,11 @@ mixers = ["agave-syrup", "grapefruit-juice", "grapefruit-soda", "lime-juice", "s
 
 ## Ingredients (complex)
 
-- 45 ml Tequila
-- 30 ml Grapefruit juice
-- 15 ml Lime juice
-- 5 ml Agave syrup
-- splash of Soda water (optional)
+- 45 ml tequila
+- 30 ml grapefruit juice
+- 15 ml lime juice
+- 5 ml agave syrup
+- splash of soda water (optional)
 - lime or grapefruit wedge
 
 ## Instructions (complex)

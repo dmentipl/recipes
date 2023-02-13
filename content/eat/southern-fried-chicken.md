@@ -1,6 +1,7 @@
 +++
 title = "Southern fried chicken"
-cuisines = ["north-american"]
+servings = 4
+cuisines = ["North American"]
 ingredients = ["chicken"]
 collections = ["fried"]
 +++
@@ -20,7 +21,6 @@ collections = ["fried"]
 - 1/2 cup cornstarch
 - 1 teaspoon baking powder
 - 4 cups vegetable shortening or peanut oil
-
 
 ## Instructions
 

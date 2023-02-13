@@ -1,6 +1,7 @@
 +++
 title = "Oyakodon"
-cuisines = ["japanese"]
+servings = 2
+cuisines = ["Japanese"]
 ingredients = ["chicken", "eggs", "rice"]
 collections = []
 +++

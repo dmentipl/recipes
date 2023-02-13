@@ -1,7 +1,8 @@
 +++
 title = "Honey ricotta turnovers"
-cuisines = ["european"]
-ingredients = ["cheese"]
+servings = 4
+cuisines = ["European"]
+ingredients = ["cheese", "pastry"]
 collections = ["dessert"]
 +++
 

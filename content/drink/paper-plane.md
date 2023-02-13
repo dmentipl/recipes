@@ -1,15 +1,15 @@
 +++
 title = "Paper plane"
-alcohol = ["amaro", "aperol", "bourbon"]
-mixers = ["lemon-juice"]
+alcohol = ["bourbon", "Aperol", "amaro"]
+mixers = ["lemon juice"]
 +++
 
 ## Ingredients
 
-- 20ml Bourbon
+- 20ml bourbon
 - 20ml Aperol
 - 20ml Amaro Nonino or Montenegro
-- 20ml Lemon juice
+- 20ml lemon juice
 - lemon twist
 
 ## Instructions

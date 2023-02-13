@@ -1,6 +1,7 @@
 +++
 title = "Chicken with cardamom rice"
-cuisines = ["middle-eastern"]
+servings = 4
+cuisines = ["Middle Eastern"]
 ingredients = ["chicken", "rice"]
 collections = []
 +++

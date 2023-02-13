@@ -1,15 +1,15 @@
 +++
 title = "Artist's special"
-alcohol = ["scotch", "sherry"]
-mixers = ["grenadine", "lemon-juice"]
+alcohol = ["Scotch", "sherry"]
+mixers = ["lemon juice", "grenadine"]
 +++
 
 ## Ingredients
 
 - 30 ml Scotch
-- 30 ml Oloroso Sherry
-- 15 ml Lemon juice
-- 15 ml Grenadine or redcurrant or raspberry syrup
+- 30 ml Oloroso sherry
+- 15 ml lemon juice
+- 15 ml grenadine or redcurrant or raspberry syrup
 - lemon twist
 
 ## Instructions

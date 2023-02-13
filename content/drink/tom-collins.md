@@ -1,15 +1,15 @@
 +++
 title = "Tom Collins"
 alcohol = ["gin"]
-mixers = ["lemon-juice", "soda-water", "sugar-syrup"]
+mixers = ["lemon juice", "sugar syrup", "soda water"]
 +++
 
 ## Ingredients
 
-- 60 ml Gin
-- 30 ml Lemon juice
-- 15 ml Sugar syrup
-- Soda water
+- 60 ml gin
+- 30 ml lemon juice
+- 15 ml sugar syrup
+- soda water
 - lemon slice
 
 ## Instructions

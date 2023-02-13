@@ -1,16 +1,16 @@
 +++
 title = "Mojito"
 alcohol = ["rum"]
-mixers = ["lime-juice", "mint", "soda-water", "sugar-syrup"]
+mixers = ["lime juice", "sugar syrup", "mint", "soda water"]
 +++
 
 ## Ingredients
 
-- 60 ml Rum
-- 20 ml Lime juice
-- 20 ml Sugar syrup
-- a few Mint leaves
-- Soda water
+- 60 ml rum
+- 20 ml lime juice
+- 20 ml sugar syrup
+- a few mint leaves
+- soda water
 - mint sprig
 
 ## Instructions

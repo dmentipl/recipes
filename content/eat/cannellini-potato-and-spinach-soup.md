@@ -1,6 +1,7 @@
 +++
 title = "Cannellini, potato, and spinach soup"
-cuisines = ["italian"]
+servings = 4
+cuisines = ["Italian"]
 ingredients = ["legumes"]
 collections = ["easy", "soup", "vegan", "vegetarian"]
 +++

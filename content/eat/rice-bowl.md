@@ -1,5 +1,6 @@
 +++
 title = "Rice bowl"
+servings = -1
 cuisines = []
 ingredients = ["rice"]
 collections = ["easy"]

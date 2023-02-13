@@ -1,14 +1,14 @@
 +++
 title = "Boulevardier"
-alcohol = ["bourbon", "campari", "rye-whisky", "sweet-vermouth"]
+alcohol = ["bourbon", "rye whisky", "Campari", "sweet vermouth"]
 mixers = []
 +++
 
 ## Ingredients
 
-- 45 ml Bourbon or Rye whisky
+- 45 ml bourbon or rye whisky
 - 15 ml Campari
-- 15 ml Sweet vermouth
+- 15 ml sweet vermouth
 - orange twist
 
 ## Instructions

@@ -1,6 +1,7 @@
 +++
 title = "Chickpea coconut curry"
-cuisines = ["south-asian"]
+servings = 4
+cuisines = ["South Asian"]
 ingredients = ["legumes"]
 collections = ["curry", "easy", "vegan", "vegetarian"]
 +++

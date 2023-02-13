@@ -1,6 +1,7 @@
 +++
 title = "Lamb, chickpea and dried fruit stew"
-cuisines = ["middle-eastern"]
+servings = 4
+cuisines = ["Middle Eastern"]
 ingredients = ["lamb", "legumes"]
 collections = ["stew"]
 +++
@@ -22,7 +23,6 @@ collections = ["stew"]
 - A few bay leaves, and thyme and rosemary sprigs
 - 1-2 teaspoons butter
 - 1-2 teaspoons flour
-
 
 ## Instructions
 

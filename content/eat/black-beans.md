@@ -1,6 +1,7 @@
 +++
 title = "Black beans"
-cuisines = ["mexican"]
+servings = 4
+cuisines = ["Mexican"]
 ingredients = ["legumes"]
 collections = ["basics"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "Chilli con veggie"
-cuisines = ["north-american"]
+servings = 8
+cuisines = ["North American"]
 ingredients = ["legumes"]
 collections = ["stew", "vegan", "vegetarian"]
 +++

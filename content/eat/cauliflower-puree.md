@@ -1,6 +1,7 @@
 +++
 title = "Cauliflower puree"
-cuisines = ["european"]
+servings = 4
+cuisines = ["European"]
 ingredients = []
 collections = ["sides", "vegetarian"]
 +++

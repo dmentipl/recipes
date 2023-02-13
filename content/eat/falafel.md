@@ -1,6 +1,7 @@
 +++
 title = "Falafel"
-cuisines = ["middle-eastern"]
+servings = 4
+cuisines = ["Middle Eastern"]
 ingredients = ["legumes"]
 collections = ["fried", "vegan", "vegetarian"]
 +++

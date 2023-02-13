@@ -1,6 +1,7 @@
 +++
 title = "Porridge"
-cuisines = ["european"]
+servings = 1
+cuisines = ["European"]
 ingredients = ["grains"]
 collections = ["basics", "breakfast"]
 +++

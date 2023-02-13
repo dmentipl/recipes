@@ -1,6 +1,7 @@
 +++
 title = "Chicken teriyaki"
-cuisines = ["japanese"]
+servings = 4
+cuisines = ["Japanese"]
 ingredients = ["chicken"]
 collections = []
 +++

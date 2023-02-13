@@ -1,14 +1,14 @@
 +++
 title = "Tommy's margarita"
 alcohol = ["tequila"]
-mixers = ["agave-syrup", "lime-juice"]
+mixers = ["lime juice", "agave syrup"]
 +++
 
 ## Ingredients
 
-- 60 ml Tequila
-- 30 ml Lime juice
-- 15 ml Agave syrup
+- 60 ml tequila
+- 30 ml lime juice
+- 15 ml agave syrup
 - lime slice
 
 ## Instructions

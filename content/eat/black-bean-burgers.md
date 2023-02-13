@@ -1,6 +1,7 @@
 +++
 title = "Black bean burgers"
-cuisines = ["north-american"]
+servings = 6
+cuisines = ["North American"]
 ingredients = ["legumes"]
 collections = ["burgers", "vegetarian"]
 +++

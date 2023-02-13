@@ -1,6 +1,7 @@
 +++
 title = "Chilli con carne"
-cuisines = ["north-american"]
+servings = 4
+cuisines = ["North American"]
 ingredients = ["beef", "legumes"]
 collections = ["stew"]
 +++

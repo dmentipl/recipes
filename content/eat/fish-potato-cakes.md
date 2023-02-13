@@ -1,6 +1,7 @@
 +++
 title = "Fish potato cakes"
-cuisines = ["european"]
+servings = 4
+cuisines = ["European"]
 ingredients = ["fish"]
 collections = []
 +++

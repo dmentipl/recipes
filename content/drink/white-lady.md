@@ -1,14 +1,14 @@
 +++
 title = "White lady"
-alcohol = ["gin", "triple-sec"]
-mixers = ["lemon-juice"]
+alcohol = ["gin", "triple sec"]
+mixers = ["lemon juice"]
 +++
 
 ## Ingredients
 
-- 45 ml Gin
-- 30 ml Triple sec
-- 20 ml Lemon juice
+- 45 ml gin
+- 30 ml triple sec
+- 20 ml lemon juice
 - lemon twist
 
 ## Instructions

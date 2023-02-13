@@ -1,6 +1,7 @@
 +++
 title = "Vegetarian soy-milk ramen"
-cuisines = ["japanese"]
+servings = 2
+cuisines = ["Japanese"]
 ingredients = ["noodles"]
 collections = ["soup", "vegan", "vegetarian"]
 +++

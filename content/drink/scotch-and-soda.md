@@ -1,13 +1,13 @@
 +++
 title = "Scotch and soda"
-alcohol = ["scotch"]
-mixers = ["soda-water"]
+alcohol = ["Scotch"]
+mixers = ["soda water"]
 +++
 
 ## Ingredients
 
 - 60 ml Scotch
-- 90 ml Soda water
+- 90 ml soda water
 
 ## Instructions
 

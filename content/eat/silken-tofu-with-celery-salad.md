@@ -1,6 +1,7 @@
 +++
 title = "Silken tofu with celery salad"
-cuisines = ["east-asian"]
+servings = 4
+cuisines = ["East Asian"]
 ingredients = ["tofu"]
 collections = []
 +++

@@ -1,6 +1,7 @@
 +++
 title = "Prawn and garlic pasta"
-cuisines = ["italian"]
+servings = 2
+cuisines = ["Italian"]
 ingredients = ["pasta", "seafood"]
 collections = []
 +++

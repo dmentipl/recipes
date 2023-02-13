@@ -1,6 +1,7 @@
 +++
 title = "Reverse braised beef"
-cuisines = ["north-american"]
+servings = 6
+cuisines = ["North American"]
 ingredients = ["beef"]
 collections = []
 +++

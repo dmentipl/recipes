@@ -1,14 +1,14 @@
 +++
 title = "Piña colada"
 alcohol = ["rum"]
-mixers = ["coconut-milk", "pineapple-juice"]
+mixers = ["coconut milk", "pineapple juice"]
 +++
 
 ## Ingredients
 
-- 30 ml Rum
-- 30 ml Coconut milk
-- 90 ml Pineapple juice
+- 30 ml rum
+- 30 ml coconut milk
+- 90 ml pineapple juice
 - pineapple slice
 - cherry
 

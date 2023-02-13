@@ -1,5 +1,6 @@
 +++
 title = "Chickpeas (pressure cooker)"
+servings = 6
 cuisines = []
 ingredients = ["legumes"]
 collections = ["basics"]

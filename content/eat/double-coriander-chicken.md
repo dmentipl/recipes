@@ -1,6 +1,7 @@
 +++
 title = "Double coriander chicken"
-cuisines = ["southeast-asian"]
+servings = 4
+cuisines = ["Southeast Asian"]
 ingredients = ["chicken"]
 collections = ["curry", "easy"]
 +++

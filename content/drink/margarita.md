@@ -1,14 +1,14 @@
 +++
 title = "Margarita"
-alcohol = ["tequila", "triple-sec"]
-mixers = ["lime-juice"]
+alcohol = ["tequila", "triple sec"]
+mixers = ["lime juice"]
 +++
 
 ## Ingredients
 
-- 60 ml Tequila
-- 30 ml Lime juice
-- 15 ml Triple sec
+- 60 ml tequila
+- 30 ml lime juice
+- 15 ml triple sec
 - lime slice
 
 ## Instructions

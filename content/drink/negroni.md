@@ -1,14 +1,14 @@
 +++
 title = "Negroni"
-alcohol = ["campari", "gin", "sweet-vermouth"]
+alcohol = ["Campari", "gin", "sweet vermouth"]
 mixers = []
 +++
 
 ## Ingredients
 
-- 30 ml Gin
+- 30 ml gin
 - 30 ml Campari
-- 45 ml Sweet vermouth
+- 45 ml sweet vermouth
 - 1/2 slice orange
 
 ## Instructions

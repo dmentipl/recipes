@@ -1,6 +1,7 @@
 +++
 title = "Beef rendang"
-cuisines = ["indonesian"]
+servings = 4
+cuisines = ["Indonesian"]
 ingredients = ["beef"]
 collections = ["curry"]
 +++

@@ -1,14 +1,14 @@
 +++
 title = "Caipirinha"
 alcohol = ["cachaça"]
-mixers = ["lime", "sugar-syrup"]
+mixers = ["lime", "sugar syrup"]
 +++
 
 ## Ingredients
 
-- 60 ml Cachaça
-- 1/2 Lime
-- 15 ml Sugar syrup
+- 60 ml cachaça
+- 1/2 lime
+- 15 ml sugar syrup
 
 ## Instructions
 

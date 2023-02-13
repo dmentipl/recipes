@@ -1,15 +1,15 @@
 +++
 title = "Jasmine"
-alcohol = ["campari", "gin", "triple-sec"]
-mixers = ["lemon-juice"]
+alcohol = ["gin", "triple sec", "Campari"]
+mixers = ["lemon juice"]
 +++
 
 ## Ingredients
 
-- 45 ml Gin
-- 30 ml Triple sec
+- 45 ml gin
+- 30 ml triple sec
 - 20 ml Campari
-- 15 ml Lemon juice
+- 15 ml lemon juice
 - lemon twist
 
 ## Instructions

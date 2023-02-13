@@ -1,6 +1,7 @@
 +++
 title = "Channa masala"
-cuisines = ["indian"]
+servings = 4
+cuisines = ["Indian"]
 ingredients = ["legumes"]
 collections = ["vegan", "vegetarian"]
 +++
@@ -23,7 +24,6 @@ collections = ["vegan", "vegetarian"]
 - 1 (14-ounce) can whole peeled tomatoes
 - 2 (14-ounce) cans chickpeas, drained and rinsed
 - 1 cup cilantro leaves, roughly chopped (1 ounce; 25g)
-
 
 ## Instructions
 

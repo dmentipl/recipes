@@ -1,6 +1,7 @@
 +++
 title = "Mapo tofu (Japanese-style)"
-cuisines = ["japanese"]
+servings = 4
+cuisines = ["Japanese"]
 ingredients = ["beef", "pork", "tofu"]
 collections = []
 +++

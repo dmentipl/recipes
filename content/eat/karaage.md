@@ -1,6 +1,7 @@
 +++
 title = "Karaage"
-cuisines = ["japanese"]
+servings = 4
+cuisines = ["Japanese"]
 ingredients = ["chicken"]
 collections = ["fried"]
 +++

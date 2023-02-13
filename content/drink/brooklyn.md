@@ -1,14 +1,14 @@
 +++
 title = "Brooklyn"
-alcohol = ["amaro", "dry-vermouth", "maraschino-liqueur", "rye-whisky"]
+alcohol = ["rye whisky", "dry vermouth", "amaro", "Maraschino liqueur"]
 mixers = []
 +++
 
 ## Ingredients
 
-- 50 ml Rye whisky
-- 20 ml Dry vermouth
-- 7.5 ml Amaro
+- 50 ml rye whisky
+- 20 ml dry vermouth
+- 7.5 ml amaro
 - 5 ml Maraschino liqueur
 - orange twist
 

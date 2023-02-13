@@ -1,15 +1,15 @@
 +++
 title = "Aviation"
-alcohol = ["gin", "maraschino-liqueur"]
-mixers = ["lemon-juice", "sugar-syrup"]
+alcohol = ["gin", "Maraschino liqueur"]
+mixers = ["lemon juice", "sugar syrup"]
 +++
 
 ## Ingredients
 
-- 50 ml Gin
-- 20 ml Lemon juice
+- 50 ml gin
+- 20 ml lemon juice
 - 10 ml Maraschino liqueur
-- 5 ml Sugar syrup
+- 5 ml sugar syrup
 - 5ml crème de violette
 - cherry
 

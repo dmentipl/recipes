@@ -1,6 +1,7 @@
 +++
 title = "Broccoli pasta"
-cuisines = ["italian"]
+servings = 2
+cuisines = ["Italian"]
 ingredients = ["pasta"]
 collections = ["vegetarian"]
 +++

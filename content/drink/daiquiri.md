@@ -1,14 +1,14 @@
 +++
 title = "Daiquiri"
 alcohol = ["rum"]
-mixers = ["lime-juice", "sugar-syrup"]
+mixers = ["lime juice", "sugar syrup"]
 +++
 
 ## Ingredients
 
-- 60 ml Rum
-- 20 ml Lime juice
-- 10 ml Sugar syrup
+- 60 ml rum
+- 20 ml lime juice
+- 10 ml sugar syrup
 - lime zest
 - lime slice
 

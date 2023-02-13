@@ -1,6 +1,7 @@
 +++
 title = "Pea and ham soup"
-cuisines = ["european"]
+servings = 6
+cuisines = ["European"]
 ingredients = ["legumes", "pork"]
 collections = ["soup"]
 +++

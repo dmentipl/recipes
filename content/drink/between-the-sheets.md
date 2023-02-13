@@ -1,15 +1,15 @@
 +++
 title = "Between the sheets"
-alcohol = ["brandy", "rum", "triple-sec"]
-mixers = ["lemon-juice"]
+alcohol = ["brandy", "rum", "triple sec"]
+mixers = ["lemon juice"]
 +++
 
 ## Ingredients
 
 - 30 ml Brandy
 - 30 ml Rum
-- 30 ml Triple sec
-- 20 ml Lemon juice
+- 30 ml triple sec
+- 20 ml lemon juice
 - orange twist
 
 ## Instructions

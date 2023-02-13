@@ -1,6 +1,7 @@
 +++
 title = "Chicken and mushroom risotto"
-cuisines = ["italian"]
+servings = 4
+cuisines = ["Italian"]
 ingredients = ["chicken", "rice"]
 collections = []
 +++

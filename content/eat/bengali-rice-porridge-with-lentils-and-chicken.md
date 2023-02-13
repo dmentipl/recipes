@@ -1,6 +1,7 @@
 +++
 title = "Bengali rice porridge with lentils and chicken"
-cuisines = ["south-asian"]
+servings = 4
+cuisines = ["South Asian"]
 ingredients = ["chicken", "legumes", "rice"]
 collections = []
 +++

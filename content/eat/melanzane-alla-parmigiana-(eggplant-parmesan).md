@@ -1,6 +1,7 @@
 +++
 title = "Melanzane alla Parmigiana (eggplant Parmesan)"
-cuisines = ["italian"]
+servings = 4
+cuisines = ["Italian"]
 ingredients = ["cheese"]
 collections = ["baked", "vegetarian"]
 +++

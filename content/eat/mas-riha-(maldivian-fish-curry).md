@@ -1,6 +1,7 @@
 +++
 title = "Mas riha (Maldivian fish curry)"
-cuisines = ["south-asian"]
+servings = 2
+cuisines = ["South Asian"]
 ingredients = ["fish"]
 collections = ["curry"]
 +++

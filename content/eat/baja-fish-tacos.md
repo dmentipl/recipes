@@ -1,6 +1,7 @@
 +++
 title = "Baja fish tacos"
-cuisines = ["mexican"]
+servings = 4
+cuisines = ["Mexican"]
 ingredients = ["fish"]
 collections = ["fried"]
 +++

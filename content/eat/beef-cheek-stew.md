@@ -1,6 +1,7 @@
 +++
 title = "Beef cheek stew"
-cuisines = ["european"]
+servings = 8
+cuisines = ["European"]
 ingredients = ["beef"]
 collections = ["stew"]
 +++

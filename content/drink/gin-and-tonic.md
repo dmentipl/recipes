@@ -1,13 +1,13 @@
 +++
 title = "Gin and tonic"
 alcohol = ["gin"]
-mixers = ["tonic-water"]
+mixers = ["tonic water"]
 +++
 
 ## Ingredients
 
-- 60 ml Gin
-- 90 ml Tonic water
+- 60 ml gin
+- 90 ml tonic water
 - lime or lemon wedge
 
 ## Instructions

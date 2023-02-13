@@ -1,6 +1,7 @@
 +++
 title = "Mushroom and sausage pasta bake"
-cuisines = ["north-american"]
+servings = -1
+cuisines = ["North American"]
 ingredients = ["pasta", "sausage"]
 collections = ["baked"]
 +++
@@ -24,7 +25,6 @@ collections = ["baked"]
 - 2 cups homemade or store-bought low-sodium chicken stock
 - 1 cup heavy cream
 - 12 ounces fresh or 8 ounces dried ridged pasta such as rotini or campanelle
-
 
 ## Instructions
 

@@ -1,6 +1,7 @@
 +++
 title = "Pasta e fagioli"
-cuisines = ["italian"]
+servings = 3
+cuisines = ["Italian"]
 ingredients = ["legumes", "pasta"]
 collections = ["stew", "vegan", "vegetarian"]
 +++

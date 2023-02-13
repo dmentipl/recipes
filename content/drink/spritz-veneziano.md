@@ -1,14 +1,14 @@
 +++
 title = "Spritz Veneziano"
-alcohol = ["aperol", "prosecco"]
-mixers = ["soda-water"]
+alcohol = ["prosecco", "Aperol"]
+mixers = ["soda water"]
 +++
 
 ## Ingredients
 
-- 60 ml Prosecco
+- 60 ml prosecco
 - 45 ml Aperol
-- 20 ml Soda water
+- 20 ml soda water
 - orange slice
 - olive
 

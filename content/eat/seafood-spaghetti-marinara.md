@@ -1,21 +1,22 @@
 +++
 title = "Seafood spaghetti marinara"
-cuisines = ["italian"]
+servings = 2
+cuisines = ["Italian"]
 ingredients = ["pasta", "seafood"]
 collections = []
 +++
 
 ## Ingredients
 
--   200 g dried spaghetti pasta (or other long pasta of choice)
--   2 ½ tbsp olive oil, separated
--   400 g seafood marinara mix
--   2 garlic cloves, minced
--   ½ onion, finely chopped
--   ½ cup white wine
--   2 cups tomato passata/tomato puree
--   ½ tsp sugar
--   2 tbsp finely chopped fresh parsley
+- 200 g dried spaghetti pasta (or other long pasta of choice)
+- 2 ½ tbsp olive oil, separated
+- 400 g seafood marinara mix
+- 2 garlic cloves, minced
+- ½ onion, finely chopped
+- ½ cup white wine
+- 2 cups tomato passata/tomato puree
+- ½ tsp sugar
+- 2 tbsp finely chopped fresh parsley
 
 ## Instructions
 

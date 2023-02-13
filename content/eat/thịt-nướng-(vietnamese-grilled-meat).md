@@ -1,6 +1,7 @@
 +++
 title = "Thịt nướng (Vietnamese grilled meat)"
-cuisines = ["vietnamese"]
+servings = 6
+cuisines = ["Vietnamese"]
 ingredients = ["chicken", "pork"]
 collections = ["grilled"]
 +++

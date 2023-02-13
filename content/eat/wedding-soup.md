@@ -1,6 +1,7 @@
 +++
 title = "Wedding soup"
-cuisines = ["italian"]
+servings = 4
+cuisines = ["Italian"]
 ingredients = ["chicken", "pasta", "pork"]
 collections = ["soup"]
 +++

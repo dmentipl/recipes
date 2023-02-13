@@ -1,15 +1,15 @@
 +++
 title = "Southside"
 alcohol = ["gin"]
-mixers = ["lime-juice", "mint", "sugar-syrup"]
+mixers = ["lime juice", "sugar syrup", "mint"]
 +++
 
 ## Ingredients
 
-- 60 ml Gin
-- 30 ml Lime juice
-- 15 ml Sugar syrup
-- 1 Mint sprig
+- 60 ml gin
+- 30 ml lime juice
+- 15 ml sugar syrup
+- 1 mint sprig
 - 1 mint leaf
 
 ## Instructions

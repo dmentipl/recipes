@@ -1,14 +1,14 @@
 +++
 title = "Cube libre"
 alcohol = ["rum"]
-mixers = ["cola", "lime-juice"]
+mixers = ["cola", "lime juice"]
 +++
 
 ## Ingredients
 
-- 60 ml Rum
-- 90 ml Cola
-- 5 ml Lime juice
+- 60 ml rum
+- 90 ml cola
+- 5 ml lime juice
 - lime wedge
 
 ## Instructions

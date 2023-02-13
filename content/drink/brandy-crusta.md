@@ -1,16 +1,16 @@
 +++
 title = "Brandy crusta"
-alcohol = ["bitters", "brandy", "maraschino-liqueur", "triple-sec"]
-mixers = ["lemon-juice"]
+alcohol = ["brandy", "triple sec", "Maraschino liqueur", "bitters"]
+mixers = ["lemon juice"]
 +++
 
 ## Ingredients
 
-- 60 ml Brandy
-- 15 ml Triple sec
-- 15 ml Lemon juice
+- 60 ml brandy
+- 15 ml triple sec
+- 15 ml lemon juice
 - 10 ml Maraschino liqueur
-- 4 dashes Aromatic Bitters
+- 4 dashes aromatic bitters
 - sugar
 - lemon twist
 
