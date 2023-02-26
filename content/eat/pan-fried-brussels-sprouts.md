@@ -21,3 +21,5 @@ collections = ["basics"]
 ## Notes
 
 - The pan should be wide enough to fit all the sprouts in one layer. I often use a cast-iron pan. You also need a fitting lid.
+- You can use other vegetables with this technique. For example, I will do broccoli this way.
+- You can also start this off by frying some onion or even bacon. It's delicious this way.
