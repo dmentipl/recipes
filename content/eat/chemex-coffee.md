@@ -2,8 +2,8 @@
 title = "Chemex coffee"
 servings = 2
 cuisines = []
-ingredients = ["coffee"]
-collections = ["basics"]
+ingredients = []
+collections = ["coffee"]
 +++
 
 ## Ingredients

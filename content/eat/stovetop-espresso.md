@@ -2,8 +2,8 @@
 title = "Stovetop espresso"
 servings = 1
 cuisines = []
-ingredients = ["coffee"]
-collections = ["basics"]
+ingredients = []
+collections = ["coffee"]
 +++
 
 ## Ingredients

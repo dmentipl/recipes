@@ -3,7 +3,7 @@ title = "Rich sugar syrup"
 servings = -1
 cuisines = []
 ingredients = []
-collections = ["basics"]
+collections = []
 +++
 
 ## Ingredients
