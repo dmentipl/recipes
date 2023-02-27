@@ -26,3 +26,5 @@ collections = ["coffee"]
 - Equipment: 2-cup V60, V60 filter papers, a carafe, a pouring kettle, accurate scales.
 - This should make about 440 ml of coffee.
 - I use a 1zpresso JX-pro hand grinder, with setting usually between 4.4 to 4.6.
+
+Recipe derived from [James Hoffmann on YouTube](https://www.youtube.com/watch?v=AI4ynXzkSQo).

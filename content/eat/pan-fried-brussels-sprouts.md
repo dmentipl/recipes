@@ -2,8 +2,8 @@
 title = "Pan-fried Brussels sprouts"
 servings = 4
 cuisines = ["European"]
-ingredients = ["vegetable"]
-collections = ["basics"]
+ingredients = ["vegetables"]
+collections = ["basics", "sides"]
 +++
 
 ## Ingredients
