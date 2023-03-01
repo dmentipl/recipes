@@ -9,8 +9,8 @@ collections = ["easy"]
 ## Ingredients
 
 - Steamed white rice
-- Protein, e.g. boiled egg, Omelette, Spicy tuna with mayo, Chicken teriyaki
-- Vegetables, e.g. julienne carrots, corn kernels, cherry tomatoes, Quick cucumber pickle, salad with sesame dressing
+- Protein, e.g. boiled egg, omelette, spicy tuna with mayo, [Chicken teriyaki]({{< relref "chicken-teriyaki" >}})
+- Vegetables, e.g. julienne carrots, corn kernels, cherry tomatoes, quick cucumber pickle, salad with sesame dressing
 - Pickled ginger
 - Rice seasoning
 

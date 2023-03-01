@@ -16,7 +16,7 @@ collections = ["fried", "vegan", "vegetarian"]
 - 1/2 teaspoon (about 2g) ground coriander seed
 - 2 teaspoons (about 10g) kosher salt, plus more for seasoning
 - 2 to 3 cups (480 to 720ml) vegetable oil, for frying
-- Tahini sauce and Hummus for serving
+- Tahini sauce and hummus for serving
 
 ## Instructions
 

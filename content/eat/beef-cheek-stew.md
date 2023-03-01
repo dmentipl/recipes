@@ -26,7 +26,7 @@ collections = ["stew"]
 2. Add onion, garlic head and carrots to caramelise. Add herbs and spices and cook for a few minutes. Add sherry and wine, bring to the boil and simmer for 5 minutes until reduced.
 3. Add browned cheeks, cover with water, put the lid on, and simmer for a couple of hours or until tender. The cheeks should be tender but firm enough to stay intact. To test this, squeeze the cheek - if it's soft but doesn't fall apart, it's ready.
 4. Remove cheeks from sauce and place in a small baking tray. Reduce sauce by half and pass through a sieve over cheeks.
-5. Serve with Cauliflower puree.
+5. Serve with [Cauliflower puree]({{< relref "cauliflower-puree" >}}).
 
 ## Notes
 
