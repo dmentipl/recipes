@@ -1,8 +1,8 @@
-+++
-title = "Brooklyn"
-alcohol = ["rye whisky", "dry vermouth", "amaro", "Maraschino liqueur"]
-mixers = []
-+++
+---
+title: "Brooklyn"
+alcohol: ["rye whisky", "dry vermouth", "amaro", "Maraschino liqueur"]
+mixers:
+---
 
 ## Ingredients
 

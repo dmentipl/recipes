@@ -1,8 +1,8 @@
-+++
-title = "Paloma"
-alcohol = ["tequila"]
-mixers = ["grapefruit juice", "lime juice", "agave syrup", "soda water"]
-+++
+---
+title: "Paloma"
+alcohol: ["tequila"]
+mixers: ["grapefruit juice", "lime juice", "agave syrup", "soda water"]
+---
 
 *Note: There are two recipes, a "simple" one and a "complex" one.*
 

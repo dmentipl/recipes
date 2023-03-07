@@ -1,10 +1,10 @@
-+++
-title = "Sichuan eggplants and green beans"
-servings = 2
-cuisines = ["Chinese"]
-ingredients = []
-collections = ["sides", "vegan", "vegetarian"]
-+++
+---
+title: "Sichuan eggplants and green beans"
+servings: 2
+cuisines: ["Chinese"]
+ingredients:
+collections: ["sides", "vegan", "vegetarian"]
+---
 
 ## Ingredients
 

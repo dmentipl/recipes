@@ -1,8 +1,8 @@
-+++
-title = "Cube libre"
-alcohol = ["rum"]
-mixers = ["cola", "lime juice"]
-+++
+---
+title: "Cube libre"
+alcohol: ["rum"]
+mixers: ["cola", "lime juice"]
+---
 
 ## Ingredients
 

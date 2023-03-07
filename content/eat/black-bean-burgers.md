@@ -1,10 +1,10 @@
-+++
-title = "Black bean burgers"
-servings = 6
-cuisines = ["North American"]
-ingredients = ["legumes"]
-collections = ["burgers", "vegetarian"]
-+++
+---
+title: "Black bean burgers"
+servings: 6
+cuisines: ["North American"]
+ingredients: ["legumes"]
+collections: ["burgers", "vegetarian"]
+---
 
 ## Ingredients
 

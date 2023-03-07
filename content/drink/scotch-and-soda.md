@@ -1,8 +1,8 @@
-+++
-title = "Scotch and soda"
-alcohol = ["Scotch"]
-mixers = ["soda water"]
-+++
+---
+title: "Scotch and soda"
+alcohol: ["Scotch"]
+mixers: ["soda water"]
+---
 
 ## Ingredients
 

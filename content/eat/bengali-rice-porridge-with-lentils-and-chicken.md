@@ -1,10 +1,10 @@
-+++
-title = "Bengali rice porridge with lentils and chicken"
-servings = 4
-cuisines = ["South Asian"]
-ingredients = ["chicken", "legumes", "rice"]
-collections = []
-+++
+---
+title: "Bengali rice porridge with lentils and chicken"
+servings: 4
+cuisines: ["South Asian"]
+ingredients: ["chicken", "legumes", "rice"]
+collections:
+---
 
 ## Ingredients
 

@@ -1,8 +1,8 @@
-+++
-title = "Sazerac"
-alcohol = ["rye whisky", "bitters", "absinthe"]
-mixers = ["sugar syrup"]
-+++
+---
+title: "Sazerac"
+alcohol: ["rye whisky", "bitters", "absinthe"]
+mixers: ["sugar syrup"]
+---
 
 ## Ingredients
 

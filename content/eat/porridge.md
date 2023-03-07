@@ -1,10 +1,10 @@
-+++
-title = "Porridge"
-servings = 1
-cuisines = ["European"]
-ingredients = ["grains"]
-collections = ["basics", "breakfast"]
-+++
+---
+title: "Porridge"
+servings: 1
+cuisines: ["European"]
+ingredients: ["grains"]
+collections: ["basics", "breakfast"]
+---
 
 ## Ingredients
 

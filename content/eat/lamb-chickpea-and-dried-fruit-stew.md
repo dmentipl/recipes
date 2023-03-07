@@ -1,10 +1,10 @@
-+++
-title = "Lamb, chickpea and dried fruit stew"
-servings = 4
-cuisines = ["Middle Eastern"]
-ingredients = ["lamb", "legumes"]
-collections = ["stew"]
-+++
+---
+title: "Lamb, chickpea and dried fruit stew"
+servings: 4
+cuisines: ["Middle Eastern"]
+ingredients: ["lamb", "legumes"]
+collections: ["stew"]
+---
 
 ## Ingredients
 

@@ -1,10 +1,10 @@
-+++
-title = "Mushroom and sausage pasta bake"
-servings = -1
-cuisines = ["North American"]
-ingredients = ["pasta", "sausage"]
-collections = ["baked"]
-+++
+---
+title: "Mushroom and sausage pasta bake"
+servings:
+cuisines: ["North American"]
+ingredients: ["pasta", "sausage"]
+collections: ["baked"]
+---
 
 ## Ingredients
 

@@ -1,10 +1,10 @@
-+++
-title = "Rich sugar syrup"
-servings = -1
-cuisines = []
-ingredients = []
-collections = ["basics"]
-+++
+---
+title: "Rich sugar syrup"
+servings:
+cuisines:
+ingredients:
+collections: ["basics"]
+---
 
 ## Ingredients
 

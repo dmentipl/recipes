@@ -1,8 +1,8 @@
-+++
-title = "Bloody Mary"
-alcohol = ["vodka"]
-mixers = ["tomato juice", "lemon juice"]
-+++
+---
+title: "Bloody Mary"
+alcohol: ["vodka"]
+mixers: ["tomato juice", "lemon juice"]
+---
 
 ## Ingredients
 

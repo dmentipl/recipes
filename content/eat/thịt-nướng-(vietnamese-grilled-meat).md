@@ -1,10 +1,10 @@
-+++
-title = "Thịt nướng (Vietnamese grilled meat)"
-servings = 6
-cuisines = ["Vietnamese"]
-ingredients = ["chicken", "pork"]
-collections = ["grilled"]
-+++
+---
+title: "Thịt nướng (Vietnamese grilled meat)"
+servings: 6
+cuisines: ["Vietnamese"]
+ingredients: ["chicken", "pork"]
+collections: ["grilled"]
+---
 
 ## Ingredients
 

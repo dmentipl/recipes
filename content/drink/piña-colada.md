@@ -1,8 +1,8 @@
-+++
-title = "Piña colada"
-alcohol = ["rum"]
-mixers = ["coconut milk", "pineapple juice"]
-+++
+---
+title: "Piña colada"
+alcohol: ["rum"]
+mixers: ["coconut milk", "pineapple juice"]
+---
 
 ## Ingredients
 

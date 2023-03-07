@@ -1,8 +1,8 @@
-+++
-title = "Corpse reviver no. 2"
-alcohol = ["gin", "triple sec", "Lillet Blanc", "absinthe"]
-mixers = ["lemon juice"]
-+++
+---
+title: "Corpse reviver no. 2"
+alcohol: ["gin", "triple sec", "Lillet Blanc", "absinthe"]
+mixers: ["lemon juice"]
+---
 
 ## Ingredients
 

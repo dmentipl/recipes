@@ -1,8 +1,8 @@
-+++
-title = "Saratoga"
-alcohol = ["brandy", "rye whisky", "bourbon", "sweet vermouth", "bitters"]
-mixers = []
-+++
+---
+title: "Saratoga"
+alcohol: ["brandy", "rye whisky", "bourbon", "sweet vermouth", "bitters"]
+mixers:
+---
 
 ## Ingredients
 

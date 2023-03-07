@@ -1,8 +1,8 @@
-+++
-title = "Margarita"
-alcohol = ["tequila", "triple sec"]
-mixers = ["lime juice"]
-+++
+---
+title: "Margarita"
+alcohol: ["tequila", "triple sec"]
+mixers: ["lime juice"]
+---
 
 ## Ingredients
 

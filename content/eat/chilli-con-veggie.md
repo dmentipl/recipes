@@ -1,10 +1,10 @@
-+++
-title = "Chilli con veggie"
-servings = 8
-cuisines = ["North American"]
-ingredients = ["legumes"]
-collections = ["stew", "vegan", "vegetarian"]
-+++
+---
+title: "Chilli con veggie"
+servings: 8
+cuisines: ["North American"]
+ingredients: ["legumes"]
+collections: ["stew", "vegan", "vegetarian"]
+---
 
 ## Ingredients
 

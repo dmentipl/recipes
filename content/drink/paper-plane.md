@@ -1,8 +1,8 @@
-+++
-title = "Paper plane"
-alcohol = ["bourbon", "Aperol", "amaro"]
-mixers = ["lemon juice"]
-+++
+---
+title: "Paper plane"
+alcohol: ["bourbon", "Aperol", "amaro"]
+mixers: ["lemon juice"]
+---
 
 ## Ingredients
 

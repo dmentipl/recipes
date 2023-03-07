@@ -1,10 +1,10 @@
-+++
-title = "Baja fish tacos"
-servings = 4
-cuisines = ["Mexican"]
-ingredients = ["fish"]
-collections = ["fried"]
-+++
+---
+title: "Baja fish tacos"
+servings: 4
+cuisines: ["Mexican"]
+ingredients: ["fish"]
+collections: ["fried"]
+---
 
 ## Ingredients
 

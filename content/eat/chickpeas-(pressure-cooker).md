@@ -1,10 +1,10 @@
-+++
-title = "Chickpeas (pressure cooker)"
-servings = 6
-cuisines = []
-ingredients = ["legumes"]
-collections = ["basics"]
-+++
+---
+title: "Chickpeas (pressure cooker)"
+servings: 6
+cuisines:
+ingredients: ["legumes"]
+collections: ["basics"]
+---
 
 ## Ingredients
 

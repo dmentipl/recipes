@@ -1,10 +1,10 @@
-+++
-title = "Fish potato cakes"
-servings = 4
-cuisines = ["European"]
-ingredients = ["fish"]
-collections = []
-+++
+---
+title: "Fish potato cakes"
+servings: 4
+cuisines: ["European"]
+ingredients: ["fish"]
+collections:
+---
 
 ## Ingredients
 

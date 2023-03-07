@@ -1,8 +1,8 @@
-+++
-title = "Southside"
-alcohol = ["gin"]
-mixers = ["lime juice", "sugar syrup", "mint"]
-+++
+---
+title: "Southside"
+alcohol: ["gin"]
+mixers: ["lime juice", "sugar syrup", "mint"]
+---
 
 ## Ingredients
 

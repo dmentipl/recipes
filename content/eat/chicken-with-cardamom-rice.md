@@ -1,10 +1,10 @@
-+++
-title = "Chicken with cardamom rice"
-servings = 4
-cuisines = ["Middle Eastern"]
-ingredients = ["chicken", "rice"]
-collections = []
-+++
+---
+title: "Chicken with cardamom rice"
+servings: 4
+cuisines: ["Middle Eastern"]
+ingredients: ["chicken", "rice"]
+collections:
+---
 
 ## Ingredients
 

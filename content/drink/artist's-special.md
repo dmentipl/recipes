@@ -1,8 +1,8 @@
-+++
-title = "Artist's special"
-alcohol = ["Scotch", "sherry"]
-mixers = ["lemon juice", "grenadine"]
-+++
+---
+title: "Artist's special"
+alcohol: ["Scotch", "sherry"]
+mixers: ["lemon juice", "grenadine"]
+---
 
 ## Ingredients
 

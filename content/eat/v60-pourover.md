@@ -1,10 +1,10 @@
-+++
-title = "V60 pourover"
-servings = 2
-cuisines = []
-ingredients = []
-collections = ["coffee"]
-+++
+---
+title: "V60 pourover"
+servings: 2
+cuisines:
+ingredients:
+collections: ["coffee"]
+---
 
 ## Ingredients
 

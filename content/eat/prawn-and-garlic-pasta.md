@@ -1,10 +1,10 @@
-+++
-title = "Prawn and garlic pasta"
-servings = 2
-cuisines = ["Italian"]
-ingredients = ["pasta", "seafood"]
-collections = []
-+++
+---
+title: "Prawn and garlic pasta"
+servings: 2
+cuisines: ["Italian"]
+ingredients: ["pasta", "seafood"]
+collections:
+---
 
 ## Ingredients
 

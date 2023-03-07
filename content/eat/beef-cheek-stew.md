@@ -1,10 +1,10 @@
-+++
-title = "Beef cheek stew"
-servings = 8
-cuisines = ["European"]
-ingredients = ["beef"]
-collections = ["stew"]
-+++
+---
+title: "Beef cheek stew"
+servings: 8
+cuisines: ["European"]
+ingredients: ["beef"]
+collections: ["stew"]
+---
 
 ## Ingredients
 

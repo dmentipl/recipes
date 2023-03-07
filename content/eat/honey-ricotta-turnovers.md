@@ -1,10 +1,10 @@
-+++
-title = "Honey ricotta turnovers"
-servings = 4
-cuisines = ["European"]
-ingredients = ["cheese", "pastry"]
-collections = ["dessert"]
-+++
+---
+title: "Honey ricotta turnovers"
+servings: 4
+cuisines: ["European"]
+ingredients: ["cheese", "pastry"]
+collections: ["dessert"]
+---
 
 ## Ingredients
 

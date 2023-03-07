@@ -1,10 +1,10 @@
-+++
-title = "Beef rendang"
-servings = 4
-cuisines = ["Indonesian"]
-ingredients = ["beef"]
-collections = ["curry"]
-+++
+---
+title: "Beef rendang"
+servings: 4
+cuisines: ["Indonesian"]
+ingredients: ["beef"]
+collections: ["curry"]
+---
 
 ## Ingredients
 

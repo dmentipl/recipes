@@ -1,8 +1,8 @@
-+++
-title = "Pisco sour"
-alcohol = ["pisco"]
-mixers = ["lime juice", "sugar syrup", "egg white", "bitters"]
-+++
+---
+title: "Pisco sour"
+alcohol: ["pisco"]
+mixers: ["lime juice", "sugar syrup", "egg white", "bitters"]
+---
 
 ## Ingredients
 

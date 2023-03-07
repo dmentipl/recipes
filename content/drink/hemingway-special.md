@@ -1,8 +1,8 @@
-+++
-title = "Hemingway special"
-alcohol = ["rum", "Maraschino liqueur"]
-mixers = ["grapefruit juice", "lime juice", "sugar syrup"]
-+++
+---
+title: "Hemingway special"
+alcohol: ["rum", "Maraschino liqueur"]
+mixers: ["grapefruit juice", "lime juice", "sugar syrup"]
+---
 
 ## Ingredients
 

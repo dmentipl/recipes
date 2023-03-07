@@ -1,8 +1,8 @@
-+++
-title = "Aviation"
-alcohol = ["gin", "Maraschino liqueur"]
-mixers = ["lemon juice", "sugar syrup"]
-+++
+---
+title: "Aviation"
+alcohol: ["gin", "Maraschino liqueur"]
+mixers: ["lemon juice", "sugar syrup"]
+---
 
 ## Ingredients
 

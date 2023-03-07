@@ -1,10 +1,10 @@
-+++
-title = "Broccoli pasta"
-servings = 2
-cuisines = ["Italian"]
-ingredients = ["pasta"]
-collections = ["vegetarian"]
-+++
+---
+title: "Broccoli pasta"
+servings: 2
+cuisines: ["Italian"]
+ingredients: ["pasta"]
+collections: ["vegetarian"]
+---
 
 ## Ingredients
 

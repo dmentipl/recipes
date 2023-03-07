@@ -1,10 +1,10 @@
-+++
-title = "Melanzane alla Parmigiana (eggplant Parmesan)"
-servings = 4
-cuisines = ["Italian"]
-ingredients = ["cheese", "vegetables"]
-collections = ["baked", "vegetarian"]
-+++
+---
+title: "Melanzane alla Parmigiana (eggplant Parmesan)"
+servings: 4
+cuisines: ["Italian"]
+ingredients: ["cheese", "vegetables"]
+collections: ["baked", "vegetarian"]
+---
 
 ## Ingredients
 

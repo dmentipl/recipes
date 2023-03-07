@@ -1,10 +1,10 @@
-+++
-title = "Chemex coffee"
-servings = 2
-cuisines = []
-ingredients = []
-collections = ["coffee"]
-+++
+---
+title: "Chemex coffee"
+servings: 2
+cuisines:
+ingredients: []
+collections: ["coffee"]
+---
 
 ## Ingredients
 

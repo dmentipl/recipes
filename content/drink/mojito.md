@@ -1,8 +1,8 @@
-+++
-title = "Mojito"
-alcohol = ["rum"]
-mixers = ["lime juice", "sugar syrup", "mint", "soda water"]
-+++
+---
+title: "Mojito"
+alcohol: ["rum"]
+mixers: ["lime juice", "sugar syrup", "mint", "soda water"]
+---
 
 ## Ingredients
 

@@ -1,8 +1,8 @@
-+++
-title = "Cosmopolitan"
-alcohol = ["vodka", "triple sec"]
-mixers = ["lime juice", "cranberry juice"]
-+++
+---
+title: "Cosmopolitan"
+alcohol: ["vodka", "triple sec"]
+mixers: ["lime juice", "cranberry juice"]
+---
 
 ## Ingredients
 

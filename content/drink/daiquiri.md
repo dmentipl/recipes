@@ -1,8 +1,8 @@
-+++
-title = "Daiquiri"
-alcohol = ["rum"]
-mixers = ["lime juice", "sugar syrup"]
-+++
+---
+title: "Daiquiri"
+alcohol: ["rum"]
+mixers: ["lime juice", "sugar syrup"]
+---
 
 ## Ingredients
 

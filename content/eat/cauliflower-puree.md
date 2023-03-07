@@ -1,10 +1,10 @@
-+++
-title = "Cauliflower puree"
-servings = 4
-cuisines = ["European"]
-ingredients = ["vegetables"]
-collections = ["sides", "vegetarian"]
-+++
+---
+title: "Cauliflower puree"
+servings: 4
+cuisines: ["European"]
+ingredients: ["vegetables"]
+collections: ["sides", "vegetarian"]
+---
 
 ## Ingredients
 

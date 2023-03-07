@@ -1,8 +1,8 @@
-+++
-title = "Sidecar"
-alcohol = ["brandy", "triple sec"]
-mixers = ["lemon juice"]
-+++
+---
+title: "Sidecar"
+alcohol: ["brandy", "triple sec"]
+mixers: ["lemon juice"]
+---
 
 ## Ingredients
 

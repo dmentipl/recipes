@@ -1,10 +1,10 @@
-+++
-title = "Black beans"
-servings = 4
-cuisines = ["Mexican"]
-ingredients = ["legumes"]
-collections = ["basics"]
-+++
+---
+title: "Black beans"
+servings: 4
+cuisines: ["Mexican"]
+ingredients: ["legumes"]
+collections: ["basics"]
+---
 
 ## Ingredients
 

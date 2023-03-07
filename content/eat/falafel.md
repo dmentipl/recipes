@@ -1,10 +1,10 @@
-+++
-title = "Falafel"
-servings = 4
-cuisines = ["Middle Eastern"]
-ingredients = ["legumes"]
-collections = ["fried", "vegan", "vegetarian"]
-+++
+---
+title: "Falafel"
+servings: 4
+cuisines: ["Middle Eastern"]
+ingredients: ["legumes"]
+collections: ["fried", "vegan", "vegetarian"]
+---
 
 ## Ingredients
 

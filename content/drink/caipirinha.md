@@ -1,8 +1,8 @@
-+++
-title = "Caipirinha"
-alcohol = ["cachaça"]
-mixers = ["lime", "sugar syrup"]
-+++
+---
+title: "Caipirinha"
+alcohol: ["cachaça"]
+mixers: ["lime juice", "sugar syrup"]
+---
 
 ## Ingredients
 

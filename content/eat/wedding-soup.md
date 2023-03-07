@@ -1,10 +1,10 @@
-+++
-title = "Wedding soup"
-servings = 4
-cuisines = ["Italian"]
-ingredients = ["chicken", "pasta", "pork"]
-collections = ["soup"]
-+++
+---
+title: "Wedding soup"
+servings: 4
+cuisines: ["Italian"]
+ingredients: ["chicken", "pasta", "pork"]
+collections: ["soup"]
+---
 
 ## Ingredients
 

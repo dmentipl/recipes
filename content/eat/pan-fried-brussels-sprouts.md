@@ -1,10 +1,10 @@
-+++
-title = "Pan-fried Brussels sprouts"
-servings = 4
-cuisines = ["European"]
-ingredients = ["vegetables"]
-collections = ["basics", "sides"]
-+++
+---
+title: "Pan-fried Brussels sprouts"
+servings: 4
+cuisines: ["European"]
+ingredients: ["vegetables"]
+collections: ["basics", "sides"]
+---
 
 ## Ingredients
 

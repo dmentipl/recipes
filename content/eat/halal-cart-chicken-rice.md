@@ -1,10 +1,10 @@
-+++
-title = "Halal-cart chicken rice"
-servings = 4
-cuisines = ["Middle Eastern"]
-ingredients = ["chicken", "rice"]
-collections = []
-+++
+---
+title: "Halal-cart chicken rice"
+servings: 4
+cuisines: ["Middle Eastern"]
+ingredients: ["chicken", "rice"]
+collections:
+---
 
 ## Ingredients
 

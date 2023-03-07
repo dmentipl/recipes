@@ -1,10 +1,10 @@
-+++
-title = "Stovetop espresso"
-servings = 1
-cuisines = []
-ingredients = []
-collections = ["coffee"]
-+++
+---
+title: "Stovetop espresso"
+servings: 1
+cuisines:
+ingredients:
+collections: ["coffee"]
+---
 
 ## Ingredients
 

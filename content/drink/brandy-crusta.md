@@ -1,8 +1,8 @@
-+++
-title = "Brandy crusta"
-alcohol = ["brandy", "triple sec", "Maraschino liqueur", "bitters"]
-mixers = ["lemon juice"]
-+++
+---
+title: "Brandy crusta"
+alcohol: ["brandy", "triple sec", "Maraschino liqueur", "bitters"]
+mixers: ["lemon juice"]
+---
 
 ## Ingredients
 

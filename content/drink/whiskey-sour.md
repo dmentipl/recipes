@@ -1,8 +1,8 @@
-+++
-title = "Whiskey sour"
-alcohol = ["bourbon", "bitters"]
-mixers = ["lemon juice", "sugar syrup", "egg white"]
-+++
+---
+title: "Whiskey sour"
+alcohol: ["bourbon", "bitters"]
+mixers: ["lemon juice", "sugar syrup", "egg white"]
+---
 
 ## Ingredients
 

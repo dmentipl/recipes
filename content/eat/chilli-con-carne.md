@@ -1,10 +1,10 @@
-+++
-title = "Chilli con carne"
-servings = 4
-cuisines = ["North American"]
-ingredients = ["beef", "legumes"]
-collections = ["stew"]
-+++
+---
+title: "Chilli con carne"
+servings: 4
+cuisines: ["North American"]
+ingredients: ["beef", "legumes"]
+collections: ["stew"]
+---
 
 ## Ingredients
 

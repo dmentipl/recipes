@@ -1,10 +1,10 @@
-+++
-title = "Double coriander chicken"
-servings = 4
-cuisines = ["Southeast Asian"]
-ingredients = ["chicken"]
-collections = ["curry", "easy"]
-+++
+---
+title: "Double coriander chicken"
+servings: 4
+cuisines: ["Southeast Asian"]
+ingredients: ["chicken"]
+collections: ["curry", "easy"]
+---
 
 ## Ingredients
 

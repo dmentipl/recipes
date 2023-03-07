@@ -1,10 +1,10 @@
-+++
-title = "Silken tofu with celery salad"
-servings = 4
-cuisines = ["East Asian"]
-ingredients = ["tofu"]
-collections = []
-+++
+---
+title: "Silken tofu with celery salad"
+servings: 4
+cuisines: ["East Asian"]
+ingredients: ["tofu"]
+collections:
+---
 
 ## Ingredients
 

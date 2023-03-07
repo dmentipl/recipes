@@ -1,10 +1,10 @@
-+++
-title = "Mapo tofu (Japanese-style)"
-servings = 4
-cuisines = ["Japanese"]
-ingredients = ["beef", "pork", "tofu"]
-collections = []
-+++
+---
+title: "Mapo tofu (Japanese-style)"
+servings: 4
+cuisines: ["Japanese"]
+ingredients: ["beef", "pork", "tofu"]
+collections:
+---
 
 ## Ingredients
 

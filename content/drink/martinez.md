@@ -1,8 +1,8 @@
-+++
-title = "Martinez"
-alcohol = ["gin", "sweet vermouth", "Maraschino liqueur", "bitters"]
-mixers = []
-+++
+---
+title: "Martinez"
+alcohol: ["gin", "sweet vermouth", "Maraschino liqueur", "bitters"]
+mixers:
+---
 
 ## Ingredients
 

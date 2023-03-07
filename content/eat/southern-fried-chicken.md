@@ -1,10 +1,10 @@
-+++
-title = "Southern fried chicken"
-servings = 4
-cuisines = ["North American"]
-ingredients = ["chicken"]
-collections = ["fried"]
-+++
+---
+title: "Southern fried chicken"
+servings: 4
+cuisines: ["North American"]
+ingredients: ["chicken"]
+collections: ["fried"]
+---
 
 ## Ingredients
 

@@ -1,10 +1,10 @@
-+++
-title = "Rice bowl"
-servings = -1
-cuisines = []
-ingredients = ["rice"]
-collections = ["easy"]
-+++
+---
+title: "Rice bowl"
+servings:
+cuisines:
+ingredients: ["rice"]
+collections: ["easy"]
+---
 
 ## Ingredients
 

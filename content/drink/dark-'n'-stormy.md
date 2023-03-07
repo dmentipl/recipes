@@ -1,8 +1,8 @@
-+++
-title = "Dark 'n' stormy"
-alcohol = ["rum"]
-mixers = ["ginger beer"]
-+++
+---
+title: "Dark 'n' stormy"
+alcohol: ["rum"]
+mixers: ["ginger beer"]
+---
 
 ## Ingredients
 

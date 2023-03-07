@@ -1,8 +1,8 @@
-+++
-title = "Blood and sand"
-alcohol = ["Scotch", "sweet vermouth", "cherry liqueur"]
-mixers = ["orange juice"]
-+++
+---
+title: "Blood and sand"
+alcohol: ["Scotch", "sweet vermouth", "cherry liqueur"]
+mixers: ["orange juice"]
+---
 
 ## Ingredients
 

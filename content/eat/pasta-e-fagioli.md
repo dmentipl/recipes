@@ -1,10 +1,10 @@
-+++
-title = "Pasta e fagioli"
-servings = 3
-cuisines = ["Italian"]
-ingredients = ["legumes", "pasta"]
-collections = ["stew", "vegan", "vegetarian"]
-+++
+---
+title: "Pasta e fagioli"
+servings: 3
+cuisines: ["Italian"]
+ingredients: ["legumes", "pasta"]
+collections: ["stew", "vegan", "vegetarian"]
+---
 
 ## Ingredients
 

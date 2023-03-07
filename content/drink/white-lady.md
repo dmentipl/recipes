@@ -1,8 +1,8 @@
-+++
-title = "White lady"
-alcohol = ["gin", "triple sec"]
-mixers = ["lemon juice"]
-+++
+---
+title: "White lady"
+alcohol: ["gin", "triple sec"]
+mixers: ["lemon juice"]
+---
 
 ## Ingredients
 

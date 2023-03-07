@@ -1,10 +1,10 @@
-+++
-title = "Chicken teriyaki"
-servings = 4
-cuisines = ["Japanese"]
-ingredients = ["chicken"]
-collections = []
-+++
+---
+title: "Chicken teriyaki"
+servings: 4
+cuisines: ["Japanese"]
+ingredients: ["chicken"]
+collections:
+---
 
 ## Ingredients
 

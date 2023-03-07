@@ -1,10 +1,10 @@
-+++
-title = "Oyakodon"
-servings = 2
-cuisines = ["Japanese"]
-ingredients = ["chicken", "eggs", "rice"]
-collections = []
-+++
+---
+title: "Oyakodon"
+servings: 2
+cuisines: ["Japanese"]
+ingredients: ["chicken", "eggs", "rice"]
+collections:
+---
 
 ## Ingredients
 

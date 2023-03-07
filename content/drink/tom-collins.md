@@ -1,8 +1,8 @@
-+++
-title = "Tom Collins"
-alcohol = ["gin"]
-mixers = ["lemon juice", "sugar syrup", "soda water"]
-+++
+---
+title: "Tom Collins"
+alcohol: ["gin"]
+mixers: ["lemon juice", "sugar syrup", "soda water"]
+---
 
 ## Ingredients
 

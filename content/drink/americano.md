@@ -1,8 +1,8 @@
-+++
-title = "Americano"
-alcohol = ["Campari", "sweet vermouth"]
-mixers = ["soda water"]
-+++
+---
+title: "Americano"
+alcohol: ["Campari", "sweet vermouth"]
+mixers: ["soda water"]
+---
 
 ## Ingredients
 

@@ -1,8 +1,8 @@
-+++
-title = "Gin and tonic"
-alcohol = ["gin"]
-mixers = ["tonic water"]
-+++
+---
+title: "Gin and tonic"
+alcohol: ["gin"]
+mixers: ["tonic water"]
+---
 
 ## Ingredients
 

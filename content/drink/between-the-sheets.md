@@ -1,8 +1,8 @@
-+++
-title = "Between the sheets"
-alcohol = ["brandy", "rum", "triple sec"]
-mixers = ["lemon juice"]
-+++
+---
+title: "Between the sheets"
+alcohol: ["brandy", "rum", "triple sec"]
+mixers: ["lemon juice"]
+---
 
 ## Ingredients
 

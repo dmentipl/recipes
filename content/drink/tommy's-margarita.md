@@ -1,8 +1,8 @@
-+++
-title = "Tommy's margarita"
-alcohol = ["tequila"]
-mixers = ["lime juice", "agave syrup"]
-+++
+---
+title: "Tommy's margarita"
+alcohol: ["tequila"]
+mixers: ["lime juice", "agave syrup"]
+---
 
 ## Ingredients
 

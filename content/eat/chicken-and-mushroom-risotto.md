@@ -1,10 +1,10 @@
-+++
-title = "Chicken and mushroom risotto"
-servings = 4
-cuisines = ["Italian"]
-ingredients = ["chicken", "rice"]
-collections = []
-+++
+---
+title: "Chicken and mushroom risotto"
+servings: 4
+cuisines: ["Italian"]
+ingredients: ["chicken", "rice"]
+collections:
+---
 
 ## Ingredients
 

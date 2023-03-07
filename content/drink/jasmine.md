@@ -1,8 +1,8 @@
-+++
-title = "Jasmine"
-alcohol = ["gin", "triple sec", "Campari"]
-mixers = ["lemon juice"]
-+++
+---
+title: "Jasmine"
+alcohol: ["gin", "triple sec", "Campari"]
+mixers: ["lemon juice"]
+---
 
 ## Ingredients
 

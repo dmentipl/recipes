@@ -1,10 +1,10 @@
-+++
-title = "Channa masala"
-servings = 4
-cuisines = ["Indian"]
-ingredients = ["legumes"]
-collections = ["vegan", "vegetarian"]
-+++
+---
+title: "Channa masala"
+servings: 4
+cuisines: ["Indian"]
+ingredients: ["legumes"]
+collections: ["vegan", "vegetarian"]
+---
 
 ## Ingredients
 

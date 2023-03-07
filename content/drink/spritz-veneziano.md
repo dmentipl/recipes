@@ -1,8 +1,8 @@
-+++
-title = "Spritz Veneziano"
-alcohol = ["prosecco", "Aperol"]
-mixers = ["soda water"]
-+++
+---
+title: "Spritz Veneziano"
+alcohol: ["prosecco", "Aperol"]
+mixers: ["soda water"]
+---
 
 ## Ingredients
 

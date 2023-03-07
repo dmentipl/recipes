@@ -1,10 +1,10 @@
-+++
-title = "Fried cauliflower"
-servings = 4
-cuisines = ["North American"]
-ingredients = ["fried"]
-collections = ["vegan", "vegetarian"]
-+++
+---
+title: "Fried cauliflower"
+servings: 4
+cuisines: ["North American"]
+ingredients: ["fried"]
+collections: ["vegan", "vegetarian"]
+---
 
 ## Ingredients
 

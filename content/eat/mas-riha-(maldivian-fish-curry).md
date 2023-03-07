@@ -1,10 +1,10 @@
-+++
-title = "Mas riha (Maldivian fish curry)"
-servings = 2
-cuisines = ["South Asian"]
-ingredients = ["fish"]
-collections = ["curry"]
-+++
+---
+title: "Mas riha (Maldivian fish curry)"
+servings: 2
+cuisines: ["South Asian"]
+ingredients: ["fish"]
+collections: ["curry"]
+---
 
 ## Ingredients
 

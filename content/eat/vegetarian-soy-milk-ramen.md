@@ -1,10 +1,10 @@
-+++
-title = "Vegetarian soy-milk ramen"
-servings = 2
-cuisines = ["Japanese"]
-ingredients = ["noodles"]
-collections = ["soup", "vegan", "vegetarian"]
-+++
+---
+title: "Vegetarian soy-milk ramen"
+servings: 2
+cuisines: ["Japanese"]
+ingredients: ["noodles"]
+collections: ["soup", "vegan", "vegetarian"]
+---
 
 ## Ingredients
 

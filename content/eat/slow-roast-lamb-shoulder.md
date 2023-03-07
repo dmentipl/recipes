@@ -1,10 +1,10 @@
-+++
-title = "Slow-roast lamb shoulder"
-servings = 6
-cuisines = ["European"]
-ingredients = ["lamb"]
-collections = ["roast"]
-+++
+---
+title: "Slow-roast lamb shoulder"
+servings: 6
+cuisines: ["European"]
+ingredients: ["lamb"]
+collections: ["roast"]
+---
 
 ## Ingredients
 

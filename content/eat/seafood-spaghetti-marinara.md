@@ -1,10 +1,10 @@
-+++
-title = "Seafood spaghetti marinara"
-servings = 2
-cuisines = ["Italian"]
-ingredients = ["pasta", "seafood"]
-collections = []
-+++
+---
+title: "Seafood spaghetti marinara"
+servings: 2
+cuisines: ["Italian"]
+ingredients: ["pasta", "seafood"]
+collections:
+---
 
 ## Ingredients
 

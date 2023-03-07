@@ -1,8 +1,8 @@
-+++
-title = "Boulevardier"
-alcohol = ["bourbon", "rye whisky", "Campari", "sweet vermouth"]
-mixers = []
-+++
+---
+title: "Boulevardier"
+alcohol: ["bourbon", "rye whisky", "Campari", "sweet vermouth"]
+mixers:
+---
 
 ## Ingredients
 

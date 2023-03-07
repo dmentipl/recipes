@@ -1,8 +1,8 @@
-+++
-title = "Scofflaw"
-alcohol = ["rye whisky", "dry vermouth", "bitters"]
-mixers = ["grenadine", "lemon juice"]
-+++
+---
+title: "Scofflaw"
+alcohol: ["rye whisky", "dry vermouth", "bitters"]
+mixers: ["grenadine", "lemon juice"]
+---
 
 ## Ingredients
 

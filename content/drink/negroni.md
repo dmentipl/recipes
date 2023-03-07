@@ -1,8 +1,8 @@
-+++
-title = "Negroni"
-alcohol = ["Campari", "gin", "sweet vermouth"]
-mixers = []
-+++
+---
+title: "Negroni"
+alcohol: ["Campari", "gin", "sweet vermouth"]
+mixers: []
+---
 
 ## Ingredients
 

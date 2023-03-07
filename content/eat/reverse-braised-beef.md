@@ -1,10 +1,10 @@
-+++
-title = "Reverse braised beef"
-servings = 6
-cuisines = ["North American"]
-ingredients = ["beef"]
-collections = []
-+++
+---
+title: "Reverse braised beef"
+servings: 6
+cuisines: ["North American"]
+ingredients: ["beef"]
+collections:
+---
 
 ## Ingredients
 

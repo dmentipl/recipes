@@ -1,10 +1,10 @@
-+++
-title = "Cannellini, potato, and spinach soup"
-servings = 4
-cuisines = ["Italian"]
-ingredients = ["legumes"]
-collections = ["easy", "soup", "vegan", "vegetarian"]
-+++
+---
+title: "Cannellini, potato, and spinach soup"
+servings: 4
+cuisines: ["Italian"]
+ingredients: ["legumes"]
+collections: ["easy", "soup", "vegan", "vegetarian"]
+---
 
 ## Ingredients
 

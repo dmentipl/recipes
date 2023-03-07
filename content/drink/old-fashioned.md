@@ -1,8 +1,8 @@
-+++
-title = "Old fashioned"
-alcohol = ["rye whisky", "bourbon", "bitters"]
-mixers = ["sugar syrup"]
-+++
+---
+title: "Old fashioned"
+alcohol: ["rye whisky", "bourbon", "bitters"]
+mixers: ["sugar syrup"]
+---
 
 ## Ingredients
 

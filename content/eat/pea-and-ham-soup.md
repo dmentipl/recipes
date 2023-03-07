@@ -1,10 +1,10 @@
-+++
-title = "Pea and ham soup"
-servings = 6
-cuisines = ["European"]
-ingredients = ["legumes", "pork"]
-collections = ["soup"]
-+++
+---
+title: "Pea and ham soup"
+servings: 6
+cuisines: ["European"]
+ingredients: ["legumes", "pork"]
+collections: ["soup"]
+---
 
 ## Ingredients
 

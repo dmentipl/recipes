@@ -1,8 +1,8 @@
-+++
-title = "Manhattan"
-alcohol = ["rye whisky", "bourbon", "sweet vermouth", "bitters"]
-mixers = []
-+++
+---
+title: "Manhattan"
+alcohol: ["rye whisky", "bourbon", "sweet vermouth", "bitters"]
+mixers:
+---
 
 ## Ingredients
 

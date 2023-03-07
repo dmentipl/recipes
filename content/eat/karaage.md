@@ -1,10 +1,10 @@
-+++
-title = "Karaage"
-servings = 4
-cuisines = ["Japanese"]
-ingredients = ["chicken"]
-collections = ["fried"]
-+++
+---
+title: "Karaage"
+servings: 4
+cuisines: ["Japanese"]
+ingredients: ["chicken"]
+collections: ["fried"]
+---
 
 ## Ingredients
 
