@@ -1,5 +1,6 @@
 ---
 title: "Beef cheek stew"
+created: Jul 18, 2021
 servings: 8
 cuisines: ["European"]
 ingredients: ["beef"]

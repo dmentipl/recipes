@@ -1,5 +1,6 @@
 ---
 title: "White lady"
+created: Jul 18, 2021
 alcohol: ["gin", "triple sec"]
 mixers: ["lemon juice"]
 ---

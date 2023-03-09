@@ -1,5 +1,6 @@
 ---
 title: "Cannellini, potato, and spinach soup"
+created: Jul 7, 2021
 servings: 4
 cuisines: ["Italian"]
 ingredients: ["legumes"]

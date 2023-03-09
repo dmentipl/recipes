@@ -1,5 +1,6 @@
 ---
 title: "Channa masala"
+created: Jul 18, 2021
 servings: 4
 cuisines: ["Indian"]
 ingredients: ["legumes"]

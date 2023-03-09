@@ -1,5 +1,6 @@
 ---
 title: "Mojito"
+created: Jul 18, 2021
 alcohol: ["rum"]
 mixers: ["lime juice", "sugar syrup", "mint", "soda water"]
 ---

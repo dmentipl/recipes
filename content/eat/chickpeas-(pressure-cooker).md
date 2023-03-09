@@ -1,5 +1,6 @@
 ---
 title: "Chickpeas (pressure cooker)"
+created: Jul 25, 2021
 servings: 6
 cuisines:
 ingredients: ["legumes"]

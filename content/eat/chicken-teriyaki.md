@@ -1,5 +1,6 @@
 ---
 title: "Chicken teriyaki"
+created: May 11, 2022
 servings: 4
 cuisines: ["Japanese"]
 ingredients: ["chicken"]

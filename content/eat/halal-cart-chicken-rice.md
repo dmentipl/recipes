@@ -1,5 +1,6 @@
 ---
 title: "Halal-cart chicken rice"
+created: Jul 18, 2021
 servings: 4
 cuisines: ["Middle Eastern"]
 ingredients: ["chicken", "rice"]

@@ -1,5 +1,6 @@
 ---
 title: "Paloma"
+created: Jan 26, 2022
 alcohol: ["tequila"]
 mixers: ["grapefruit juice", "lime juice", "agave syrup", "soda water"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Chicken and mushroom risotto"
+created: Jun 8, 2022
 servings: 4
 cuisines: ["Italian"]
 ingredients: ["chicken", "rice"]

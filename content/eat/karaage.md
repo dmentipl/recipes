@@ -1,5 +1,6 @@
 ---
 title: "Karaage"
+created: Dec 30, 2021
 servings: 4
 cuisines: ["Japanese"]
 ingredients: ["chicken"]

@@ -1,5 +1,6 @@
 ---
 title: "Bengali rice porridge with lentils and chicken"
+created: May 21, 2022
 servings: 4
 cuisines: ["South Asian"]
 ingredients: ["chicken", "legumes", "rice"]

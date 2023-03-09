@@ -1,5 +1,6 @@
 ---
 title: "Margarita"
+created: Jul 18, 2021
 alcohol: ["tequila", "triple sec"]
 mixers: ["lime juice"]
 ---

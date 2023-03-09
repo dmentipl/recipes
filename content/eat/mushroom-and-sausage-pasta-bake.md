@@ -1,5 +1,6 @@
 ---
 title: "Mushroom and sausage pasta bake"
+created: Jul 18, 2021
 servings:
 cuisines: ["North American"]
 ingredients: ["pasta", "sausage"]

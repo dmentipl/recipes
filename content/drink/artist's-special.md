@@ -1,5 +1,6 @@
 ---
 title: "Artist's special"
+created: Jul 18, 2021
 alcohol: ["Scotch", "sherry"]
 mixers: ["lemon juice", "grenadine"]
 ---

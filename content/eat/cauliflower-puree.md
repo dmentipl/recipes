@@ -1,5 +1,6 @@
 ---
 title: "Cauliflower puree"
+created: Jul 18, 2021
 servings: 4
 cuisines: ["European"]
 ingredients: ["vegetables"]

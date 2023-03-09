@@ -1,5 +1,6 @@
 ---
 title: "Black beans"
+created: Jul 25, 2021
 servings: 4
 cuisines: ["Mexican"]
 ingredients: ["legumes"]

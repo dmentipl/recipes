@@ -1,5 +1,6 @@
 ---
 title: "Fish potato cakes"
+created: Aug 28, 2021
 servings: 4
 cuisines: ["European"]
 ingredients: ["fish"]

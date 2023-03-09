@@ -1,5 +1,6 @@
 ---
 title: "Pasta e fagioli"
+created: Jul 18, 2021
 servings: 3
 cuisines: ["Italian"]
 ingredients: ["legumes", "pasta"]

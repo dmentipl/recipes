@@ -1,5 +1,6 @@
 ---
 title: "Spanakopita"
+created: Jul 18, 2021
 servings: 6
 cuisines: ["Greek"]
 ingredients: ["cheese", "eggs", "pastry"]

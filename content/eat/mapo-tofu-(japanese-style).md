@@ -1,5 +1,6 @@
 ---
 title: "Mapo tofu (Japanese-style)"
+created: Jul 18, 2021
 servings: 4
 cuisines: ["Japanese"]
 ingredients: ["beef", "pork", "tofu"]

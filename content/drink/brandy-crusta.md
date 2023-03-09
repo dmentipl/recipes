@@ -1,5 +1,6 @@
 ---
 title: "Brandy crusta"
+created: Feb 1, 2022
 alcohol: ["brandy", "triple sec", "Maraschino liqueur", "bitters"]
 mixers: ["lemon juice"]
 ---

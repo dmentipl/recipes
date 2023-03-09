@@ -1,5 +1,6 @@
 ---
 title: "Rice bowl"
+created: Sep 12, 2022
 servings:
 cuisines:
 ingredients: ["rice"]

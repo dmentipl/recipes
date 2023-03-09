@@ -1,5 +1,6 @@
 ---
 title: "Boulevardier"
+created: Oct 7, 2021
 alcohol: ["bourbon", "rye whisky", "Campari", "sweet vermouth"]
 mixers:
 ---

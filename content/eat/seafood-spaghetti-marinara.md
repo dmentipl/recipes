@@ -1,5 +1,6 @@
 ---
 title: "Seafood spaghetti marinara"
+created: Sep 19, 2021
 servings: 2
 cuisines: ["Italian"]
 ingredients: ["pasta", "seafood"]

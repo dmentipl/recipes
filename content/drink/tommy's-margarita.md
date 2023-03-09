@@ -1,5 +1,6 @@
 ---
 title: "Tommy's margarita"
+created: Jul 18, 2021
 alcohol: ["tequila"]
 mixers: ["lime juice", "agave syrup"]
 ---

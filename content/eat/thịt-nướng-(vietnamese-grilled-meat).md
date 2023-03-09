@@ -1,5 +1,6 @@
 ---
 title: "Thịt nướng (Vietnamese grilled meat)"
+created: Jul 18, 2021
 servings: 6
 cuisines: ["Vietnamese"]
 ingredients: ["chicken", "pork"]

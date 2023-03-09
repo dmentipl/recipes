@@ -1,5 +1,6 @@
 ---
 title: "Lamb, chickpea and dried fruit stew"
+created: Jul 18, 2021
 servings: 4
 cuisines: ["Middle Eastern"]
 ingredients: ["lamb", "legumes"]

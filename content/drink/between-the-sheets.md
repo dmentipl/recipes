@@ -1,13 +1,14 @@
 ---
 title: "Between the sheets"
+created: Jul 18, 2021
 alcohol: ["brandy", "rum", "triple sec"]
 mixers: ["lemon juice"]
 ---
 
 ## Ingredients
 
-- 30 ml Brandy
-- 30 ml Rum
+- 30 ml brandy
+- 30 ml rum
 - 30 ml triple sec
 - 20 ml lemon juice
 - orange twist
