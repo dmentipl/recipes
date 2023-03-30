@@ -1,6 +1,6 @@
 ---
 title: "Martini"
-created: Jul 18, 2021
+created: 2021-07-18
 alcohol: ["gin", "dry vermouth", "bitters"]
 mixers:
 ---

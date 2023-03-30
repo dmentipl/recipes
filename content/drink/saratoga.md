@@ -1,6 +1,6 @@
 ---
 title: "Saratoga"
-created: Jul 24, 2022
+created: 2022-07-24
 alcohol: ["brandy", "rye whisky", "bourbon", "sweet vermouth", "bitters"]
 mixers:
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Honey ricotta turnovers"
-created: Oct 7, 2021
+created: 2021-10-07
 servings: 4
 cuisines: ["European"]
 ingredients: ["cheese", "pastry"]

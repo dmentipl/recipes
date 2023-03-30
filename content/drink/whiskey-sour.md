@@ -1,6 +1,6 @@
 ---
 title: "Whiskey sour"
-created: Jul 18, 2021
+created: 2021-07-18
 alcohol: ["bourbon", "bitters"]
 mixers: ["lemon juice", "sugar syrup", "egg white"]
 ---

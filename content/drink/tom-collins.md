@@ -1,6 +1,6 @@
 ---
 title: "Tom Collins"
-created: Jul 18, 2021
+created: 2021-07-18
 alcohol: ["gin"]
 mixers: ["lemon juice", "sugar syrup", "soda water"]
 ---

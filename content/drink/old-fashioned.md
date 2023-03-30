@@ -1,6 +1,6 @@
 ---
 title: "Old fashioned"
-created: Jul 7, 2021
+created: 2021-07-07
 alcohol: ["rye whisky", "bourbon", "bitters"]
 mixers: ["sugar syrup"]
 ---

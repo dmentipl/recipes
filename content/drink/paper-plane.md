@@ -1,6 +1,6 @@
 ---
 title: "Paper plane"
-created: Jan 26, 2022
+created: 2022-01-26
 alcohol: ["bourbon", "Aperol", "amaro"]
 mixers: ["lemon juice"]
 ---

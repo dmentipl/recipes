@@ -1,6 +1,6 @@
 ---
 title: "Oyakodon"
-created: Jul 18, 2021
+created: 2021-07-18
 servings: 2
 cuisines: ["Japanese"]
 ingredients: ["chicken", "eggs", "rice"]

@@ -1,6 +1,6 @@
 ---
 title: "Sichuan eggplants and green beans"
-created: Oct 7, 2021
+created: 2021-10-07
 servings: 2
 cuisines: ["Chinese"]
 ingredients:

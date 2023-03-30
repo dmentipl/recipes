@@ -1,6 +1,6 @@
 ---
 title: "Chicken with cardamom rice"
-created: Jul 7, 2021
+created: 2021-07-07
 servings: 4
 cuisines: ["Middle Eastern"]
 ingredients: ["chicken", "rice"]

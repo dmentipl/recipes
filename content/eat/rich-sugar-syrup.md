@@ -1,6 +1,6 @@
 ---
 title: "Rich sugar syrup"
-created: Jul 18, 2021
+created: 2021-07-18
 servings:
 cuisines:
 ingredients:

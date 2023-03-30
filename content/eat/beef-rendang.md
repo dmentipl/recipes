@@ -1,6 +1,6 @@
 ---
 title: "Beef rendang"
-created: Oct 8, 2021
+created: 2021-10-08
 servings: 4
 cuisines: ["Indonesian"]
 ingredients: ["beef"]

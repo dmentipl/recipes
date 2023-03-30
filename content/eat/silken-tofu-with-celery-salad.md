@@ -1,6 +1,6 @@
 ---
 title: "Silken tofu with celery salad"
-created: May 5, 2022
+created: 2022-05-05
 servings: 4
 cuisines: ["East Asian"]
 ingredients: ["tofu"]

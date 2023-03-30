@@ -1,6 +1,6 @@
 ---
 title: "Pan-fried Brussels sprouts"
-created: Feb 26, 2023
+created: 2023-02-26
 servings: 4
 cuisines: ["European"]
 ingredients: ["vegetables"]

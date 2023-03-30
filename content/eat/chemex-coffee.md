@@ -1,6 +1,6 @@
 ---
 title: "Chemex coffee"
-created: Feb 5, 2022
+created: 2022-02-05
 servings: 2
 cuisines:
 ingredients: []

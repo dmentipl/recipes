@@ -1,6 +1,6 @@
 ---
 title: "Pisco sour"
-created: Oct 8, 2021
+created: 2021-10-08
 alcohol: ["pisco"]
 mixers: ["lime juice", "sugar syrup", "egg white", "bitters"]
 ---

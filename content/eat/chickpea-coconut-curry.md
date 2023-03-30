@@ -1,6 +1,6 @@
 ---
 title: "Chickpea coconut curry"
-created: Jul 7, 2021
+created: 2021-07-07
 servings: 4
 cuisines: ["South Asian"]
 ingredients: ["legumes"]

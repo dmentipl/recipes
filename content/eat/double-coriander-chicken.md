@@ -1,6 +1,6 @@
 ---
 title: "Double coriander chicken"
-created: Jun 18, 2022
+created: 2022-06-18
 servings: 4
 cuisines: ["Southeast Asian"]
 ingredients: ["chicken"]

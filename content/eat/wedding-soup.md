@@ -1,6 +1,6 @@
 ---
 title: "Wedding soup"
-created: Aug 21, 2022
+created: 2022-08-21
 servings: 4
 cuisines: ["Italian"]
 ingredients: ["chicken", "pasta", "pork"]

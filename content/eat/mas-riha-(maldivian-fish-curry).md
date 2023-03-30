@@ -1,6 +1,6 @@
 ---
 title: "Mas riha (Maldivian fish curry)"
-created: Oct 8, 2021
+created: 2021-10-08
 servings: 2
 cuisines: ["South Asian"]
 ingredients: ["fish"]

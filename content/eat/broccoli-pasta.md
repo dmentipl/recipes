@@ -1,6 +1,6 @@
 ---
 title: "Broccoli pasta"
-created: Jun 21, 2022
+created: 2022-06-21
 servings: 2
 cuisines: ["Italian"]
 ingredients: ["pasta"]

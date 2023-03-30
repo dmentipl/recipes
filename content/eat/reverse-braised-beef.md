@@ -1,6 +1,6 @@
 ---
 title: "Reverse braised beef"
-created: Jul 19, 2021
+created: 2021-07-19
 servings: 6
 cuisines: ["North American"]
 ingredients: ["beef"]

@@ -1,6 +1,6 @@
 ---
 title: "Caipirinha"
-created: Oct 7, 2021
+created: 2021-10-07
 alcohol: ["cachaça"]
 mixers: ["lime juice", "sugar syrup"]
 ---

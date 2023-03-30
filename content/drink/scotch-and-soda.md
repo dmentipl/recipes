@@ -1,6 +1,6 @@
 ---
 title: "Scotch and soda"
-created: Jul 7, 2021
+created: 2021-07-07
 alcohol: ["Scotch"]
 mixers: ["soda water"]
 ---

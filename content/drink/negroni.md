@@ -1,6 +1,6 @@
 ---
 title: "Negroni"
-created: Jun 19, 2021
+created: 2021-06-19
 alcohol: ["Campari", "gin", "sweet vermouth"]
 mixers: []
 ---

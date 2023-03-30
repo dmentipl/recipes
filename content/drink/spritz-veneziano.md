@@ -1,6 +1,6 @@
 ---
 title: "Spritz Veneziano"
-created: Oct 8, 2021
+created: 2021-10-08
 alcohol: ["prosecco", "Aperol"]
 mixers: ["soda water"]
 ---

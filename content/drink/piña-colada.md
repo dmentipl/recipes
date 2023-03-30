@@ -1,6 +1,6 @@
 ---
 title: "Piña colada"
-created: Oct 8, 2021
+created: 2021-10-08
 alcohol: ["rum"]
 mixers: ["coconut milk", "pineapple juice"]
 ---

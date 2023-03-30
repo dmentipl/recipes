@@ -1,6 +1,6 @@
 ---
 title: "Corpse reviver no. 2"
-created: Jun 25, 2021
+created: 2021-06-25
 alcohol: ["gin", "triple sec", "Lillet Blanc", "absinthe"]
 mixers: ["lemon juice"]
 ---

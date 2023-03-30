@@ -1,6 +1,6 @@
 ---
 title: "Scofflaw"
-created: Jan 29, 2022
+created: 2022-01-29
 alcohol: ["rye whisky", "dry vermouth", "bitters"]
 mixers: ["grenadine", "lemon juice"]
 ---
