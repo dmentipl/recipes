@@ -29,4 +29,4 @@ This makes about 4 servings. Recipe derived from [Sohla El-Waylly at Serious Eat
 5. Add potato and chicken thighs to porridge. Cook gently until potatoes are tender, chicken is cooked through, and porridge is thickened, about 30 minutes, stirring occasionally to prevent sticking.
 6. Meanwhile, prepare the coriander chutney. In a small bowl, mix coriander and green chiles with lime juice and oil, then season with salt. Stir to combine.
 7. Remove chicken from porridge and transfer to a cutting board. When cool enough to handle, dice chicken into 1 cm pieces and return to porridge. Adjust seasoning to taste with kosher salt and freshly ground black pepper, and add water if porridge becomes too thick.
-8. Remove from heat and pour porridge into bowls. Serve with [Coriander chutney]({{< relref "coriander-chutney" >}}) and Crispy fried shallots.
+8. Remove from heat and pour porridge into bowls. Serve with [Coriander chutney]({{< relref "coriander-chutney" >}}) and [Crispy fried shallots]({{< relref "crispy-fried-shallots" >}}).

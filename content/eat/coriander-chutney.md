@@ -1,6 +1,5 @@
 ---
 title: "Coriander chutney"
-id: 49e7a797-58d1-422b-b4fa-8bf16512fc8f
 created: 2023-03-30
 modified:
 cuisines: ["South Asian"]
