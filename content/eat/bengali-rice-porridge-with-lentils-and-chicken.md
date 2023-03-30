@@ -1,34 +1,24 @@
 ---
 title: "Bengali rice porridge with lentils and chicken"
 created: 2022-05-21
-servings: 4
 cuisines: ["South Asian"]
 ingredients: ["chicken", "legumes", "rice"]
 collections:
 ---
 
+This makes about 4 servings. Recipe derived from [Sohla El-Waylly at Serious Eats](https://www.seriouseats.com/bengali-rice-porridge-with-lentils-and-chicken).
+
 ## Ingredients
 
-- 3/4 cup jasmine rice
-- 1 inch fresh turmeric or 1 teaspoon dried turmeric
-- 1 inch fresh ginger
+- 1/4 cup jasmine rice
+- 1 teaspoon dried turmeric
+- 2-3 cm fresh ginger
 - 2 tablespoons butter or ghee
 - 1/2 teaspoon Kashmiri red chilli powder
-- 1/4 cup red lentils
-- 6 cups (1.5 L) chicken stock
+- 3/4 cup red lentils
+- 1.5 L chicken stock
 - 2 medium potato, peeled, 1 cm dice
 - 400 g chicken thighs
-
-*Coriander chutney*
-
-- 1/2 bunch coriander, finely chopped
-- 2 Thai green chiles, finely chopped
-- 2 tablespoons (30 mL) lime juice
-- 2 tablespoons (30 mL) olive oil
-
-*To serve*
-
-- Crispy fried onions or shallots, for garnish
 
 ## Instructions
 
@@ -39,8 +29,4 @@ collections:
 5. Add potato and chicken thighs to porridge. Cook gently until potatoes are tender, chicken is cooked through, and porridge is thickened, about 30 minutes, stirring occasionally to prevent sticking.
 6. Meanwhile, prepare the coriander chutney. In a small bowl, mix coriander and green chiles with lime juice and oil, then season with salt. Stir to combine.
 7. Remove chicken from porridge and transfer to a cutting board. When cool enough to handle, dice chicken into 1 cm pieces and return to porridge. Adjust seasoning to taste with kosher salt and freshly ground black pepper, and add water if porridge becomes too thick.
-8. Remove from heat and pour porridge into bowls. Garnish with coriander chutney and crispy fried shallots to taste.
-
-## Notes
-
-Recipe derived from [Sohla El-Waylly at Serious Eats](https://www.seriouseats.com/bengali-rice-porridge-with-lentils-and-chicken).
+8. Remove from heat and pour porridge into bowls. Serve with [Coriander chutney]({{< relref "coriander-chutney" >}}) and Crispy fried shallots.
