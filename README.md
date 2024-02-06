@@ -4,11 +4,7 @@ Recipes written in markdown and generated with Hugo.
 
 ## Requirements
 
-Get hugo. If you're using nix, try the following.
-
-```bash
-nix-shell -p hugo --run fish
-```
+Get hugo.
 
 ## Usage
 
