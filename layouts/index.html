@@ -1,3 +1,29 @@
 {{ define "main" }}
-{{ .Content }}
+<content>
+  {{ if .Data.Singular }}
+  {{else}}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <div>
+    <b>Explore by ingredient:</b>
+    {{ range .Site.Taxonomies.ingredients }}
+    <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+    {{ end }}
+  </div>
+  <br>
+  <div>
+    <b>Explore by cuisine:</b>
+    {{ range .Site.Taxonomies.cuisines }}
+    <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+    {{ end }}
+  </div>
+  <br>
+  <div>
+    <b>Explore by collection:</b>
+    {{ range .Site.Taxonomies.collections }}
+    <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+    {{ end }}
+  </div>
+  {{ end }}
+</content>
 {{ end }}

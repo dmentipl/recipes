@@ -1,3 +1,5 @@
-### Hi, I'm [Daniel Mentiplay](https://danielmentiplay.com)
++++
+title = "Recipes collected by Daniel Mentiplay"
++++
 
-This is where I keep collections of recipes for [eating](eat) and [drinking](drink) to share with family, friends, and others. Feel free to [explore](explore) by cuisine, ingredient, and collection. If you're interested, further details [about](about) this site are available.
+Here is a collection of [recipes](recipes) to share with family, friends, and others. Feel free to explore by ingredient, cuisine, or collection below. If you're interested, further details [about](about) this site are available.

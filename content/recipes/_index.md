@@ -1,4 +1,3 @@
 +++
 title = "Eat"
-menu = "main"
 +++

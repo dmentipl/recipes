@@ -3,7 +3,7 @@
 baseURL = "https://recipes.danielmentiplay.com"
 
 # Basic metadata configuration for your blog.
-title = "Recipes"
+title = "Recipes collected by Daniel Mentiplay"
 author = "Daniel Mentiplay"
 copyright = "Copyright © 2022, Daniel Mentiplay."
 languageCode = "en-US"
@@ -12,17 +12,13 @@ languageCode = "en-US"
 enableRobotsTXT = true
 
 [taxonomies]
-  # Eat
   ingredients = "ingredients"
   collections = 'collections'
   cuisines = "cuisines"
-  # Drink
-  alcohol = "alcohol"
-  mixers = "mixers"
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
-  description = "Recipes curated by Daniel Mentiplay"
+  description = "Recipes collected by Daniel Mentiplay"
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
@@ -37,7 +33,7 @@ enableRobotsTXT = true
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Recipes"
+  title = "Recipes collected by Daniel Mentiplay"
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).
@@ -49,3 +45,6 @@ enableRobotsTXT = true
   # for details. An example TOML config that uses [ISO
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
   # dateFormat = "2006-01-02"
+
+[permalinks]
+recipes = "/:slug"
