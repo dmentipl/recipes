@@ -1,3 +1,3 @@
 +++
-title = "Eat"
+title = "List of recipes"
 +++
