@@ -1,11 +1,15 @@
 ---
 title: "Slow-roast lamb shoulder"
 created: 2021-10-08
-servings: 6
-cuisines: ["European"]
-ingredients: ["lamb"]
-collections: ["roast"]
+modified:
+cuisines:
+  - European
+ingredients:
+  - lamb
+collections:
+  - roast
 ---
+
 
 ## Ingredients
 

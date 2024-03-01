@@ -1,11 +1,13 @@
 ---
 title: "Rich sugar syrup"
 created: 2021-07-18
-servings:
+modified:
 cuisines:
 ingredients:
-collections: ["basics"]
+collections:
+  - basics
 ---
+
 
 ## Ingredients
 

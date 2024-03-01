@@ -1,11 +1,15 @@
 ---
 title: "Beef rendang"
 created: 2021-10-08
-servings: 4
-cuisines: ["Indonesian"]
-ingredients: ["beef"]
-collections: ["curry"]
+modified:
+cuisines:
+  - Indonesian
+ingredients:
+  - beef
+collections:
+  - curry
 ---
+
 
 ## Ingredients
 

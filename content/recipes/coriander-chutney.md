@@ -2,10 +2,14 @@
 title: "Coriander chutney"
 created: 2023-03-30
 modified:
-cuisines: ["South Asian"]
-ingredients: ["herbs"]
-collections: ["sauces"]
+cuisines:
+  - South Asian
+ingredients:
+  - herbs
+collections:
+  - sauces
 ---
+
 
 This chutney goes well with [Bengali rice porridge with lentils and chicken]({{< relref "bengali-rice-porridge-with-lentils-and-chicken" >}}). Recipe derived from [Sohla El-Waylly at Serious Eats](https://www.seriouseats.com/bengali-rice-porridge-with-lentils-and-chicken).
 

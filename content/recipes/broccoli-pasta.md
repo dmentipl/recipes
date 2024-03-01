@@ -1,11 +1,15 @@
 ---
 title: "Broccoli pasta"
 created: 2022-06-21
-servings: 2
-cuisines: ["Italian"]
-ingredients: ["pasta"]
-collections: ["vegetarian"]
+modified:
+cuisines:
+  - Italian
+ingredients:
+  - pasta
+collections:
+  - vegetarian
 ---
+
 
 ## Ingredients
 

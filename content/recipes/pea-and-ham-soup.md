@@ -1,11 +1,16 @@
 ---
 title: "Pea and ham soup"
 created: 2021-07-18
-servings: 6
-cuisines: ["European"]
-ingredients: ["legumes", "pork"]
-collections: ["soup"]
+modified:
+cuisines:
+  - European
+ingredients:
+  - legumes
+  - pork
+collections:
+  - soup
 ---
+
 
 ## Ingredients
 

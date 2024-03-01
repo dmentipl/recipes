@@ -1,11 +1,14 @@
 ---
 title: "Chickpeas (pressure cooker)"
 created: 2021-07-25
-servings: 6
+modified:
 cuisines:
-ingredients: ["legumes"]
-collections: ["basics"]
+ingredients:
+  - legumes
+collections:
+  - basics
 ---
+
 
 ## Ingredients
 

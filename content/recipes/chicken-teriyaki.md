@@ -1,11 +1,14 @@
 ---
 title: "Chicken teriyaki"
 created: 2022-05-11
-servings: 4
-cuisines: ["Japanese"]
-ingredients: ["chicken"]
+modified:
+cuisines:
+  - Japanese
+ingredients:
+  - chicken
 collections:
 ---
+
 
 ## Ingredients
 

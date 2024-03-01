@@ -1,11 +1,17 @@
 ---
 title: "Oyakodon"
 created: 2021-07-18
-servings: 2
-cuisines: ["Japanese"]
-ingredients: ["chicken", "eggs", "rice"]
-collections: ["easy"]
+modified:
+cuisines:
+  - Japanese
+ingredients:
+  - chicken
+  - eggs
+  - rice
+collections:
+  - easy
 ---
+
 
 ## Ingredients
 

@@ -1,11 +1,17 @@
 ---
 title: "Falafel"
 created: 2021-07-18
-servings: 4
-cuisines: ["Middle Eastern"]
-ingredients: ["legumes"]
-collections: ["fried", "vegan", "vegetarian"]
+modified:
+cuisines:
+  - Middle Eastern
+ingredients:
+  - legumes
+collections:
+  - fried
+  - vegan
+  - vegetarian
 ---
+
 
 ## Ingredients
 

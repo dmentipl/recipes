@@ -1,11 +1,15 @@
 ---
 title: "Baja fish tacos"
 created: 2021-06-19
-servings: 4
-cuisines: ["Mexican"]
-ingredients: ["fish"]
-collections: ["fried"]
+modified:
+cuisines:
+  - Mexican
+ingredients:
+  - fish
+collections:
+  - fried
 ---
+
 
 ## Ingredients
 

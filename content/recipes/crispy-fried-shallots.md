@@ -2,10 +2,12 @@
 title: "Crispy fried shallots"
 created: 2023-03-30
 modified:
-cuisines: []
-ingredients: []
-collections: []
+cuisines:
+ingredients:
+collections:
+  - basics
 ---
+
 
 ## Ingredients
 

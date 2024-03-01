@@ -1,11 +1,16 @@
 ---
 title: "Porridge"
 created: 2021-07-21
-servings: 1
-cuisines: ["European"]
-ingredients: ["grains"]
-collections: ["basics", "breakfast"]
+modified:
+cuisines:
+  - European
+ingredients:
+  - grains
+collections:
+  - basics
+  - breakfast
 ---
+
 
 ## Ingredients
 

@@ -1,11 +1,17 @@
 ---
 title: "Vegetarian soy-milk ramen"
 created: 2021-10-08
-servings: 2
-cuisines: ["Japanese"]
-ingredients: ["noodles"]
-collections: ["soup", "vegan", "vegetarian"]
+modified:
+cuisines:
+  - Japanese
+ingredients:
+  - noodles
+collections:
+  - soup
+  - vegan
+  - vegetarian
 ---
+
 
 ## Ingredients
 

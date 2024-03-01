@@ -1,11 +1,15 @@
 ---
 title: "Black beans"
 created: 2021-07-25
-servings: 4
-cuisines: ["Mexican"]
-ingredients: ["legumes"]
-collections: ["basics"]
+modified:
+cuisines:
+  - Mexican
+ingredients:
+  - legumes
+collections:
+  - basics
 ---
+
 
 ## Ingredients
 

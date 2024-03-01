@@ -1,11 +1,18 @@
 ---
 title: "Pasta e fagioli"
 created: 2021-07-18
-servings: 3
-cuisines: ["Italian"]
-ingredients: ["legumes", "pasta"]
-collections: ["stew", "vegan", "vegetarian"]
+modified:
+cuisines:
+  - Italian
+ingredients:
+  - legumes
+  - pasta
+collections:
+  - stew
+  - vegan
+  - vegetarian
 ---
+
 
 ## Ingredients
 

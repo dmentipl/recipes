@@ -1,11 +1,16 @@
 ---
 title: "Chilli con carne"
 created: 2021-10-08
-servings: 4
-cuisines: ["North American"]
-ingredients: ["beef", "legumes"]
-collections: ["stew"]
+modified:
+cuisines:
+  - North American
+ingredients:
+  - beef
+  - legumes
+collections:
+  - stew
 ---
+
 
 ## Ingredients
 

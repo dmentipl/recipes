@@ -1,11 +1,17 @@
 ---
 title: "Chilli con veggie"
 created: 2021-07-18
-servings: 8
-cuisines: ["North American"]
-ingredients: ["legumes"]
-collections: ["stew", "vegan", "vegetarian"]
+modified:
+cuisines:
+  - North American
+ingredients:
+  - legumes
+collections:
+  - stew
+  - vegan
+  - vegetarian
 ---
+
 
 ## Ingredients
 

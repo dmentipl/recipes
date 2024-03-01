@@ -1,11 +1,14 @@
 ---
 title: "Rice bowl"
 created: 2022-09-12
-servings:
+modified:
 cuisines:
-ingredients: ["rice"]
-collections: ["easy"]
+ingredients:
+  - rice
+collections:
+  - easy
 ---
+
 
 ## Ingredients
 

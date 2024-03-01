@@ -1,10 +1,16 @@
 ---
 title: "Bengali rice porridge with lentils and chicken"
 created: 2022-05-21
-cuisines: ["South Asian"]
-ingredients: ["chicken", "legumes", "rice"]
+modified: 2023-03-31
+cuisines:
+  - South Asian
+ingredients:
+  - chicken
+  - legumes
+  - rice
 collections:
 ---
+
 
 This makes about 4 servings. Recipe derived from [Sohla El-Waylly at Serious Eats](https://www.seriouseats.com/bengali-rice-porridge-with-lentils-and-chicken).
 

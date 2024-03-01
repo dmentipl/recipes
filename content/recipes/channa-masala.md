@@ -1,11 +1,16 @@
 ---
 title: "Channa masala"
 created: 2021-07-18
-servings: 4
-cuisines: ["Indian"]
-ingredients: ["legumes"]
-collections: ["vegan", "vegetarian"]
+modified:
+cuisines:
+  - Indian
+ingredients:
+  - legumes
+collections:
+  - vegan
+  - vegetarian
 ---
+
 
 ## Ingredients
 

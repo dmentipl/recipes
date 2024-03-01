@@ -1,11 +1,15 @@
 ---
 title: "Southern fried chicken"
 created: 2021-10-08
-servings: 4
-cuisines: ["North American"]
-ingredients: ["chicken"]
-collections: ["fried"]
+modified:
+cuisines:
+  - North American
+ingredients:
+  - chicken
+collections:
+  - fried
 ---
+
 
 ## Ingredients
 

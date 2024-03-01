@@ -1,11 +1,16 @@
 ---
 title: "Cauliflower puree"
 created: 2021-07-18
-servings: 4
-cuisines: ["European"]
-ingredients: ["vegetables"]
-collections: ["sides", "vegetarian"]
+modified:
+cuisines:
+  - European
+ingredients:
+  - vegetables
+collections:
+  - sides
+  - vegetarian
 ---
+
 
 ## Ingredients
 

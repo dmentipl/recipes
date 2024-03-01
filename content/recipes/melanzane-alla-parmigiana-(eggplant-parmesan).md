@@ -1,11 +1,17 @@
 ---
 title: "Melanzane alla Parmigiana (eggplant Parmesan)"
 created: 2021-10-08
-servings: 4
-cuisines: ["Italian"]
-ingredients: ["cheese", "vegetables"]
-collections: ["baked", "vegetarian"]
+modified:
+cuisines:
+  - Italian
+ingredients:
+  - cheese
+  - vegetables
+collections:
+  - baked
+  - vegetarian
 ---
+
 
 ## Ingredients
 

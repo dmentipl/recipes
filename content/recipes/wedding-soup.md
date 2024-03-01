@@ -1,11 +1,17 @@
 ---
 title: "Wedding soup"
 created: 2022-08-21
-servings: 4
-cuisines: ["Italian"]
-ingredients: ["chicken", "pasta", "pork"]
-collections: ["soup"]
+modified:
+cuisines:
+  - Italian
+ingredients:
+  - chicken
+  - pasta
+  - pork
+collections:
+  - soup
 ---
+
 
 ## Ingredients
 

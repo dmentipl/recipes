@@ -1,11 +1,18 @@
 ---
 title: "Cannellini, potato, and spinach soup"
 created: 2021-07-07
-servings: 4
-cuisines: ["Italian"]
-ingredients: ["legumes"]
-collections: ["easy", "soup", "vegan", "vegetarian"]
+modified:
+cuisines:
+  - Italian
+ingredients:
+  - legumes
+collections:
+  - easy
+  - soup
+  - vegan
+  - vegetarian
 ---
+
 
 ## Ingredients
 

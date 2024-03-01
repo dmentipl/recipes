@@ -1,11 +1,15 @@
 ---
 title: "Black bean burgers"
 created: 2021-07-18
-servings: 6
-cuisines: ["North American"]
-ingredients: ["legumes"]
-collections: ["vegetarian"]
+modified:
+cuisines:
+  - North American
+ingredients:
+  - legumes
+collections:
+  - vegetarian
 ---
+
 
 ## Ingredients
 

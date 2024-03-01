@@ -1,11 +1,18 @@
 ---
 title: "Chickpea coconut curry"
 created: 2021-07-07
-servings: 4
-cuisines: ["South Asian"]
-ingredients: ["legumes"]
-collections: ["curry", "easy", "vegan", "vegetarian"]
+modified:
+cuisines:
+  - South Asian
+ingredients:
+  - legumes
+collections:
+  - curry
+  - easy
+  - vegan
+  - vegetarian
 ---
+
 
 ## Ingredients
 

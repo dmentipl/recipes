@@ -1,11 +1,15 @@
 ---
 title: "Karaage"
 created: 2021-12-30
-servings: 4
-cuisines: ["Japanese"]
-ingredients: ["chicken"]
-collections: ["fried"]
+modified:
+cuisines:
+  - Japanese
+ingredients:
+  - chicken
+collections:
+  - fried
 ---
+
 
 ## Ingredients
 

@@ -1,11 +1,16 @@
 ---
 title: "Fried cauliflower"
 created: 2021-10-08
-servings: 4
-cuisines: ["North American"]
-ingredients: ["fried"]
-collections: ["vegan", "vegetarian"]
+modified:
+cuisines:
+  - North American
+ingredients:
+  - fried
+collections:
+  - vegan
+  - vegetarian
 ---
+
 
 ## Ingredients
 
